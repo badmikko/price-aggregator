@@ -4,8 +4,8 @@
 | Brand Name      | 鈣思寶                                                            |
 | Store Name      | HKTVMall - Lets Bazaar Company Limited                         |
 | Packing Spec    |                                                                |
-| purchasable     | true                                                           |
+| Purchasable     | true                                                           |
 | Regular Price   | 45.00                                                          |
 | Best Price      | 36.00                                                          |
-| Unit Price      | 2.4                                                            |
+| Unit Price      | 2.40                                                           |
 | Unit Price Unit | 100ml                                                          |

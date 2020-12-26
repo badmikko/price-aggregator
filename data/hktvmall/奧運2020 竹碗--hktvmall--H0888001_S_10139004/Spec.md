@@ -4,8 +4,8 @@
 | Brand Name      | 可口可樂           |
 | Store Name      | HKTVMall - 大街市 |
 | Packing Spec    | 1個             |
-| purchasable     | true           |
+| Purchasable     | true           |
 | Regular Price   | 0.00           |
 | Best Price      | 0.00           |
-| Unit Price      | 0.0            |
+| Unit Price      | 0.00           |
 | Unit Price Unit | item           |

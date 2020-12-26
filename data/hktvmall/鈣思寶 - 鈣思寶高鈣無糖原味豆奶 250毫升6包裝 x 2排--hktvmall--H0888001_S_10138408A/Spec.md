@@ -4,8 +4,8 @@
 | Brand Name      | 鈣思寶                                        |
 | Store Name      | HKTVMall - 維他奶 / 維他                        |
 | Packing Spec    | 250毫升 x 6 x 2                              |
-| purchasable     | true                                       |
+| Purchasable     | true                                       |
 | Regular Price   | 55.80                                      |
 | Best Price      | 43.80                                      |
-| Unit Price      | 1.5                                        |
+| Unit Price      | 1.46                                       |
 | Unit Price Unit | 100ml                                      |

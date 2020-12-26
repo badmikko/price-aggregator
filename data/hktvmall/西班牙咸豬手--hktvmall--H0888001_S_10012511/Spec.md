@@ -4,8 +4,8 @@
 | Brand Name      | 高雲                               |
 | Store Name      | HKTVMall - 食尚煮意                  |
 | Packing Spec    | 約700克^                           |
-| purchasable     | true                             |
+| Purchasable     | true                             |
 | Regular Price   | 49.90                            |
 | Best Price      | 44.90                            |
-| Unit Price      | 45                               |
+| Unit Price      | 44.90                            |
 | Unit Price Unit | pack                             |

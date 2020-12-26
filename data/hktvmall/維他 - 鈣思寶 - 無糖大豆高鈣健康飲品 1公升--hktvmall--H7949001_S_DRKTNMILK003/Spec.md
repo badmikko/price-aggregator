@@ -4,8 +4,8 @@
 | Brand Name      | 維他                   |
 | Store Name      | HKTVMall - CC零食      |
 | Packing Spec    | 1L                   |
-| purchasable     | false                |
+| Purchasable     | false                |
 | Regular Price   | 33.90                |
 | Best Price      | 23.90                |
-| Unit Price      | 2.4                  |
+| Unit Price      | 2.39                 |
 | Unit Price Unit | 100ml                |

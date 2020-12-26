@@ -4,8 +4,8 @@
 | Brand Name      | 威露士                 |
 | Store Name      | HKTVMall - 威露士官方旗艦店 |
 | Packing Spec    | 280 毫升              |
-| purchasable     | true                |
+| Purchasable     | true                |
 | Regular Price   | 38.90               |
 | Best Price      | 32.90               |
-| Unit Price      | 12                  |
+| Unit Price      | 11.75               |
 | Unit Price Unit | 100ml               |

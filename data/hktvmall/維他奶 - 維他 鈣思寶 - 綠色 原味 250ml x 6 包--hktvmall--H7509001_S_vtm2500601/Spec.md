@@ -4,8 +4,8 @@
 | Brand Name      | 維他奶                        |
 | Store Name      | HKTVMall - KL貨棧            |
 | Packing Spec    |                            |
-| purchasable     | true                       |
+| Purchasable     | true                       |
 | Regular Price   | 48.00                      |
 | Best Price      | 34.00                      |
-| Unit Price      | 2.3                        |
+| Unit Price      | 2.27                       |
 | Unit Price Unit | 100ml                      |

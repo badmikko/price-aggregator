@@ -4,8 +4,8 @@
 | Brand Name      | 金象牌                               |
 | Store Name      | HKTVMall - 金源米業                   |
 | Packing Spec    | 8公斤                               |
-| purchasable     | true                              |
+| Purchasable     | true                              |
 | Regular Price   | 129.90                            |
 | Best Price      | 110.90                            |
-| Unit Price      | 14                                |
+| Unit Price      | 13.86                             |
 | Unit Price Unit | kg                                |
