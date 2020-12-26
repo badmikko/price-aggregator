@@ -7,5 +7,5 @@
 | Purchasable     | true                                   |
 | Regular Price   | 45.90                                  |
 | Best Price      | 34.90                                  |
-| Unit Price      | 1.16                                   |
-| Unit Price Unit | 100ml                                  |
+| Unit Price      | 2.91                                   |
+| Unit Price Unit | 250ml                                  |
