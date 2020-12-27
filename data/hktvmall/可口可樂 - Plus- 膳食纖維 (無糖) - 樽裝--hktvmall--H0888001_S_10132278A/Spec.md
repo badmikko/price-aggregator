@@ -8,5 +8,5 @@
 | Purchasable     | true                                            |
 | Regular Price   | 19.80                                           |
 | Best Price      | 16.90                                           |
-| Unit Price      | 0.02                                            |
+| Unit Price      | 5.58                                            |
 | Unit Price Unit | 330ml                                           |

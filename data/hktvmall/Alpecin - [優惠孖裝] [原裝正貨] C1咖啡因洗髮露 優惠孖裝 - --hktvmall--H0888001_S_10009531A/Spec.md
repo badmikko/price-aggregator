@@ -9,4 +9,4 @@
 | Regular Price   | 158.00                                          |
 | Best Price      | 145.80                                          |
 | Unit Price      | 72.90                                           |
-| Unit Price Unit | 250ml x 2                                       |
+| Unit Price Unit | 250ml                                           |
