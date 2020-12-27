@@ -119,11 +119,11 @@
                 _subclass = $(subel).attr('class') ? ' ' + $(subel).attr('class') : '';
                 _subdisabled = $(subel).attr('disabled') ? ' isdisabled' : '';
                 _subisselect = $(subel).attr('selected') ? ' isselected' : '';
-                _subopt.push('<li class="qtagselect__option' + _subclass + _subdisabled + _subisselect + '" data-rid="' + id + '" ' + _subval + _subtitle + '>' + $(subel).html() + '</li>');
+                _subopt.push('<li class="qtagselect__option' + _subclass + _subdisabled + _subisselect + '" data-rid="' + id + '" ' + _subval + _subtitle + '><span>' + $(subel).html() + '</span></li>');
               })
               _opt.push('<li class="qtagselect__group' + _class + _isdisabled + '"><div class="qtagselect__group_label">' + $(el).attr('label') + '</div><ul>' + _subopt.join('') + '</ul></li>')
             } else {
-              _opt.push('<li class="qtagselect__option' + _class + _isdisabled + _isselected + '" data-rid="' + id + '" ' + _val + _title + '>' + $(el).html() + '</li>');
+              _opt.push('<li class="qtagselect__option' + _class + _isdisabled + _isselected + '" data-rid="' + id + '" ' + _val + _title + '><span>' + $(el).html() + '</span></li>');
             }
           })
           // _drop = '<div class="qtagselect__drop' + (settings.dropClass === '' ? '' : ' ' + settings.dropClass) + '"><ul class="qtagselect__results">' + _opt.join('') + '</ul></div>';
@@ -169,7 +169,7 @@
           // console.log(ul.find('.qtagselect__choice').length)
           if (ul.find('.qtagselect__choice').length < settings.maxTag) {
             _class = _this.attr('class').slice(19);
-            ul.append('<li class="qtagselect__choice ' + _class + '" data-cid="' + _this.attr("data-rid") + '"><span>' + _this.html() + '</span><a class="qtagselect__del"></a></li>');
+            ul.append('<li class="qtagselect__choice ' + _class + '" data-cid="' + _this.attr("data-rid") + '">' + _this.html() + '<a class="qtagselect__del"></a></li>');
             _this.addClass('isselected');
             if (parent.find('.qtagselect__select').val() == _this.attr('data-value')) {
 
