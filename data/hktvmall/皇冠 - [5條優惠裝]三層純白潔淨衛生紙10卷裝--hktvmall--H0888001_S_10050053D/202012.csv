@@ -1,2 +1,3 @@
 Date,Purchasable,Regular Price,Best Price,Unit Price,Promotions,Remarks
-2020-12-27,true,230.00,165.00,3.30,,
+2020-12-27,true,230,165,3.3,,
+2020-12-28,false,230.00,165.00,3.30,,
