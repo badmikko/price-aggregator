@@ -4,6 +4,7 @@
 | Brand Name      | 鈣思寶                                                                   |
 | Store Name      | HKTVMall - Lets Bazaar Company Limited                                |
 | Packing Spec    |                                                                       |
+| link            | https://www.hktvmall.com/p/H8032001_S_MI-00034                        |
 | Purchasable     | true                                                                  |
 | Regular Price   | 160.00                                                                |
 | Best Price      | 135.00                                                                |
