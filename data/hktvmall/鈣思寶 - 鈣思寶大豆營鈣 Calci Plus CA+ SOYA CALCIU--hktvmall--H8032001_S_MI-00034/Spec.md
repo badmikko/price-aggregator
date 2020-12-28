@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - Lets Bazaar Company Limited                                |
 | Packing Spec    |                                                                       |
 | link            | https://www.hktvmall.com/p/H8032001_S_MI-00034                        |
-| Purchasable     | false                                                                 |
+| Purchasable     | true                                                                  |
 | Regular Price   | 160.00                                                                |
 | Best Price      | 135.00                                                                |
 | Unit Price      | 5.63                                                                  |

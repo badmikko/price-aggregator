@@ -1,22 +1,18 @@
 [
   {
-    "name": "廁紙",
+    "name": "濾水器",
     "color": "blue"
   },
   {
-    "name": "廚房紙",
-    "color": "blue"
-  },
-  {
-    "name": "洗衣液",
-    "color": "blue"
-  },
-  {
-    "name": "漱口水",
+    "name": "王將餃子",
     "color": "blue"
   },
   {
     "name": "金象米",
+    "color": "blue"
+  },
+  {
+    "name": "洗衣液",
     "color": "blue"
   },
   {
@@ -32,7 +28,19 @@
     "color": "blue"
   },
   {
-    "name": "王將餃子",
+    "name": "蒸餾水",
+    "color": "blue"
+  },
+  {
+    "name": "漱口水",
+    "color": "blue"
+  },
+  {
+    "name": "廁紙",
+    "color": "blue"
+  },
+  {
+    "name": "廚房紙",
     "color": "blue"
   },
   {
@@ -40,23 +48,15 @@
     "color": "blue"
   },
   {
-    "name": "蒸餾水",
-    "color": "blue"
-  },
-  {
-    "name": "濾水器",
-    "color": "blue"
-  },
-  {
-    "name": "Lisa",
-    "color": "purple"
-  },
-  {
     "name": "Bart",
     "color": "purple"
   },
   {
     "name": "Grampa",
+    "color": "purple"
+  },
+  {
+    "name": "Lisa",
     "color": "purple"
   }
 ]
