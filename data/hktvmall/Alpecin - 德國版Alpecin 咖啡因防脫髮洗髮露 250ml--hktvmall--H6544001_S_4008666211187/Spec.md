@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 優買                                       |
 | Packing Spec    |                                                     |
 | link            | https://www.hktvmall.com/p/H6544001_S_4008666211187 |
-| Purchasable     | true                                                |
+| Purchasable     | false                                               |
 | Regular Price   | 90.00                                               |
 | Best Price      | 60.00                                               |
 | Unit Price      | 60.00                                               |

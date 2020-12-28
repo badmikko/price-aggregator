@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - Ocean One                        |
 | Packing Spec    |                                             |
 | link            | https://www.hktvmall.com/p/H6242001_S_11187 |
-| Purchasable     | true                                        |
+| Purchasable     | false                                       |
 | Regular Price   | 128.00                                      |
 | Best Price      | 60.00                                       |
 | Unit Price      | 60.00                                       |
