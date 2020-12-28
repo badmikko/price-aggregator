@@ -4865,7 +4865,10 @@
       null,
       1887.67
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -4910,7 +4913,10 @@
       null,
       1985
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -4955,7 +4961,10 @@
       null,
       1409
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -5000,7 +5009,10 @@
       null,
       2094
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -5045,6 +5057,9 @@
       null,
       2118
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   }
 ]

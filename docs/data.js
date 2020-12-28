@@ -4865,7 +4865,10 @@ var tableData = [
       null,
       1887.67
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -4910,7 +4913,10 @@ var tableData = [
       null,
       1985
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -4955,7 +4961,10 @@ var tableData = [
       null,
       1409
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -5000,7 +5009,10 @@ var tableData = [
       null,
       2094
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   },
   {
     "packingSpec": "null",
@@ -5045,7 +5057,10 @@ var tableData = [
       null,
       2118
     ],
-    "lowestForDays": 0
+    "lowestForDays": 0,
+    "tags": [
+      "濾水器"
+    ]
   }
 ];
     var tags = [
@@ -5091,6 +5106,10 @@ var tableData = [
   },
   {
     "name": "蒸餾水",
+    "color": "blue"
+  },
+  {
+    "name": "濾水器",
     "color": "blue"
   },
   {
