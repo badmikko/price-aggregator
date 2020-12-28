@@ -44,11 +44,15 @@
     "color": "blue"
   },
   {
-    "name": "Zoro",
+    "name": "Lisa",
     "color": "purple"
   },
   {
-    "name": "Chopper",
+    "name": "Bart",
+    "color": "purple"
+  },
+  {
+    "name": "Grampa",
     "color": "purple"
   }
 ]
