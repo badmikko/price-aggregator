@@ -39,7 +39,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2118,
       2118
     ],
     "lowestForDays": 0,
@@ -87,7 +87,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      1409,
       1409
     ],
     "lowestForDays": 0,
@@ -135,7 +135,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      1985,
       1985
     ],
     "lowestForDays": 0,
@@ -183,7 +183,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2094,
       2094
     ],
     "lowestForDays": 0,
@@ -231,7 +231,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      1887.67,
       1887.67
     ],
     "lowestForDays": 0,
@@ -278,7 +278,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      29,
       29,
       29
     ],
@@ -326,9 +326,9 @@ var tableData = [
       null,
       null,
       null,
+      19.45,
+      19.45,
       null,
-      19.45,
-      19.45,
       null
     ],
     "lowestForDays": 0,
@@ -375,7 +375,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.98,
       5.98,
       5.98
     ],
@@ -423,7 +423,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.79,
       5.79,
       5.79
     ],
@@ -471,8 +471,8 @@ var tableData = [
       null,
       null,
       null,
-      null,
       7.98,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -518,7 +518,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.72,
       3.72,
       3.72,
       3.72
@@ -566,7 +566,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2.91,
       2.91,
       2.91,
       2.91
@@ -614,7 +614,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2.79,
       2.79,
       2.79,
       2.79
@@ -663,7 +663,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      74.9,
       74.9,
       74.9
     ],
@@ -712,7 +712,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      72.9,
       72.9,
       72.9
     ],
@@ -760,7 +760,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      44.9,
       44.9,
       44.9,
       44.9
@@ -805,7 +805,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.65,
       3.65,
       3.65,
       3.65
@@ -823,7 +823,7 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10015024C",
     "purchasable": "true",
     "regularPrice": "119.90",
-    "bestPrice": "82.60",
+    "bestPrice": "82.50",
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
@@ -853,7 +853,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.44,
       3.44,
       3.44,
       3.44
@@ -901,7 +901,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      15.98,
       15.98,
       15.98,
       15.98
@@ -949,7 +949,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      13.86,
       13.86,
       13.86,
       13.86
@@ -998,7 +998,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      13.63,
       13.63,
       13.63,
       13.63
@@ -1048,7 +1048,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      80.1,
       80.1,
       80.1
     ],
@@ -1194,7 +1194,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      52.36,
       52.36,
       52.36,
       52.36
@@ -1240,7 +1240,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2.36,
       2.36,
       2.36
     ],
@@ -1288,7 +1288,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.87,
       0.87,
       0.87
     ],
@@ -1336,7 +1336,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.66,
       0.66,
       0.66
     ],
@@ -1384,7 +1384,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.65,
       0.65,
       0.65
     ],
@@ -1432,7 +1432,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.26,
       0.26,
       0.26
     ],
@@ -1480,7 +1480,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.93,
       0.93,
       0.93
     ],
@@ -1528,7 +1528,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.66,
       0.66,
       0.66
     ],
@@ -1576,7 +1576,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.65,
       0.65,
       0.65
     ],
@@ -1624,7 +1624,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.52,
       0.52,
       0.52
     ],
@@ -1672,7 +1672,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.49,
       3.49,
       3.49
     ],
@@ -1720,7 +1720,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.35,
       3.35,
       3.35
     ],
@@ -1767,12 +1767,12 @@ var tableData = [
       null,
       null,
       null,
-      null,
       4.99,
       4.99,
+      5.49,
       5.49
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "漱口水",
       "Lisa"
@@ -1816,12 +1816,12 @@ var tableData = [
       null,
       null,
       null,
-      null,
       3.99,
       3.99,
+      4.66,
       4.66
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "漱口水",
       "Lisa"
@@ -1835,104 +1835,8 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10050052B",
     "purchasable": "true",
     "regularPrice": "143.70",
-    "bestPrice": "100.00",
-    "unitPrice": "3.33",
-    "unitPriceUnit": "roll",
-    "historical": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      3.33
-    ],
-    "lowestForDays": 0,
-    "tags": [
-      "廁紙"
-    ]
-  },
-  {
-    "name": "[5條優惠裝]三層棉柔舒適衛生紙10卷裝",
-    "brandName": "皇冠",
-    "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
-    "packingSpec": "10卷x5條",
-    "link": "https://www.hktvmall.com/p/H0888001_S_10050052D",
-    "purchasable": "true",
-    "regularPrice": "230.00",
-    "bestPrice": "165.00",
-    "unitPrice": "3.30",
-    "unitPriceUnit": "roll",
-    "historical": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      11,
-      null,
-      3.3
-    ],
-    "lowestForDays": 0,
-    "tags": [
-      "廁紙"
-    ]
-  },
-  {
-    "name": "[3條優惠裝] 三層純白衛生紙",
-    "brandName": "皇冠",
-    "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
-    "packingSpec": "10卷 x 3",
-    "link": "https://www.hktvmall.com/p/H0888001_S_10050053B",
-    "purchasable": "true",
-    "regularPrice": "143.70",
-    "bestPrice": "100.00",
-    "unitPrice": "3.33",
+    "bestPrice": "112.50",
+    "unitPrice": "3.75",
     "unitPriceUnit": "roll",
     "historical": [
       null,
@@ -1964,9 +1868,105 @@ var tableData = [
       null,
       null,
       3.33,
-      3.33
+      3.75
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
+    "tags": [
+      "廁紙"
+    ]
+  },
+  {
+    "name": "[5條優惠裝]三層棉柔舒適衛生紙10卷裝",
+    "brandName": "皇冠",
+    "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
+    "packingSpec": "10卷x5條",
+    "link": "https://www.hktvmall.com/p/H0888001_S_10050052D",
+    "purchasable": "true",
+    "regularPrice": "230.00",
+    "bestPrice": "170.00",
+    "unitPrice": "3.40",
+    "unitPriceUnit": "roll",
+    "historical": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      11,
+      null,
+      3.3,
+      3.4
+    ],
+    "lowestForDays": 1,
+    "tags": [
+      "廁紙"
+    ]
+  },
+  {
+    "name": "[3條優惠裝] 三層純白衛生紙",
+    "brandName": "皇冠",
+    "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
+    "packingSpec": "10卷 x 3",
+    "link": "https://www.hktvmall.com/p/H0888001_S_10050053B",
+    "purchasable": "true",
+    "regularPrice": "143.70",
+    "bestPrice": "112.50",
+    "unitPrice": "3.75",
+    "unitPriceUnit": "roll",
+    "historical": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      3.33,
+      3.33,
+      3.75
+    ],
+    "lowestForDays": 1,
     "tags": [
       "廁紙"
     ]
@@ -1979,11 +1979,10 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10050053D",
     "purchasable": "true",
     "regularPrice": "230.00",
-    "bestPrice": "165.00",
-    "unitPrice": "3.30",
+    "bestPrice": "170.00",
+    "unitPrice": "3.40",
     "unitPriceUnit": "roll",
     "historical": [
-      null,
       null,
       null,
       null,
@@ -2012,9 +2011,10 @@ var tableData = [
       null,
       null,
       3.3,
-      3.3
+      3.3,
+      3.4
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "廁紙"
     ]
@@ -2027,8 +2027,8 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10050058C",
     "purchasable": "true",
     "regularPrice": "155.40",
-    "bestPrice": "110.00",
-    "unitPrice": "4.58",
+    "bestPrice": "105.00",
+    "unitPrice": "4.38",
     "unitPriceUnit": "roll",
     "historical": [
       null,
@@ -2058,9 +2058,9 @@ var tableData = [
       null,
       null,
       null,
-      null,
       4.58,
-      4.58
+      4.58,
+      4.38
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2106,7 +2106,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5,
       5,
       5
     ],
@@ -2153,7 +2153,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2.91,
       2.91,
       2.91,
       2.91
@@ -2201,7 +2201,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2.79,
       2.79,
       2.79,
       2.79
@@ -2249,7 +2249,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      2.71,
       2.71,
       2.71,
       2.71
@@ -2298,7 +2298,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.74,
       3.74,
       3.74
     ],
@@ -2346,7 +2346,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.58,
       5.58,
       5.58
     ],
@@ -2393,7 +2393,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.65,
       3.65,
       3.65,
       3.65
@@ -2411,7 +2411,7 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10138408C",
     "purchasable": "true",
     "regularPrice": "111.60",
-    "bestPrice": "82.60",
+    "bestPrice": "82.50",
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
@@ -2441,7 +2441,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.44,
       3.44,
       3.44,
       3.44
@@ -2534,7 +2534,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      11.75,
       11.75,
       11.75,
       11.75
@@ -2580,7 +2580,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.36,
       0.36,
       0.36
     ],
@@ -2627,7 +2627,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      13.2,
       13.2,
       13.2,
       13.2
@@ -2677,7 +2677,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.49,
       0.49,
       0.49
     ],
@@ -2725,7 +2725,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.49,
       0.49,
       0.49
     ],
@@ -2773,7 +2773,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.67,
       3.67,
       3.67
     ],
@@ -2821,8 +2821,8 @@ var tableData = [
       null,
       null,
       null,
-      null,
       3.67,
+      3.5,
       3.5
     ],
     "lowestForDays": 0,
@@ -2869,7 +2869,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      3.33,
       3.33,
       3.33
     ],
@@ -2917,7 +2917,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.37,
       0.37,
       0.37
     ],
@@ -2965,7 +2965,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      32,
       32,
       32
     ],
@@ -3014,8 +3014,8 @@ var tableData = [
       null,
       null,
       null,
-      null,
       28,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3063,7 +3063,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      28,
       28,
       28
     ],
@@ -3112,8 +3112,8 @@ var tableData = [
       null,
       null,
       null,
-      null,
       60,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3210,7 +3210,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      66,
       66,
       66
     ],
@@ -3259,8 +3259,8 @@ var tableData = [
       null,
       null,
       null,
-      null,
       60,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3357,7 +3357,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.37,
       0.37,
       0.37
     ],
@@ -3405,7 +3405,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      7,
       7,
       7
     ],
@@ -3453,7 +3453,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      6.6,
       6.6,
       6.6
     ],
@@ -3500,9 +3500,9 @@ var tableData = [
       null,
       null,
       null,
-      null,
       5.67,
       null,
+      5.67,
       5.67
     ],
     "lowestForDays": 0,
@@ -3549,7 +3549,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      58,
       58,
       58
     ],
@@ -3598,7 +3598,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      36.6,
       36.6,
       36.6
     ],
@@ -3696,7 +3696,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.39,
       0.39,
       0.39
     ],
@@ -3744,7 +3744,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      44.9,
       44.9,
       44.9
     ],
@@ -3793,7 +3793,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      46,
       46,
       46
     ],
@@ -3842,8 +3842,8 @@ var tableData = [
       null,
       null,
       null,
-      null,
       46.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3891,7 +3891,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      46.9,
       46.9,
       46.9
     ],
@@ -3987,7 +3987,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.97,
       5.97,
       5.97,
       5.97
@@ -4035,7 +4035,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.63,
       5.63,
       5.63,
       5.63
@@ -4083,7 +4083,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      6,
       6,
       6,
       6
@@ -4132,7 +4132,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.75,
       5.75,
       5.75
     ],
@@ -4180,7 +4180,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      6.24,
       6.24,
       6.24
     ],
@@ -4228,7 +4228,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.51,
       0.51,
       0.51
     ],
@@ -4276,7 +4276,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.37,
       0.37,
       0.37
     ],
@@ -4324,7 +4324,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.5,
       0.5,
       0.5
     ],
@@ -4372,7 +4372,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.42,
       0.42,
       0.42
     ],
@@ -4420,7 +4420,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      60,
       60,
       60
     ],
@@ -4469,7 +4469,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      59,
       59,
       59
     ],
@@ -4518,7 +4518,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      35.9,
       35.9,
       35.9
     ],
@@ -4567,7 +4567,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      35.9,
       35.9,
       35.9
     ],
@@ -4616,7 +4616,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      68.8,
       68.8,
       68.8
     ],
@@ -4664,7 +4664,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      4.99,
       4.99,
       4.99,
       4.99
@@ -4713,7 +4713,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.42,
       0.42,
       0.42
     ],
@@ -4762,7 +4762,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      5.25,
       5.25
     ],
     "lowestForDays": 0,
@@ -4809,7 +4809,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      4.54,
       4.54,
       4.54
     ],
@@ -4857,7 +4857,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.61,
       0.61,
       0.61
     ],
@@ -4905,7 +4905,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      29.6,
       29.6,
       29.6
     ],
@@ -4954,7 +4954,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      29.6,
       29.6,
       29.6
     ],
@@ -5052,7 +5052,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      31.9,
       31.9,
       31.9
     ],
