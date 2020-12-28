@@ -39,11 +39,14 @@
                 padding-right: 5px;
                 content: "\f007";
             }
+            .qtagselect .qtagselect__container {
+                width: 600px !important;
+            }
 
         </style>
     </head>
 <body>
-    <div class="qtagselect isw360" style="padding-bottom: 3px;"><i class="fas fa-tags" style="padding-left: 5px;"></i>Tags: <select class="qtagselect__select" multiple="multiple"></select></div>
+    <div class="qtagselect isw360 qmain" style="padding-bottom: 3px;"><i class="fas fa-tags" style="padding-left: 5px;"></i>Tags: <select class="qtagselect__select" multiple="multiple"></select></div>
     <div id="example-table"></div>
     <script>
         $(function(){
@@ -65,7 +68,10 @@
 
                 table.setFilter(customFilter, {tags: map}); 
             });
-            control.tagselect();
+            control.tagselect({
+                'maxTag': 8,
+                'tagMessage': 'Up To 8 Tags',
+            });
         });
     </script>
     <script>
@@ -91,9 +97,9 @@
             //data: "data.json",
             columns:[
                 {title:"Name", field:"name", width: 300, frozen: true, headerFilter: "input", formatter:"link", formatterParams: {labelField: "name", urlField: "link", target: "_blank", }},
-                {title:"Brand", field:"brandName", headerFilter: "input"},
-                {title:"Store", field:"storeName", headerFilter: "input"},
-                {title:"Packing", field:"packingSpec", headerSort: false},
+                {title:"Brand", field:"brandName", width: 100, headerFilter: "input"},
+                {title:"Store", field:"storeName", width: 200, headerFilter: "input"},
+                {title:"Packing", field:"packingSpec", width: 150, headerSort: false},
                 {title:"Purchasable", field:"purchasable", formatter:"tickCross", hozAlign:"center", width: 20},
                 {
                     title: "Price",
@@ -101,7 +107,7 @@
                         {title:"Regular", field:"regularPrice", sorter:"number", hozAlign:"right", width: 80, headerVertical: false},
                         {title:"Best", field:"bestPrice", sorter:"number", hozAlign:"right", width: 80, headerVertical: false},
                         {title:"Normalized", field:"unitPrice", sorter:"number", hozAlign:"right", width: 80, headerVertical: false},
-                        {title:"Unit", field:"unitPriceUnit", headerSort: false},
+                        {title:"Unit", field:"unitPriceUnit", headerSort: false, width: 60},
                     ],
                 }, 
                 {title:"Historical", field:"historical", formatter: historicalFormatter, width: 300},
