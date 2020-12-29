@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 千歲食品有限公司                           |
 | Packing Spec    |                                               |
 | link            | https://www.hktvmall.com/p/S6087001_S_C00049a |
-| Purchasable     | false                                         |
+| Purchasable     | true                                          |
 | Regular Price   | 43.00                                         |
 | Best Price      | 28.80                                         |
 | Unit Price      | 28.80                                         |
