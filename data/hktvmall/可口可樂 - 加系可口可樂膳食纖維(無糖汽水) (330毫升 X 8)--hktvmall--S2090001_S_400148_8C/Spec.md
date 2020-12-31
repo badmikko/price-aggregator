@@ -1,6 +1,6 @@
 | Label           | Value                                           |
 | --------------- | ----------------------------------------------- |
-| Name            | 加系可口可樂膳食纖維(無糖汽水)  (330毫升 X 8)                   |
+| Name            | Plus 加系可口可樂膳食纖維(無糖汽水)  (330毫升 X 8)              |
 | Brand Name      | 可口可樂                                            |
 | Store Name      | HKTVMall - Friends Store                        |
 | Packing Spec    | 330毫升 X 8                                       |
