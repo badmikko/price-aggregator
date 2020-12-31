@@ -1402,7 +1402,7 @@
     "purchasable": "true",
     "regularPrice": "57.90",
     "bestPrice": "49.90",
-    "unitPrice": "0.26",
+    "unitPrice": "0.52",
     "unitPriceUnit": "100ml",
     "historical": [
       null,
@@ -1434,9 +1434,9 @@
       0.26,
       0.26,
       0.26,
-      0.26
+      0.52
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "蒸餾水"
     ]
