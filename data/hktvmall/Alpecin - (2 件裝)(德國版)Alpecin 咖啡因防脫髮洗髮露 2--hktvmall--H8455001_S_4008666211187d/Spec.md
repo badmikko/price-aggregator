@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 優舒彼雅                                            |
 | Packing Spec    |                                                            |
 | link            | https://www.hktvmall.com/p/H8455001_S_4008666211187d       |
-| Purchasable     | true                                                       |
+| Purchasable     | false                                                      |
 | Regular Price   | 180.00                                                     |
 | Best Price      | 118.00                                                     |
 | Unit Price      | 59.00                                                      |

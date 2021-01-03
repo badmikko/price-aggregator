@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 維他奶 / 維他                             |
 | Packing Spec    | 1公升 x 6                                         |
 | link            | https://www.hktvmall.com/p/H0888001_S_10130495E |
-| Purchasable     | true                                            |
+| Purchasable     | false                                           |
 | Regular Price   | 95.40                                           |
 | Best Price      | 66.90                                           |
 | Unit Price      | 2.79                                            |
