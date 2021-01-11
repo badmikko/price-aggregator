@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - Express                                |
 | Packing Spec    | 1枝                                                |
 | link            | https://www.hktvmall.com/p/H6401001_S_ALC1CS250ML |
-| Purchasable     | true                                              |
+| Purchasable     | false                                             |
 | Regular Price   | 81.37                                             |
 | Best Price      | 66.00                                             |
 | Unit Price      | 66.00                                             |
