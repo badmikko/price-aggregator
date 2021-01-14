@@ -5,8 +5,8 @@
 | Store Name      | HKTVMall - 10號店                                |
 | Packing Spec    | 24x700亳升                                       |
 | link            | https://www.hktvmall.com/p/H8260001_S_50000035 |
-| Purchasable     | true                                           |
+| Purchasable     | false                                          |
 | Regular Price   | 98.00                                          |
-| Best Price      | 58.00                                          |
-| Unit Price      | 0.35                                           |
+| Best Price      | 56.00                                          |
+| Unit Price      | 0.33                                           |
 | Unit Price Unit | 100ml                                          |
