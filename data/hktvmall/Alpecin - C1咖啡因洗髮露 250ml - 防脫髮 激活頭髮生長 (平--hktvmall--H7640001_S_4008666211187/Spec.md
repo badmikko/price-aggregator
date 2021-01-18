@@ -2,7 +2,7 @@
 | --------------- | --------------------------------------------------- |
 | Name            | C1咖啡因洗髮露 250ml - 防脫髮 激活頭髮生長 (平行進口)                  |
 | Brand Name      | Alpecin                                             |
-| Store Name      | HKTVMall - PSL 美容化妝品                                |
+| Store Name      | HKTVMall - BB Beauty Global                         |
 | Packing Spec    | 250ml                                               |
 | link            | https://www.hktvmall.com/p/H7640001_S_4008666211187 |
 | Purchasable     | false                                               |
