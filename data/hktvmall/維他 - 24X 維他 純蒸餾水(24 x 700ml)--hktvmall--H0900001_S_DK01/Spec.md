@@ -1,6 +1,6 @@
 | Label           | Value                                      |
 | --------------- | ------------------------------------------ |
-| Name            | 24X 維他 純蒸餾水(24 x 700ml)                    |
+| Name            | 24X 維他 純蒸餾水(24 x 700ml) [原箱]               |
 | Brand Name      | 維他                                         |
 | Store Name      | HKTVMall - Lumitusi                        |
 | Packing Spec    | 700ml x 24                                 |
