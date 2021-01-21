@@ -5,8 +5,8 @@
 | Store Name      | HKTVMall - FoodWise                          |
 | Packing Spec    |                                              |
 | link            | https://www.hktvmall.com/p/H5535005_S_109368 |
-| Purchasable     | true                                         |
+| Purchasable     | false                                        |
 | Regular Price   | 35.00                                        |
-| Best Price      | 28.00                                        |
-| Unit Price      | 28.00                                        |
+| Best Price      | 31.90                                        |
+| Unit Price      | 31.90                                        |
 | Unit Price Unit | pack                                         |
