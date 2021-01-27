@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 漁鮮快遞                            |
 | Packing Spec    |                                            |
 | link            | https://www.hktvmall.com/p/H0150001_S_S121 |
-| Purchasable     | true                                       |
+| Purchasable     | false                                      |
 | Regular Price   | 29.00                                      |
 | Best Price      | 29.00                                      |
 | Unit Price      | 29.00                                      |
