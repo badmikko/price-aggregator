@@ -11,7 +11,6 @@
     "unitPrice": "2118.00",
     "unitPriceUnit": "item",
     "historical": [
-      2094,
       null,
       null,
       2118,
@@ -40,6 +39,7 @@
       2118,
       2118,
       null,
+      2118,
       2118
     ],
     "lowestForDays": 0,
@@ -107,7 +107,6 @@
     "unitPrice": "1990.00",
     "unitPriceUnit": "item",
     "historical": [
-      1985,
       null,
       null,
       1985,
@@ -136,6 +135,7 @@
       null,
       null,
       null,
+      1990,
       1990
     ],
     "lowestForDays": 0,
@@ -155,7 +155,6 @@
     "unitPrice": "2094.00",
     "unitPriceUnit": "item",
     "historical": [
-      2094,
       2094,
       2094,
       2094,
@@ -184,9 +183,10 @@
       2094,
       2094,
       2094,
+      2094,
       2094
     ],
-    "lowestForDays": 21,
+    "lowestForDays": 22,
     "tags": [
       "濾水器"
     ]
@@ -230,8 +230,8 @@
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67
     ],
     "lowestForDays": 0,
@@ -245,14 +245,13 @@
     "storeName": "HKTVMall - 漁鮮快遞",
     "packingSpec": "",
     "link": "https://www.hktvmall.com/p/H0150001_S_S121",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "29.00",
     "bestPrice": "29.00",
     "unitPrice": "29.00",
     "unitPriceUnit": "pack",
     "historical": [
       null,
-      null,
       29,
       null,
       null,
@@ -280,6 +279,7 @@
       29,
       29,
       29,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -326,8 +326,8 @@
       19.45,
       19.45,
       19.45,
-      19.45,
       null,
+      19.45,
       19.45,
       19.45
     ],
@@ -398,7 +398,6 @@
     "historical": [
       5.79,
       5.79,
-      5.79,
       5.38,
       5.38,
       5.38,
@@ -414,6 +413,7 @@
       5.79,
       5.79,
       5.79,
+      5.38,
       5.38,
       5.38,
       5.38,
@@ -445,7 +445,6 @@
     "unitPriceUnit": "100ml",
     "historical": [
       null,
-      null,
       8.98,
       7.98,
       7.98,
@@ -462,6 +461,7 @@
       8.98,
       8.98,
       8.98,
+      7.98,
       7.98,
       7.98,
       7.98,
@@ -492,13 +492,13 @@
     "unitPrice": "3.72",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.72,
       3.72,
       3.72,
       3.72,
       3.72,
       null,
+      3.72,
       3.72,
       3.72,
       3.72,
@@ -540,7 +540,7 @@
     "unitPrice": "2.91",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
+      2.91,
       2.91,
       2.91,
       2.91,
@@ -588,7 +588,7 @@
     "unitPrice": "2.79",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
+      2.79,
       2.79,
       2.79,
       2.79,
@@ -638,7 +638,6 @@
     "historical": [
       74.9,
       74.9,
-      74.9,
       72.9,
       72.9,
       72.9,
@@ -654,6 +653,7 @@
       72.9,
       72.9,
       72.9,
+      76.9,
       76.9,
       76.9,
       76.9,
@@ -667,7 +667,7 @@
       76.9,
       76.9
     ],
-    "lowestForDays": 12,
+    "lowestForDays": 13,
     "tags": [
       "洗頭水",
       "Bart"
@@ -754,9 +754,9 @@
       44.9,
       44.9,
       44.9,
-      44.9,
       36,
       null,
+      44.9,
       44.9,
       44.9,
       44.9,
@@ -827,22 +827,22 @@
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
+      3.61,
       3.44,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
-      3.61,
       3.44,
       3.44,
       3.44,
@@ -875,7 +875,6 @@
     "unitPrice": "14.78",
     "unitPriceUnit": "kg",
     "historical": [
-      null,
       13.98,
       13.98,
       13.98,
@@ -887,6 +886,7 @@
       13.98,
       13.98,
       13.98,
+      14.78,
       14.78,
       14.78,
       14.78,
@@ -906,7 +906,7 @@
       14.78,
       14.78
     ],
-    "lowestForDays": 18,
+    "lowestForDays": 19,
     "tags": [
       "金象米"
     ]
@@ -923,7 +923,6 @@
     "unitPrice": "11.86",
     "unitPriceUnit": "kg",
     "historical": [
-      null,
       12.49,
       12.49,
       null,
@@ -951,6 +950,7 @@
       null,
       null,
       null,
+      11.86,
       11.86,
       11.86
     ],
@@ -972,7 +972,6 @@
     "unitPrice": "11.81",
     "unitPriceUnit": "kg",
     "historical": [
-      null,
       12.47,
       12.47,
       null,
@@ -1000,6 +999,7 @@
       null,
       null,
       null,
+      11.81,
       11.81,
       11.81
     ],
@@ -1047,12 +1047,12 @@
       71.9,
       71.9,
       71.9,
-      71.9,
+      80.1,
       80.1,
       80.1,
       80.1
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "成人紙尿片",
       "Grampa"
@@ -1070,7 +1070,6 @@
     "unitPrice": "34.90",
     "unitPriceUnit": "pack",
     "historical": [
-      null,
       34.9,
       34.9,
       null,
@@ -1099,6 +1098,7 @@
       null,
       null,
       null,
+      34.9,
       34.9
     ],
     "lowestForDays": 0,
@@ -1119,7 +1119,6 @@
     "unitPrice": "27.95",
     "unitPriceUnit": "pack",
     "historical": [
-      null,
       27.95,
       27.95,
       null,
@@ -1148,6 +1147,7 @@
       null,
       null,
       null,
+      27.95,
       27.95
     ],
     "lowestForDays": 0,
@@ -1180,7 +1180,6 @@
       47.6,
       47.6,
       47.6,
-      47.6,
       59.05,
       47.6,
       47.6,
@@ -1197,9 +1196,10 @@
       47.6,
       45.48,
       40.05,
+      45.48,
       45.48
     ],
-    "lowestForDays": 1
+    "lowestForDays": 2
   },
   {
     "name": "屈臣氏蒸餾水",
@@ -1661,8 +1661,8 @@
       3.49,
       3.49,
       3.49,
-      3.49,
       null,
+      3.49,
       3.49,
       3.49,
       3.49,
@@ -1693,7 +1693,6 @@
     "unitPrice": "2.69",
     "unitPriceUnit": "100ml",
     "historical": [
-      2.5,
       3.35,
       3.35,
       2.69,
@@ -1711,6 +1710,7 @@
       3.35,
       3.35,
       null,
+      2.69,
       2.69,
       2.69,
       2.69,
@@ -1859,7 +1859,7 @@
       3.75,
       3.75,
       3.75,
-      3.75,
+      3.59,
       3.59,
       3.59,
       3.59,
@@ -1893,7 +1893,7 @@
       3.4,
       3.4,
       3.4,
-      3.4,
+      3.3,
       3.3,
       3.3,
       3.3,
@@ -1937,7 +1937,6 @@
     "historical": [
       3.75,
       3.75,
-      3.75,
       null,
       3.75,
       3.75,
@@ -1963,6 +1962,7 @@
       3.59,
       3.59,
       null,
+      3.59,
       3.59,
       3.59
     ],
@@ -1985,7 +1985,6 @@
     "historical": [
       3.4,
       3.4,
-      3.4,
       null,
       3.4,
       3.4,
@@ -2011,6 +2010,7 @@
       3.3,
       3.3,
       null,
+      3.3,
       3.3,
       3.3
     ],
@@ -2031,7 +2031,6 @@
     "unitPrice": "4.38",
     "unitPriceUnit": "roll",
     "historical": [
-      null,
       4.38,
       4.38,
       null,
@@ -2060,6 +2059,7 @@
       4.58,
       null,
       null,
+      4.38,
       4.38
     ],
     "lowestForDays": 0,
@@ -2105,8 +2105,8 @@
       5.45,
       5.45,
       5.45,
-      5.45,
       null,
+      5.45,
       5.45,
       5.45
     ],
@@ -2127,7 +2127,6 @@
     "unitPrice": "2.91",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       2.91,
       2.91,
       2.91,
@@ -2156,9 +2155,10 @@
       2.91,
       2.91,
       2.91,
+      2.91,
       2.91
     ],
-    "lowestForDays": 15,
+    "lowestForDays": 16,
     "tags": [
       "鈣思寶"
     ]
@@ -2175,7 +2175,7 @@
     "unitPrice": "2.79",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
+      2.79,
       2.79,
       2.79,
       2.79,
@@ -2223,7 +2223,7 @@
     "unitPrice": "2.71",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
+      2.71,
       2.71,
       2.71,
       2.71,
@@ -2271,7 +2271,6 @@
     "unitPrice": "3.74",
     "unitPriceUnit": "can",
     "historical": [
-      3.13,
       3.74,
       null,
       3.74,
@@ -2300,9 +2299,10 @@
       3.74,
       3.74,
       3.13,
+      3.74,
       3.74
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "可樂"
     ]
@@ -2367,13 +2367,13 @@
     "unitPrice": "3.65",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.65,
       3.65,
       3.65,
       3.65,
       3.65,
       null,
+      3.65,
       3.65,
       3.65,
       3.65,
@@ -2415,7 +2415,6 @@
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.61,
       3.61,
       3.61,
@@ -2431,6 +2430,7 @@
       3.61,
       3.61,
       3.61,
+      3.44,
       3.44,
       3.44,
       3.44,
@@ -2530,16 +2530,16 @@
       11.75,
       11.75,
       11.75,
+      9.39,
+      9.39,
+      9.39,
+      9.39,
       11.75,
-      9.39,
-      9.39,
-      9.39,
-      9.39,
       11.75,
       11.75,
       11.75
     ],
-    "lowestForDays": 3
+    "lowestForDays": 4
   },
   {
     "name": "[原箱] 純蒸餾水",
@@ -2553,7 +2553,6 @@
     "unitPrice": "0.38",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.3,
       0.36,
       0.36,
       0.36,
@@ -2569,6 +2568,7 @@
       0.36,
       0.36,
       0.36,
+      0.38,
       0.38,
       0.38,
       0.38,
@@ -2584,7 +2584,7 @@
       0.38,
       0.38
     ],
-    "lowestForDays": 29,
+    "lowestForDays": 15,
     "tags": [
       "蒸餾水"
     ]
@@ -2612,7 +2612,7 @@
       11.99,
       11.99,
       11.99,
-      11.99,
+      12.53,
       12.53,
       12.53,
       12.53,
@@ -2632,7 +2632,7 @@
       12.53,
       12.53
     ],
-    "lowestForDays": 18,
+    "lowestForDays": 19,
     "tags": [
       "金象米",
       "Bart"
@@ -2646,8 +2646,8 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_P10020854",
     "purchasable": "true",
     "regularPrice": "159.90",
-    "bestPrice": "95.00",
-    "unitPrice": "0.49",
+    "bestPrice": "132.00",
+    "unitPrice": "0.69",
     "unitPriceUnit": "100ml",
     "historical": [
       0.49,
@@ -2679,9 +2679,9 @@
       0.49,
       0.49,
       0.49,
-      0.49
+      0.69
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "蒸餾水"
     ]
@@ -2694,8 +2694,8 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_P10020859",
     "purchasable": "true",
     "regularPrice": "159.90",
-    "bestPrice": "95.00",
-    "unitPrice": "0.49",
+    "bestPrice": "132.00",
+    "unitPrice": "0.69",
     "unitPriceUnit": "100ml",
     "historical": [
       0.49,
@@ -2727,9 +2727,9 @@
       0.49,
       0.49,
       0.49,
-      0.49
+      0.69
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "蒸餾水"
     ]
@@ -2746,7 +2746,6 @@
     "unitPrice": "3.33",
     "unitPriceUnit": "roll",
     "historical": [
-      null,
       3.67,
       3.67,
       3.67,
@@ -2774,6 +2773,7 @@
       3.52,
       3.52,
       3.52,
+      3.33,
       3.33,
       3.33
     ],
@@ -2794,7 +2794,6 @@
     "unitPrice": "3.33",
     "unitPriceUnit": "roll",
     "historical": [
-      null,
       3.5,
       3.5,
       3.5,
@@ -2822,6 +2821,7 @@
       3.52,
       3.52,
       3.52,
+      3.33,
       3.33,
       3.33
     ],
@@ -2842,9 +2842,9 @@
     "unitPrice": "3.58",
     "unitPriceUnit": "can",
     "historical": [
-      null,
       3.33,
       3.33,
+      3.58,
       3.58,
       3.58,
       3.58,
@@ -2873,7 +2873,7 @@
       3.58,
       3.58
     ],
-    "lowestForDays": 27,
+    "lowestForDays": 28,
     "tags": [
       "可樂"
     ]
@@ -2908,11 +2908,11 @@
       0.37,
       0.37,
       0.37,
-      0.37,
       0.33,
       0.37,
       0.37,
       null,
+      0.37,
       0.37,
       0.37,
       0.37,
@@ -2934,11 +2934,10 @@
     "link": "https://www.hktvmall.com/p/H5535005_S_108918",
     "purchasable": "true",
     "regularPrice": "35.00",
-    "bestPrice": "31.90",
-    "unitPrice": "31.90",
+    "bestPrice": "28.00",
+    "unitPrice": "28.00",
     "unitPriceUnit": "pack",
     "historical": [
-      32,
       32,
       28,
       25,
@@ -2967,9 +2966,10 @@
       31.9,
       31.9,
       31.9,
-      31.9
+      31.9,
+      28
     ],
-    "lowestForDays": 26,
+    "lowestForDays": 27,
     "tags": [
       "王將餃子",
       "Bart"
@@ -2983,11 +2983,10 @@
     "link": "https://www.hktvmall.com/p/H5535005_S_108919",
     "purchasable": "false",
     "regularPrice": "35.00",
-    "bestPrice": "29.80",
-    "unitPrice": "29.80",
+    "bestPrice": "28.00",
+    "unitPrice": "28.00",
     "unitPriceUnit": "pack",
     "historical": [
-      null,
       null,
       null,
       null,
@@ -3009,6 +3008,7 @@
       29.8,
       29.8,
       29.8,
+      null,
       null,
       null,
       null,
@@ -3032,13 +3032,12 @@
     "link": "https://www.hktvmall.com/p/H5535005_S_109368",
     "purchasable": "false",
     "regularPrice": "35.00",
-    "bestPrice": "31.90",
-    "unitPrice": "31.90",
+    "bestPrice": "28.00",
+    "unitPrice": "28.00",
     "unitPriceUnit": "pack",
     "historical": [
       28,
       28,
-      28,
       null,
       null,
       null,
@@ -3056,6 +3055,7 @@
       null,
       null,
       31.9,
+      null,
       null,
       null,
       null,
@@ -3183,13 +3183,13 @@
     "unitPrice": "66.00",
     "unitPriceUnit": "250ml",
     "historical": [
+      66,
+      66,
+      66,
+      66,
+      66,
+      66,
       null,
-      66,
-      66,
-      66,
-      66,
-      66,
-      66,
       null,
       null,
       null,
@@ -3332,8 +3332,8 @@
     "historical": [
       0.37,
       0.37,
-      0.37,
       null,
+      0.37,
       0.37,
       0.37,
       0.37,
@@ -3432,7 +3432,6 @@
       6.6,
       6.6,
       6.6,
-      6.6,
       null,
       6.6,
       6.6,
@@ -3454,6 +3453,7 @@
       6.6,
       null,
       null,
+      6.6,
       6.6,
       6.6
     ],
@@ -3484,8 +3484,8 @@
       5.67,
       5.67,
       5.67,
-      5.67,
       null,
+      5.67,
       5.67,
       5.67,
       5.67,
@@ -3524,13 +3524,13 @@
     "historical": [
       58,
       58,
-      58,
       null,
       58,
       null,
       null,
       58,
       58,
+      null,
       null,
       null,
       null,
@@ -3573,7 +3573,7 @@
     "historical": [
       36.6,
       36.6,
-      36.6,
+      null,
       null,
       null,
       null,
@@ -3677,7 +3677,6 @@
       0.35,
       0.35,
       0.35,
-      0.35,
       0.34,
       0.34,
       0.34,
@@ -3698,6 +3697,7 @@
       0.33,
       0.33,
       0.31,
+      0.31,
       0.31
     ],
     "lowestForDays": 0,
@@ -3717,7 +3717,6 @@
     "unitPrice": "44.90",
     "unitPriceUnit": "pack",
     "historical": [
-      44.9,
       44.9,
       44.9,
       44.9,
@@ -3746,6 +3745,7 @@
       44.9,
       null,
       44.9,
+      44.9,
       44.9
     ],
     "lowestForDays": 0,
@@ -3767,13 +3767,13 @@
     "unitPriceUnit": "pack",
     "historical": [
       46,
-      46,
       null,
       46,
       null,
       null,
       null,
       null,
+      46,
       46,
       46,
       46,
@@ -3822,7 +3822,7 @@
       null,
       null,
       null,
-      null,
+      46.9,
       46.9,
       46.9,
       46.9,
@@ -3880,7 +3880,6 @@
       46.9,
       46.9,
       46.9,
-      46.9,
       null,
       46.9,
       46.9,
@@ -3890,6 +3889,7 @@
       46.9,
       46.9,
       46.9,
+      null,
       null,
       null,
       null,
@@ -3907,7 +3907,7 @@
     "storeName": "HKTVMall - CC零食",
     "packingSpec": "1L",
     "link": "https://www.hktvmall.com/p/H7949001_S_DRKTNMILK003",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "33.90",
     "bestPrice": "23.90",
     "unitPrice": "5.97",
@@ -3917,7 +3917,6 @@
       null,
       null,
       null,
-      null,
       5.97,
       5.97,
       5.97,
@@ -3942,7 +3941,8 @@
       5.97,
       5.97,
       5.97,
-      5.97
+      5.97,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3965,26 +3965,26 @@
       null,
       null,
       null,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
+      5.97,
       null,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
-      5.97,
       null,
       null,
       null,
@@ -4207,8 +4207,8 @@
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
+      0.49,
       0.49,
       0.49,
       0.49,
@@ -4245,11 +4245,10 @@
     "link": "https://www.hktvmall.com/p/H8260001_S_50000035",
     "purchasable": "true",
     "regularPrice": "98.00",
-    "bestPrice": "55.00",
-    "unitPrice": "0.33",
+    "bestPrice": "52.00",
+    "unitPrice": "0.31",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.35,
       0.35,
       0.35,
       0.35,
@@ -4278,7 +4277,8 @@
       0.33,
       0.33,
       0.33,
-      0.33
+      0.33,
+      0.31
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4591,7 +4591,7 @@
     "historical": [
       68.8,
       68.8,
-      68.8,
+      null,
       null,
       null,
       null,
@@ -4686,7 +4686,6 @@
     "unitPrice": "0.33",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.42,
       null,
       null,
       null,
@@ -4710,6 +4709,7 @@
       0.39,
       0.33,
       0.33,
+      null,
       null,
       null,
       null,
@@ -4746,7 +4746,6 @@
       5.25,
       5.25,
       5.25,
-      5.25,
       null,
       4.63,
       4.63,
@@ -4762,6 +4761,7 @@
       4.63,
       4.63,
       null,
+      4.63,
       4.63,
       4.63
     ],
@@ -4788,7 +4788,6 @@
       4.54,
       4.54,
       4.54,
-      4.54,
       null,
       4.54,
       4.54,
@@ -4803,6 +4802,7 @@
       4.54,
       4.54,
       null,
+      4.54,
       4.54,
       4.54,
       4.54,
@@ -4832,9 +4832,9 @@
     "historical": [
       0.61,
       0.61,
+      null,
+      null,
       0.61,
-      null,
-      null,
       0.61,
       0.61,
       0.61,

@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - CC零食                                    |
 | Packing Spec    | 1L                                                 |
 | link            | https://www.hktvmall.com/p/H7949001_S_DRKTNMILK003 |
-| Purchasable     | true                                               |
+| Purchasable     | false                                              |
 | Regular Price   | 33.90                                              |
 | Best Price      | 23.90                                              |
 | Unit Price      | 5.97                                               |
