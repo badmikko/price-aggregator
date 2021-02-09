@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - Lets Bazaar Company Limited              |
 | Packing Spec    | 24 x 330ml                                          |
 | link            | https://www.hktvmall.com/p/H8032001_S_SD-00004      |
-| Purchasable     | false                                               |
+| Purchasable     | true                                                |
 | Regular Price   | 159.00                                              |
 | Best Price      | 138.00                                              |
 | Unit Price      | 5.75                                                |
