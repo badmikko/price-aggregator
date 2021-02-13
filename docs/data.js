@@ -4,12 +4,16 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP -",
+    "storeName": "Amazon JP - Amazon.co.jp",
+    "purchasable": "true",
+    "regularPrice": "4236",
+    "bestPrice": "4236",
+    "unitPrice": "2118.00",
+    "unitPriceUnit": "item",
     "historical": [
       2118,
       2118,
       2118,
-      2118,
       null,
       2118,
       null,
@@ -35,7 +39,8 @@ var tableData = [
       2118,
       2118,
       2118,
-      null
+      null,
+      2118
     ],
     "lowestForDays": 0,
     "tags": [
@@ -97,7 +102,6 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP -",
     "historical": [
-      1985,
       1965,
       null,
       null,
@@ -118,6 +122,7 @@ var tableData = [
       null,
       1990,
       1990,
+      null,
       null,
       null,
       null,
@@ -210,8 +215,8 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
@@ -235,13 +240,12 @@ var tableData = [
     "storeName": "HKTVMall - 漁鮮快遞",
     "packingSpec": "",
     "link": "https://www.hktvmall.com/p/H0150001_S_S121",
-    "purchasable": "false",
+    "purchasable": "true",
     "regularPrice": "29.00",
     "bestPrice": "29.00",
     "unitPrice": "29.00",
     "unitPriceUnit": "pack",
     "historical": [
-      null,
       29,
       null,
       null,
@@ -270,7 +274,8 @@ var tableData = [
       null,
       null,
       null,
-      null
+      null,
+      29
     ],
     "lowestForDays": 0,
     "tags": [
@@ -306,8 +311,8 @@ var tableData = [
       19.45,
       19.45,
       19.45,
-      19.45,
       null,
+      19.45,
       19.45,
       19.45,
       19.45,
@@ -366,8 +371,8 @@ var tableData = [
       5.98,
       5.98,
       5.98,
-      5.98,
-      null
+      null,
+      5.98
     ],
     "lowestForDays": 0,
     "tags": [
@@ -386,14 +391,14 @@ var tableData = [
     "unitPrice": "5.38",
     "unitPriceUnit": "100ml",
     "historical": [
+      5.79,
+      5.79,
+      5.79,
+      5.79,
+      5.79,
+      5.79,
+      5.79,
       5.38,
-      5.79,
-      5.79,
-      5.79,
-      5.79,
-      5.79,
-      5.79,
-      5.79,
       5.38,
       5.38,
       5.38,
@@ -434,7 +439,6 @@ var tableData = [
     "unitPrice": "8.98",
     "unitPriceUnit": "100ml",
     "historical": [
-      7.98,
       8.98,
       8.98,
       8.98,
@@ -463,9 +467,10 @@ var tableData = [
       7.98,
       7.98,
       7.98,
+      8.98,
       8.98
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "洗衣液"
     ]
@@ -633,7 +638,7 @@ var tableData = [
       72.9,
       72.9,
       72.9,
-      72.9,
+      76.9,
       76.9,
       76.9,
       76.9,
@@ -657,7 +662,7 @@ var tableData = [
       76.9,
       76.9
     ],
-    "lowestForDays": 22,
+    "lowestForDays": 23,
     "tags": [
       "洗頭水",
       "Bart"
@@ -734,9 +739,9 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9,
       36,
       null,
+      44.9,
       44.9,
       44.9,
       44.9,
@@ -822,7 +827,7 @@ var tableData = [
       3.61,
       3.61,
       3.61,
-      3.61,
+      3.44,
       3.44,
       3.44,
       3.44,
@@ -866,7 +871,7 @@ var tableData = [
     "unitPriceUnit": "kg",
     "historical": [
       13.98,
-      13.98,
+      14.78,
       14.78,
       14.78,
       14.78,
@@ -896,7 +901,7 @@ var tableData = [
       14.78,
       14.78
     ],
-    "lowestForDays": 28,
+    "lowestForDays": 29,
     "tags": [
       "金象米"
     ]
@@ -913,7 +918,6 @@ var tableData = [
     "unitPrice": "12.49",
     "unitPriceUnit": "kg",
     "historical": [
-      12.49,
       11.86,
       12.49,
       12.49,
@@ -942,9 +946,10 @@ var tableData = [
       11.86,
       11.86,
       11.86,
+      12.49,
       12.49
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "金象米",
       "Bart"
@@ -963,7 +968,6 @@ var tableData = [
     "unitPriceUnit": "kg",
     "historical": [
       12.47,
-      12.47,
       11.75,
       11.75,
       11.75,
@@ -991,9 +995,10 @@ var tableData = [
       11.81,
       11.81,
       11.81,
+      12.38,
       12.38
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "金象米",
       "Bart"
@@ -1027,7 +1032,7 @@ var tableData = [
       71.9,
       71.9,
       71.9,
-      71.9,
+      80.1,
       80.1,
       80.1,
       80.1,
@@ -1042,7 +1047,7 @@ var tableData = [
       80.1,
       80.1
     ],
-    "lowestForDays": 13,
+    "lowestForDays": 14,
     "tags": [
       "成人紙尿片",
       "Grampa"
@@ -1064,7 +1069,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       34.9,
       34.9,
       null,
@@ -1079,6 +1083,7 @@ var tableData = [
       null,
       null,
       null,
+      34.9,
       34.9,
       34.9,
       34.9,
@@ -1113,7 +1118,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       27.95,
       27.95,
       null,
@@ -1128,6 +1132,7 @@ var tableData = [
       null,
       null,
       null,
+      27.95,
       27.95,
       27.95,
       27.95,
@@ -1160,7 +1165,6 @@ var tableData = [
     "historical": [
       47.6,
       47.6,
-      47.6,
       59.05,
       47.6,
       47.6,
@@ -1187,9 +1191,10 @@ var tableData = [
       47.6,
       47.6,
       47.6,
+      47.6,
       47.6
     ],
-    "lowestForDays": 11
+    "lowestForDays": 12
   },
   {
     "name": "屈臣氏蒸餾水",
@@ -1641,7 +1646,6 @@ var tableData = [
       3.49,
       3.49,
       3.49,
-      3.49,
       null,
       3.49,
       3.49,
@@ -1660,6 +1664,7 @@ var tableData = [
       3.49,
       3.49,
       null,
+      3.49,
       3.49,
       3.49,
       3.49,
@@ -1683,7 +1688,6 @@ var tableData = [
     "unitPrice": "2.69",
     "unitPriceUnit": "100ml",
     "historical": [
-      2.69,
       3.35,
       3.35,
       3.35,
@@ -1712,6 +1716,7 @@ var tableData = [
       2.69,
       2.69,
       null,
+      2.69,
       2.69
     ],
     "lowestForDays": 0,
@@ -1839,28 +1844,28 @@ var tableData = [
       3.75,
       3.75,
       3.75,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
+      3.59,
       3.75,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
-      3.59,
       3.75,
       3.75,
       3.75
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "廁紙"
     ]
@@ -1935,7 +1940,6 @@ var tableData = [
       3.75,
       3.75,
       3.75,
-      3.75,
       3.59,
       3.59,
       3.59,
@@ -1954,9 +1958,10 @@ var tableData = [
       3.59,
       3.75,
       3.75,
+      3.75,
       3.75
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "廁紙"
     ]
@@ -1989,8 +1994,8 @@ var tableData = [
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
+      3.3,
       3.3,
       3.3,
       3.3,
@@ -2021,7 +2026,6 @@ var tableData = [
     "unitPrice": "4.38",
     "unitPriceUnit": "roll",
     "historical": [
-      null,
       4.38,
       4.38,
       4.38,
@@ -2043,6 +2047,7 @@ var tableData = [
       4.38,
       4.38,
       null,
+      4.38,
       4.38,
       4.38,
       4.38,
@@ -2085,8 +2090,8 @@ var tableData = [
       5.45,
       5.45,
       5.45,
-      5.45,
       null,
+      5.45,
       5.45,
       5.45,
       5.45,
@@ -2120,8 +2125,8 @@ var tableData = [
       2.91,
       2.91,
       2.91,
-      2.91,
       2.5,
+      2.91,
       2.91,
       2.91,
       2.91,
@@ -2148,7 +2153,7 @@ var tableData = [
       2.91,
       2.91
     ],
-    "lowestForDays": 25,
+    "lowestForDays": 26,
     "tags": [
       "鈣思寶"
     ]
@@ -2264,7 +2269,6 @@ var tableData = [
       3.74,
       3.74,
       3.74,
-      3.74,
       3.13,
       3.74,
       3.74,
@@ -2280,6 +2284,7 @@ var tableData = [
       3.74,
       3.74,
       3.13,
+      3.74,
       3.74,
       3.74,
       3.74,
@@ -2292,7 +2297,7 @@ var tableData = [
       3.74,
       3.74
     ],
-    "lowestForDays": 11,
+    "lowestForDays": 12,
     "tags": [
       "可樂"
     ]
@@ -2380,8 +2385,8 @@ var tableData = [
       3.65,
       3.65,
       3.65,
-      3.65,
       null,
+      3.65,
       3.65,
       3.65,
       3.65,
@@ -2410,7 +2415,6 @@ var tableData = [
       3.61,
       3.61,
       3.61,
-      3.61,
       3.44,
       3.44,
       3.44,
@@ -2430,6 +2434,7 @@ var tableData = [
       3.44,
       3.44,
       null,
+      3.44,
       3.44,
       3.44,
       3.44,
@@ -2510,7 +2515,6 @@ var tableData = [
       11.75,
       11.75,
       11.75,
-      11.75,
       9.39,
       9.39,
       9.39,
@@ -2523,13 +2527,14 @@ var tableData = [
       8,
       8,
       11.75,
+      8.04,
       8.04,
       8.04,
       8.04,
       8.04,
       8.04
     ],
-    "lowestForDays": 6
+    "lowestForDays": 7
   },
   {
     "name": "[原箱] 純蒸餾水",
@@ -2548,7 +2553,7 @@ var tableData = [
       0.36,
       0.36,
       0.36,
-      0.36,
+      0.38,
       0.38,
       0.38,
       0.38,
@@ -2574,7 +2579,7 @@ var tableData = [
       0.38,
       0.38
     ],
-    "lowestForDays": 24,
+    "lowestForDays": 25,
     "tags": [
       "蒸餾水"
     ]
@@ -2592,7 +2597,7 @@ var tableData = [
     "unitPriceUnit": "kg",
     "historical": [
       11.99,
-      11.99,
+      12.53,
       12.53,
       12.53,
       12.53,
@@ -2622,7 +2627,7 @@ var tableData = [
       12.53,
       12.53
     ],
-    "lowestForDays": 28,
+    "lowestForDays": 29,
     "tags": [
       "金象米",
       "Bart"
@@ -2659,8 +2664,8 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       0.69,
+      0.49,
       0.49,
       0.49,
       0.49,
@@ -2707,8 +2712,8 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       0.69,
+      0.49,
       0.49,
       0.49,
       0.49,
@@ -2739,7 +2744,6 @@ var tableData = [
       3.89,
       3.89,
       3.89,
-      3.89,
       3.33,
       3.33,
       3.33,
@@ -2765,9 +2769,10 @@ var tableData = [
       3.33,
       3.89,
       3.89,
+      3.89,
       3.89
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "廁紙"
     ]
@@ -2787,7 +2792,6 @@ var tableData = [
       3.7,
       3.7,
       3.7,
-      3.7,
       3.33,
       3.33,
       3.33,
@@ -2813,9 +2817,10 @@ var tableData = [
       3.33,
       3.7,
       3.7,
+      3.7,
       3.7
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "廁紙"
     ]
@@ -2888,7 +2893,6 @@ var tableData = [
       0.37,
       0.37,
       0.37,
-      0.37,
       0.33,
       0.37,
       0.37,
@@ -2908,6 +2912,7 @@ var tableData = [
       0.37,
       0.37,
       0.37,
+      null,
       null,
       null
     ],
@@ -2933,7 +2938,6 @@ var tableData = [
       31.9,
       31.9,
       31.9,
-      31.9,
       28,
       31.9,
       31.9,
@@ -2952,6 +2956,7 @@ var tableData = [
       28,
       28,
       28,
+      31.9,
       31.9,
       31.9,
       31.9,
@@ -2959,7 +2964,7 @@ var tableData = [
       31.9,
       31.9
     ],
-    "lowestForDays": 6,
+    "lowestForDays": 7,
     "tags": [
       "王將餃子",
       "Bart"
@@ -2982,13 +2987,13 @@ var tableData = [
       29.8,
       29.8,
       29.8,
-      29.8,
       28,
       null,
       null,
       29.8,
       29.8,
       29.8,
+      null,
       null,
       null,
       null,
@@ -3031,11 +3036,11 @@ var tableData = [
       31.9,
       31.9,
       31.9,
-      31.9,
       28,
       null,
       null,
       31.9,
+      null,
       null,
       null,
       null,
@@ -3344,12 +3349,12 @@ var tableData = [
       0.37,
       0.37,
       0.37,
-      0.37,
       null,
       null,
       null,
       null,
-      null
+      null,
+      0.37
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3392,12 +3397,12 @@ var tableData = [
       7,
       7,
       7,
-      7,
       null,
       null,
       null,
       null,
-      null
+      null,
+      7
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3431,7 +3436,6 @@ var tableData = [
       6.6,
       6.6,
       6.6,
-      6.6,
       null,
       null,
       6.6,
@@ -3445,7 +3449,8 @@ var tableData = [
       null,
       null,
       null,
-      null
+      null,
+      6.6
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3464,7 +3469,6 @@ var tableData = [
     "unitPrice": "5.67",
     "unitPriceUnit": "250ml",
     "historical": [
-      5.67,
       null,
       5.67,
       5.67,
@@ -3493,7 +3497,8 @@ var tableData = [
       null,
       null,
       null,
-      null
+      null,
+      5.67
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3664,7 +3669,6 @@ var tableData = [
       0.34,
       0.34,
       0.34,
-      0.34,
       0.33,
       0.33,
       0.33,
@@ -3680,6 +3684,7 @@ var tableData = [
       0.31,
       0.31,
       0.31,
+      null,
       null,
       null,
       null,
@@ -3723,8 +3728,8 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9,
       null,
+      44.9,
       44.9,
       44.9,
       44.9,
@@ -3860,7 +3865,6 @@ var tableData = [
       46.9,
       46.9,
       46.9,
-      46.9,
       null,
       46.9,
       46.9,
@@ -3870,6 +3874,7 @@ var tableData = [
       46.9,
       46.9,
       46.9,
+      null,
       null,
       null,
       null,
@@ -3922,7 +3927,7 @@ var tableData = [
       5.97,
       5.97,
       5.97,
-      5.97,
+      null,
       null,
       null,
       null,
@@ -3964,7 +3969,7 @@ var tableData = [
       5.97,
       5.97,
       5.97,
-      5.97,
+      null,
       null,
       null,
       null,
@@ -4119,8 +4124,8 @@ var tableData = [
       5.75,
       5.75,
       5.75,
-      5.75,
       null,
+      5.75,
       5.75,
       5.75,
       5.75,
@@ -4239,7 +4244,6 @@ var tableData = [
     "unitPrice": "0.31",
     "unitPriceUnit": "100ml",
     "historical": [
-      null,
       0.33,
       0.33,
       0.33,
@@ -4259,6 +4263,7 @@ var tableData = [
       0.33,
       0.33,
       0.33,
+      0.31,
       0.31,
       0.31,
       0.31,
@@ -4359,12 +4364,12 @@ var tableData = [
       0.42,
       0.42,
       0.42,
-      0.42,
       null,
       null,
       null,
       null,
-      null
+      null,
+      0.42
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4687,9 +4692,9 @@ var tableData = [
       0.39,
       0.39,
       0.39,
-      0.39,
       0.33,
       0.33,
+      null,
       null,
       null,
       null,
@@ -4726,7 +4731,6 @@ var tableData = [
     "historical": [
       5.25,
       5.25,
-      5.25,
       null,
       4.63,
       4.63,
@@ -4742,6 +4746,7 @@ var tableData = [
       4.63,
       4.63,
       null,
+      4.63,
       4.63,
       4.63,
       4.63,
@@ -4781,7 +4786,6 @@ var tableData = [
       4.54,
       4.54,
       4.54,
-      4.54,
       null,
       4.54,
       4.54,
@@ -4797,6 +4801,7 @@ var tableData = [
       4.54,
       4.54,
       null,
+      4.54,
       4.54,
       4.54,
       4.54,
