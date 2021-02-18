@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                           |
 | Store Name      | Amazon JP -                                                            |
                                                                                             
-| Purchasable     | false                                                                  |
+| Purchasable     | true                                                                   |
 | Regular Price   |                                                                        |
 | Best Price      |                                                                        |
 | Unit Price      | #VALUE!                                                                |
