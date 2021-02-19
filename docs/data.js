@@ -6,7 +6,6 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP -",
     "historical": [
-      null,
       2118,
       2118,
       2118,
@@ -31,6 +30,7 @@ var tableData = [
       2118,
       null,
       2118,
+      null,
       null,
       null,
       null,
@@ -95,12 +95,7 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B0060P7K0C",
     "name": "Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - BIT WAVE",
-    "purchasable": "true",
-    "regularPrice": "5970",
-    "bestPrice": "5970",
-    "unitPrice": "1990.00",
-    "unitPriceUnit": "item",
+    "storeName": "Amazon JP -",
     "historical": [
       null,
       null,
@@ -114,7 +109,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       1990,
       1990,
       null,
@@ -131,9 +125,10 @@ var tableData = [
       null,
       1985,
       1985,
-      1990
+      1990,
+      null
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -209,8 +204,8 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
@@ -246,7 +241,6 @@ var tableData = [
     "unitPrice": "29.00",
     "unitPriceUnit": "pack",
     "historical": [
-      29,
       null,
       29,
       29,
@@ -273,6 +267,7 @@ var tableData = [
       29,
       null,
       null,
+      29,
       29,
       29,
       29
@@ -305,8 +300,8 @@ var tableData = [
       19.45,
       19.45,
       19.45,
-      19.45,
       null,
+      19.45,
       19.45,
       19.45,
       19.45,
@@ -365,8 +360,8 @@ var tableData = [
       5.98,
       5.98,
       5.98,
-      5.98,
       null,
+      5.98,
       5.98,
       5.98,
       5.98,
@@ -387,12 +382,11 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10003250A",
     "purchasable": "true",
     "regularPrice": "65.80",
-    "bestPrice": "53.80",
-    "unitPrice": "5.38",
+    "bestPrice": "58.90",
+    "unitPrice": "5.89",
     "unitPriceUnit": "100ml",
     "historical": [
       5.79,
-      5.79,
       5.38,
       5.38,
       5.38,
@@ -420,9 +414,10 @@ var tableData = [
       5.38,
       5.38,
       5.38,
-      5.38
+      5.38,
+      5.89
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "洗衣液"
     ]
@@ -440,28 +435,28 @@ var tableData = [
     "unitPriceUnit": "100ml",
     "historical": [
       8.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
+      7.98,
       8.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
-      7.98,
       8.98,
       8.98,
       8.98,
@@ -470,7 +465,7 @@ var tableData = [
       8.98,
       8.98
     ],
-    "lowestForDays": 7,
+    "lowestForDays": 8,
     "tags": [
       "洗衣液"
     ]
@@ -632,7 +627,7 @@ var tableData = [
     "unitPriceUnit": "250ml",
     "historical": [
       72.9,
-      72.9,
+      76.9,
       76.9,
       76.9,
       76.9,
@@ -662,7 +657,7 @@ var tableData = [
       76.9,
       76.9
     ],
-    "lowestForDays": 28,
+    "lowestForDays": 29,
     "tags": [
       "洗頭水",
       "Bart"
@@ -733,9 +728,9 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9,
       36,
       null,
+      44.9,
       44.9,
       44.9,
       44.9,
@@ -914,8 +909,8 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10016911",
     "purchasable": "true",
     "regularPrice": "129.90",
-    "bestPrice": "99.90",
-    "unitPrice": "12.49",
+    "bestPrice": "100.90",
+    "unitPrice": "12.61",
     "unitPriceUnit": "kg",
     "historical": [
       11.86,
@@ -926,7 +921,6 @@ var tableData = [
       11.86,
       11.86,
       11.86,
-      11.86,
       null,
       null,
       null,
@@ -947,9 +941,10 @@ var tableData = [
       12.49,
       12.49,
       12.49,
-      12.49
+      12.49,
+      12.61
     ],
-    "lowestForDays": 7,
+    "lowestForDays": 8,
     "tags": [
       "金象米",
       "Bart"
@@ -963,8 +958,8 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10016911A",
     "purchasable": "true",
     "regularPrice": "259.80",
-    "bestPrice": "198.00",
-    "unitPrice": "12.38",
+    "bestPrice": "199.90",
+    "unitPrice": "12.49",
     "unitPriceUnit": "kg",
     "historical": [
       11.81,
@@ -975,7 +970,6 @@ var tableData = [
       11.81,
       11.81,
       11.81,
-      11.81,
       null,
       null,
       null,
@@ -996,9 +990,10 @@ var tableData = [
       12.38,
       12.38,
       12.38,
-      12.38
+      12.38,
+      12.49
     ],
-    "lowestForDays": 7,
+    "lowestForDays": 8,
     "tags": [
       "金象米",
       "Bart"
@@ -1026,7 +1021,7 @@ var tableData = [
       71.9,
       71.9,
       71.9,
-      71.9,
+      80.1,
       80.1,
       80.1,
       80.1,
@@ -1047,7 +1042,7 @@ var tableData = [
       80.1,
       80.1
     ],
-    "lowestForDays": 19,
+    "lowestForDays": 20,
     "tags": [
       "成人紙尿片",
       "Grampa"
@@ -1065,7 +1060,6 @@ var tableData = [
     "unitPrice": "34.90",
     "unitPriceUnit": "pack",
     "historical": [
-      34.9,
       null,
       null,
       null,
@@ -1092,6 +1086,7 @@ var tableData = [
       34.9,
       34.9,
       34.9,
+      null,
       null,
       null,
       null
@@ -1114,7 +1109,6 @@ var tableData = [
     "unitPrice": "27.95",
     "unitPriceUnit": "pack",
     "historical": [
-      27.95,
       null,
       null,
       null,
@@ -1141,6 +1135,7 @@ var tableData = [
       27.95,
       27.95,
       27.95,
+      null,
       null,
       null,
       null
@@ -1163,7 +1158,6 @@ var tableData = [
     "unitPrice": "52.36",
     "unitPriceUnit": "100g",
     "historical": [
-      47.6,
       47.6,
       47.6,
       47.6,
@@ -1192,9 +1186,10 @@ var tableData = [
       52.36,
       52.36,
       52.36,
+      52.36,
       52.36
     ],
-    "lowestForDays": 17
+    "lowestForDays": 18
   },
   {
     "name": "屈臣氏蒸餾水",
@@ -1640,7 +1635,6 @@ var tableData = [
     "unitPrice": "3.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      3.49,
       null,
       3.49,
       3.49,
@@ -1659,6 +1653,7 @@ var tableData = [
       3.49,
       3.49,
       null,
+      3.49,
       3.49,
       3.49,
       3.49,
@@ -1684,11 +1679,10 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10022053A",
     "purchasable": "true",
     "regularPrice": "73.80",
-    "bestPrice": "53.90",
-    "unitPrice": "2.69",
+    "bestPrice": "66.90",
+    "unitPrice": "3.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      3.35,
       null,
       2.69,
       2.69,
@@ -1717,9 +1711,10 @@ var tableData = [
       2.69,
       2.69,
       2.69,
-      2.69
+      2.69,
+      3.35
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "洗衣液"
     ]
@@ -1838,7 +1833,6 @@ var tableData = [
       3.75,
       3.75,
       3.75,
-      3.75,
       3.59,
       3.59,
       3.59,
@@ -1862,6 +1856,7 @@ var tableData = [
       3.75,
       3.75,
       null,
+      3.75,
       3.75,
       3.75
     ],
@@ -1908,8 +1903,8 @@ var tableData = [
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
+      3.4,
       3.4,
       3.4
     ],
@@ -1934,7 +1929,6 @@ var tableData = [
       3.75,
       3.75,
       3.75,
-      3.75,
       3.59,
       3.59,
       3.59,
@@ -1959,9 +1953,10 @@ var tableData = [
       3.75,
       3.75,
       3.75,
+      3.75,
       3.75
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 10,
     "tags": [
       "廁紙"
     ]
@@ -1988,7 +1983,6 @@ var tableData = [
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
       3.3,
       3.3,
@@ -2007,9 +2001,10 @@ var tableData = [
       3.3,
       3.4,
       3.4,
+      3.4,
       3.4
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "廁紙"
     ]
@@ -2030,7 +2025,6 @@ var tableData = [
       4.58,
       4.58,
       4.58,
-      4.58,
       null,
       4.58,
       null,
@@ -2054,6 +2048,7 @@ var tableData = [
       4.38,
       4.38,
       null,
+      4.58,
       4.58,
       4.58
     ],
@@ -2084,8 +2079,8 @@ var tableData = [
       5.45,
       5.45,
       5.45,
-      5.45,
       null,
+      5.45,
       5.45,
       5.45,
       5.45,
@@ -2277,7 +2272,6 @@ var tableData = [
       3.74,
       3.74,
       3.74,
-      3.74,
       3.13,
       3.74,
       3.74,
@@ -2293,11 +2287,12 @@ var tableData = [
       3.74,
       3.74,
       3.13,
+      3.74,
       3.74,
       3.74,
       3.74
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "可樂"
     ]
@@ -2379,8 +2374,8 @@ var tableData = [
       3.65,
       3.65,
       3.65,
-      3.65,
       null,
+      3.65,
       3.65,
       3.65,
       3.65,
@@ -2427,8 +2422,8 @@ var tableData = [
       3.44,
       3.44,
       3.44,
-      3.44,
       null,
+      3.44,
       3.44,
       3.44,
       3.44,
@@ -2509,7 +2504,6 @@ var tableData = [
       11.75,
       11.75,
       11.75,
-      11.75,
       9.39,
       9.39,
       9.39,
@@ -2531,10 +2525,11 @@ var tableData = [
       8.04,
       8.04,
       8.04,
+      11.75,
       11.75,
       11.75
     ],
-    "lowestForDays": 12
+    "lowestForDays": 13
   },
   {
     "name": "[原箱] 純蒸餾水",
@@ -2658,8 +2653,8 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       0.69,
+      0.49,
       0.49,
       0.49,
       0.49,
@@ -2706,8 +2701,8 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       0.69,
+      0.49,
       0.49,
       0.49,
       0.49,
@@ -2745,7 +2740,6 @@ var tableData = [
       3.33,
       3.33,
       3.33,
-      3.33,
       null,
       3.52,
       3.52,
@@ -2770,9 +2764,10 @@ var tableData = [
       3.89,
       3.67,
       3.67,
+      3.67,
       3.67
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 10,
     "tags": [
       "廁紙"
     ]
@@ -2793,7 +2788,6 @@ var tableData = [
       3.33,
       3.33,
       3.33,
-      3.33,
       null,
       3.52,
       3.52,
@@ -2818,9 +2812,10 @@ var tableData = [
       3.7,
       3.67,
       3.67,
+      3.67,
       3.67
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 10,
     "tags": [
       "廁紙"
     ]
@@ -2887,7 +2882,6 @@ var tableData = [
     "historical": [
       0.37,
       0.37,
-      0.37,
       0.33,
       0.37,
       0.37,
@@ -2914,6 +2908,7 @@ var tableData = [
       null,
       0.37,
       0.37,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2929,11 +2924,10 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H5535005_S_108918",
     "purchasable": "false",
     "regularPrice": "35.00",
-    "bestPrice": "28.00",
-    "unitPrice": "28.00",
+    "bestPrice": "31.90",
+    "unitPrice": "31.90",
     "unitPriceUnit": "pack",
     "historical": [
-      28,
       31.9,
       31.9,
       31.9,
@@ -2962,6 +2956,7 @@ var tableData = [
       31.9,
       31.9,
       28,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2978,16 +2973,16 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H5535005_S_108919",
     "purchasable": "false",
     "regularPrice": "35.00",
-    "bestPrice": "28.00",
-    "unitPrice": "28.00",
+    "bestPrice": "29.80",
+    "unitPrice": "29.80",
     "unitPriceUnit": "pack",
     "historical": [
-      28,
       null,
       null,
       29.8,
       29.8,
       29.8,
+      null,
       null,
       null,
       null,
@@ -3027,14 +3022,14 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H5535005_S_109368",
     "purchasable": "false",
     "regularPrice": "35.00",
-    "bestPrice": "28.00",
-    "unitPrice": "28.00",
+    "bestPrice": "31.90",
+    "unitPrice": "31.90",
     "unitPriceUnit": "pack",
     "historical": [
-      28,
       null,
       null,
       31.9,
+      null,
       null,
       null,
       null,
@@ -3343,7 +3338,6 @@ var tableData = [
       0.37,
       0.37,
       0.37,
-      0.37,
       null,
       null,
       null,
@@ -3351,6 +3345,7 @@ var tableData = [
       null,
       0.37,
       0.37,
+      0.33,
       0.33,
       0.33,
       0.33,
@@ -3391,12 +3386,12 @@ var tableData = [
       7,
       7,
       7,
+      null,
+      null,
+      null,
+      null,
+      null,
       7,
-      null,
-      null,
-      null,
-      null,
-      null,
       7,
       7,
       7,
@@ -3430,7 +3425,6 @@ var tableData = [
       6.6,
       6.6,
       6.6,
-      6.6,
       null,
       null,
       6.6,
@@ -3445,6 +3439,7 @@ var tableData = [
       null,
       null,
       null,
+      6.6,
       6.6,
       6.6,
       6.6,
@@ -3487,7 +3482,6 @@ var tableData = [
       5.67,
       5.67,
       5.67,
-      5.67,
       null,
       null,
       null,
@@ -3496,11 +3490,12 @@ var tableData = [
       5.67,
       5.67,
       5.67,
+      6.33,
       6.33,
       6.33,
       6.33
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "鈣思寶"
     ]
@@ -3668,7 +3663,6 @@ var tableData = [
       0.33,
       0.33,
       0.33,
-      0.33,
       null,
       null,
       0.33,
@@ -3692,6 +3686,7 @@ var tableData = [
       null,
       null,
       null,
+      0.31,
       0.31,
       0.31
     ],
@@ -3706,7 +3701,7 @@ var tableData = [
     "storeName": "HKTVMall - Yummy Spot",
     "packingSpec": "",
     "link": "https://www.hktvmall.com/p/H7781001_S_F00115",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "52.90",
     "bestPrice": "44.90",
     "unitPrice": "44.90",
@@ -3722,7 +3717,6 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9,
       null,
       44.9,
       44.9,
@@ -3741,7 +3735,8 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9
+      44.9,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3859,7 +3854,6 @@ var tableData = [
     "unitPrice": "46.90",
     "unitPriceUnit": "pack",
     "historical": [
-      46.9,
       null,
       46.9,
       46.9,
@@ -3869,6 +3863,7 @@ var tableData = [
       46.9,
       46.9,
       46.9,
+      null,
       null,
       null,
       null,
@@ -3921,7 +3916,7 @@ var tableData = [
       5.97,
       5.97,
       5.97,
-      5.97,
+      null,
       null,
       null,
       null,
@@ -3963,7 +3958,7 @@ var tableData = [
       5.97,
       5.97,
       5.97,
-      5.97,
+      null,
       null,
       null,
       null,
@@ -4118,8 +4113,8 @@ var tableData = [
       5.75,
       5.75,
       5.75,
-      5.75,
       null,
+      5.75,
       5.75,
       5.75,
       5.75,
@@ -4240,8 +4235,8 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H8260001_S_50000035",
     "purchasable": "true",
     "regularPrice": "98.00",
-    "bestPrice": "52.00",
-    "unitPrice": "0.31",
+    "bestPrice": "59.00",
+    "unitPrice": "0.35",
     "unitPriceUnit": "100ml",
     "historical": [
       0.33,
@@ -4257,7 +4252,6 @@ var tableData = [
       0.33,
       0.33,
       0.33,
-      0.33,
       0.31,
       0.31,
       0.31,
@@ -4273,9 +4267,10 @@ var tableData = [
       0.31,
       0.31,
       0.31,
-      0.31
+      0.31,
+      0.35
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "蒸餾水"
     ]
@@ -4358,12 +4353,12 @@ var tableData = [
       0.42,
       0.42,
       0.42,
+      null,
+      null,
+      null,
+      null,
+      null,
       0.42,
-      null,
-      null,
-      null,
-      null,
-      null,
       0.42,
       0.42,
       0.42,
@@ -4686,9 +4681,9 @@ var tableData = [
       0.39,
       0.39,
       0.39,
-      0.39,
       0.33,
       0.33,
+      null,
       null,
       null,
       null,
@@ -4723,7 +4718,7 @@ var tableData = [
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "330毫升 X 8",
     "link": "https://www.hktvmall.com/p/S2090001_S_400148_8C",
-    "purchasable": "false",
+    "purchasable": "true",
     "regularPrice": "48.00",
     "bestPrice": "37.00",
     "unitPrice": "4.63",
@@ -4731,7 +4726,6 @@ var tableData = [
     "historical": [
       4.63,
       4.63,
-      4.63,
       null,
       null,
       4.63,
@@ -4758,7 +4752,8 @@ var tableData = [
       4.63,
       4.63,
       4.63,
-      null
+      null,
+      4.63
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4780,7 +4775,6 @@ var tableData = [
       4.54,
       4.54,
       4.54,
-      4.54,
       null,
       4.54,
       4.54,
@@ -4796,6 +4790,7 @@ var tableData = [
       4.54,
       4.54,
       null,
+      4.54,
       4.54,
       4.54,
       4.54,
