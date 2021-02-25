@@ -337,6 +337,54 @@
     ]
   },
   {
+    "name": "營養麥(不另加糖)",
+    "brandName": "歐寶",
+    "storeName": "HKTVMall - 大街市",
+    "packingSpec": "560克",
+    "link": "https://www.hktvmall.com/p/H0888001_S_10002839",
+    "purchasable": "true",
+    "regularPrice": "52.90",
+    "bestPrice": "45.90",
+    "unitPrice": "8.20",
+    "unitPriceUnit": "100g",
+    "historical": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      8.2
+    ],
+    "lowestForDays": 0,
+    "tags": [
+      "營養穀物"
+    ]
+  },
+  {
     "name": "衣物預潔劑",
     "brandName": "碧蓮",
     "storeName": "HKTVMall - Vanish碧蓮/Lysol/Finish亮碟/Woolite護麗/Harpic瑕辟旗艦店",
@@ -919,8 +967,8 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_10016911",
     "purchasable": "true",
     "regularPrice": "129.90",
-    "bestPrice": "100.90",
-    "unitPrice": "12.61",
+    "bestPrice": "105.90",
+    "unitPrice": "13.24",
     "unitPriceUnit": "kg",
     "historical": [
       11.86,
@@ -952,7 +1000,7 @@
       12.61,
       12.61,
       12.61,
-      12.61
+      13.24
     ],
     "lowestForDays": 13,
     "tags": [
@@ -968,8 +1016,8 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_10016911A",
     "purchasable": "true",
     "regularPrice": "259.80",
-    "bestPrice": "199.90",
-    "unitPrice": "12.49",
+    "bestPrice": "209.00",
+    "unitPrice": "13.06",
     "unitPriceUnit": "kg",
     "historical": [
       11.81,
@@ -1001,7 +1049,7 @@
       12.49,
       12.49,
       12.49,
-      12.49
+      13.06
     ],
     "lowestForDays": 13,
     "tags": [
@@ -2597,8 +2645,8 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_P10014683",
     "purchasable": "true",
     "regularPrice": "299.00",
-    "bestPrice": "188.00",
-    "unitPrice": "12.53",
+    "bestPrice": "193.50",
+    "unitPrice": "12.90",
     "unitPriceUnit": "kg",
     "historical": [
       12.53,
@@ -2630,9 +2678,9 @@
       12.53,
       12.53,
       12.53,
-      12.53
+      12.9
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "金象米",
       "Bart"
@@ -3324,7 +3372,7 @@
     "storeName": "HKTVMall - KL貨棧",
     "packingSpec": "700ml X 24",
     "link": "https://www.hktvmall.com/p/H7509001_S_klwv7000101box",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "85.00",
     "bestPrice": "55.00",
     "unitPrice": "0.33",
@@ -3359,7 +3407,7 @@
       0.33,
       0.33,
       0.33,
-      0.33
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3663,7 +3711,7 @@
     "storeName": "HKTVMall - 揚逸( 香港) 有限公司",
     "packingSpec": "",
     "link": "https://www.hktvmall.com/p/H7730001_S_VITA700",
-    "purchasable": "false",
+    "purchasable": "true",
     "regularPrice": "75.00",
     "bestPrice": "52.00",
     "unitPrice": "0.31",
@@ -3698,7 +3746,7 @@
       0.31,
       0.31,
       null,
-      null
+      0.31
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4824,7 +4872,7 @@
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "620毫升 X 24",
     "link": "https://www.hktvmall.com/p/S2090001_S_400759P",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "112.00",
     "bestPrice": "91.00",
     "unitPrice": "0.61",
@@ -4859,7 +4907,7 @@
       0.61,
       0.61,
       0.61,
-      0.61
+      null
     ],
     "lowestForDays": 0,
     "tags": [
