@@ -13,7 +13,6 @@
     "historical": [
       2118,
       2118,
-      2118,
       null,
       2118,
       2118,
@@ -40,7 +39,8 @@
       2118,
       2118,
       2090,
-      2090
+      2090,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -88,7 +88,7 @@
       1409,
       1409,
       1409,
-      1409
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -110,7 +110,6 @@
       null,
       null,
       null,
-      null,
       1990,
       1990,
       null,
@@ -136,7 +135,8 @@
       1990,
       1990,
       1990,
-      1990
+      1990,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -184,7 +184,7 @@
       2094,
       2094,
       2094,
-      2094
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -205,7 +205,6 @@
     "historical": [
       1887.67,
       1887.67,
-      1887.67,
       null,
       1887.67,
       1887.67,
@@ -232,7 +231,8 @@
       1887.67,
       1887.67,
       1887.67,
-      1887.67
+      1887.67,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -245,7 +245,7 @@
     "storeName": "HKTVMall - 漁鮮快遞",
     "packingSpec": "",
     "link": "https://www.hktvmall.com/p/H0150001_S_S121",
-    "purchasable": "false",
+    "purchasable": "true",
     "regularPrice": "29.00",
     "bestPrice": "29.00",
     "unitPrice": "29.00",
@@ -254,7 +254,6 @@
       29,
       29,
       29,
-      29,
       null,
       null,
       null,
@@ -280,6 +279,7 @@
       29,
       29,
       29,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -301,7 +301,6 @@
     "unitPriceUnit": "kg",
     "historical": [
       19.45,
-      19.45,
       null,
       19.45,
       19.45,
@@ -329,7 +328,8 @@
       19.45,
       19.45,
       19.45,
-      19.45
+      19.45,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -373,11 +373,11 @@
       null,
       null,
       null,
-      null,
       8.2,
       8.2,
       8.2,
-      8.2
+      8.2,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -409,7 +409,6 @@
       5.98,
       5.98,
       5.98,
-      5.98,
       null,
       5.98,
       5.98,
@@ -425,7 +424,8 @@
       5.98,
       5.98,
       5.98,
-      5.98
+      5.98,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -464,7 +464,6 @@
       5.38,
       5.38,
       5.38,
-      5.38,
       5.89,
       5.89,
       5.89,
@@ -473,9 +472,10 @@
       5.89,
       5.89,
       5.89,
-      5.89
+      5.89,
+      null
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 0,
     "tags": [
       "洗衣液"
     ]
@@ -505,7 +505,6 @@
       7.98,
       7.98,
       7.98,
-      7.98,
       8.98,
       8.98,
       8.98,
@@ -521,9 +520,10 @@
       8.98,
       8.98,
       8.98,
-      8.98
+      8.98,
+      null
     ],
-    "lowestForDays": 16,
+    "lowestForDays": 0,
     "tags": [
       "洗衣液"
     ]
@@ -569,7 +569,7 @@
       3.72,
       3.72,
       3.72,
-      3.72
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -617,7 +617,7 @@
       2.91,
       2.91,
       2.91,
-      2.91
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -665,7 +665,7 @@
       2.79,
       2.79,
       2.79,
-      2.79
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -713,7 +713,7 @@
       76.9,
       76.9,
       76.9,
-      76.9
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -762,7 +762,7 @@
       72.9,
       72.9,
       72.9,
-      72.9
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -811,7 +811,7 @@
       44.9,
       44.9,
       44.9,
-      44.9
+      null
     ],
     "lowestForDays": 0
   },
@@ -856,7 +856,7 @@
       3.65,
       3.65,
       3.65,
-      3.65
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -871,8 +871,8 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_10015024C",
     "purchasable": "true",
     "regularPrice": "119.90",
-    "bestPrice": "82.50",
-    "unitPrice": "3.44",
+    "bestPrice": "78.00",
+    "unitPrice": "3.25",
     "unitPriceUnit": "250ml",
     "historical": [
       3.44,
@@ -904,7 +904,7 @@
       3.44,
       3.44,
       3.44,
-      3.44
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -952,7 +952,7 @@
       14.78,
       14.78,
       14.78,
-      14.78
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -973,7 +973,6 @@
     "historical": [
       null,
       null,
-      null,
       11.86,
       11.86,
       11.86,
@@ -1000,9 +999,10 @@
       13.24,
       13.24,
       13.24,
-      13.24
+      13.24,
+      null
     ],
-    "lowestForDays": 16,
+    "lowestForDays": 0,
     "tags": [
       "金象米",
       "Bart"
@@ -1022,7 +1022,6 @@
     "historical": [
       null,
       null,
-      null,
       11.81,
       11.81,
       11.81,
@@ -1049,9 +1048,10 @@
       13.06,
       13.06,
       13.06,
-      13.06
+      13.06,
+      null
     ],
-    "lowestForDays": 16,
+    "lowestForDays": 0,
     "tags": [
       "金象米",
       "Bart"
@@ -1070,7 +1070,6 @@
     "unitPriceUnit": "pack",
     "historical": [
       71.9,
-      71.9,
       80.1,
       80.1,
       80.1,
@@ -1098,9 +1097,10 @@
       80.1,
       80.1,
       80.1,
-      80.1
+      80.1,
+      null
     ],
-    "lowestForDays": 28,
+    "lowestForDays": 0,
     "tags": [
       "成人紙尿片",
       "Grampa"
@@ -1121,21 +1121,21 @@
       null,
       null,
       null,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
+      34.9,
       null,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
-      34.9,
       null,
       null,
       null,
@@ -1170,21 +1170,21 @@
       null,
       null,
       null,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
+      27.95,
       null,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
-      27.95,
       null,
       null,
       null,
@@ -1212,11 +1212,10 @@
     "link": "https://www.hktvmall.com/p/H0888001_S_10020081",
     "purchasable": "true",
     "regularPrice": "248.00",
-    "bestPrice": "219.90",
-    "unitPrice": "52.36",
+    "bestPrice": "248.00",
+    "unitPrice": "59.05",
     "unitPriceUnit": "100g",
     "historical": [
-      47.6,
       47.6,
       45.48,
       40.05,
@@ -1245,9 +1244,10 @@
       52.36,
       52.36,
       52.36,
-      52.36
+      52.36,
+      null
     ],
-    "lowestForDays": 26
+    "lowestForDays": 0
   },
   {
     "name": "屈臣氏蒸餾水",
@@ -1290,7 +1290,7 @@
       2.36,
       2.36,
       2.36,
-      2.36
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1338,7 +1338,7 @@
       0.87,
       0.87,
       0.87,
-      0.87
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1386,7 +1386,7 @@
       0.66,
       0.66,
       0.66,
-      0.66
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1434,7 +1434,7 @@
       0.65,
       0.65,
       0.65,
-      0.65
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1482,7 +1482,7 @@
       0.52,
       0.52,
       0.52,
-      0.52
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1530,7 +1530,7 @@
       0.93,
       0.93,
       0.93,
-      0.93
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1578,7 +1578,7 @@
       0.66,
       0.66,
       0.66,
-      0.66
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1626,7 +1626,7 @@
       0.65,
       0.65,
       0.65,
-      0.65
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1674,7 +1674,7 @@
       0.52,
       0.52,
       0.52,
-      0.52
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1701,7 +1701,6 @@
       3.49,
       3.49,
       3.49,
-      3.49,
       null,
       3.49,
       3.49,
@@ -1722,7 +1721,8 @@
       3.49,
       3.49,
       3.49,
-      3.49
+      3.49,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1749,7 +1749,6 @@
       2.69,
       2.69,
       2.69,
-      2.69,
       null,
       2.69,
       2.69,
@@ -1770,9 +1769,10 @@
       3.35,
       3.35,
       3.35,
-      3.35
+      3.35,
+      null
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 0,
     "tags": [
       "洗衣液"
     ]
@@ -1818,7 +1818,7 @@
       5.49,
       5.49,
       5.49,
-      5.49
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1867,7 +1867,7 @@
       4.66,
       4.66,
       4.66,
-      4.66
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1898,7 +1898,6 @@
       3.59,
       3.59,
       3.59,
-      3.59,
       3.75,
       3.75,
       3.75,
@@ -1916,7 +1915,8 @@
       3.75,
       3.75,
       3.75,
-      3.75
+      3.75,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1952,7 +1952,6 @@
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
       3.4,
       3.4,
@@ -1964,7 +1963,8 @@
       3.4,
       3.4,
       3.4,
-      3.4
+      3.4,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1984,7 +1984,6 @@
     "unitPriceUnit": "roll",
     "historical": [
       3.59,
-      3.59,
       null,
       3.59,
       3.59,
@@ -2012,9 +2011,10 @@
       3.75,
       3.75,
       3.75,
-      3.75
+      3.75,
+      null
     ],
-    "lowestForDays": 18,
+    "lowestForDays": 0,
     "tags": [
       "廁紙"
     ]
@@ -2032,7 +2032,6 @@
     "unitPriceUnit": "roll",
     "historical": [
       3.3,
-      3.3,
       null,
       3.3,
       3.3,
@@ -2060,9 +2059,10 @@
       3.4,
       3.4,
       3.4,
-      3.4
+      3.4,
+      null
     ],
-    "lowestForDays": 12,
+    "lowestForDays": 0,
     "tags": [
       "廁紙"
     ]
@@ -2080,7 +2080,6 @@
     "unitPriceUnit": "roll",
     "historical": [
       4.58,
-      4.58,
       null,
       null,
       4.38,
@@ -2108,7 +2107,8 @@
       4.58,
       4.58,
       4.58,
-      4.58
+      4.58,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2128,7 +2128,6 @@
     "unitPriceUnit": "roll",
     "historical": [
       5.45,
-      5.45,
       null,
       5.45,
       5.45,
@@ -2156,7 +2155,8 @@
       5.45,
       5.45,
       5.45,
-      5.45
+      5.45,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2204,7 +2204,7 @@
       2.91,
       2.91,
       2.91,
-      2.91
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2252,7 +2252,7 @@
       2.79,
       2.79,
       2.79,
-      2.79
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2300,7 +2300,7 @@
       2.71,
       2.71,
       2.71,
-      2.71
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2321,7 +2321,6 @@
     "historical": [
       3.74,
       3.74,
-      3.74,
       3.13,
       3.74,
       3.74,
@@ -2348,9 +2347,10 @@
       3.74,
       3.74,
       3.74,
-      3.74
+      3.74,
+      null
     ],
-    "lowestForDays": 12,
+    "lowestForDays": 0,
     "tags": [
       "可樂"
     ]
@@ -2396,7 +2396,7 @@
       5.58,
       5.58,
       5.58,
-      5.58
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2415,7 +2415,6 @@
     "unitPrice": "3.65",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.65,
       3.65,
       3.65,
       3.65,
@@ -2444,9 +2443,10 @@
       3.65,
       3.65,
       3.65,
-      3.65
+      3.65,
+      null
     ],
-    "lowestForDays": 5,
+    "lowestForDays": 0,
     "tags": [
       "鈣思寶"
     ]
@@ -2463,7 +2463,6 @@
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.44,
       3.44,
       3.44,
       3.44,
@@ -2492,7 +2491,8 @@
       3.44,
       3.44,
       3.44,
-      3.44
+      3.44,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2557,7 +2557,6 @@
     "unitPriceUnit": "100ml",
     "historical": [
       9.39,
-      9.39,
       11.75,
       11.75,
       11.75,
@@ -2585,9 +2584,10 @@
       11.75,
       11.75,
       11.75,
-      11.75
+      11.75,
+      null
     ],
-    "lowestForDays": 21
+    "lowestForDays": 0
   },
   {
     "name": "[原箱] 純蒸餾水",
@@ -2630,7 +2630,7 @@
       0.38,
       0.38,
       0.38,
-      0.38
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2674,13 +2674,13 @@
       12.53,
       12.53,
       12.53,
-      12.53,
       12.9,
       12.9,
       12.9,
-      12.9
+      12.9,
+      null
     ],
-    "lowestForDays": 4,
+    "lowestForDays": 0,
     "tags": [
       "金象米",
       "Bart"
@@ -2698,7 +2698,6 @@
     "unitPrice": "0.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.49,
       0.49,
       0.49,
       0.49,
@@ -2727,7 +2726,8 @@
       0.49,
       0.49,
       0.49,
-      0.49
+      0.49,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2750,7 +2750,6 @@
       0.49,
       0.49,
       0.49,
-      0.49,
       0.69,
       0.49,
       0.49,
@@ -2775,7 +2774,8 @@
       0.49,
       0.49,
       0.49,
-      0.49
+      0.49,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2796,7 +2796,6 @@
     "historical": [
       3.52,
       3.52,
-      3.52,
       3.33,
       3.33,
       3.33,
@@ -2823,9 +2822,10 @@
       3.52,
       3.52,
       3.52,
-      3.52
+      3.52,
+      null
     ],
-    "lowestForDays": 18,
+    "lowestForDays": 0,
     "tags": [
       "廁紙"
     ]
@@ -2844,7 +2844,6 @@
     "historical": [
       3.52,
       3.52,
-      3.52,
       3.33,
       3.33,
       3.33,
@@ -2871,9 +2870,10 @@
       3.52,
       3.52,
       3.52,
-      3.52
+      3.52,
+      null
     ],
-    "lowestForDays": 18,
+    "lowestForDays": 0,
     "tags": [
       "廁紙"
     ]
@@ -2919,7 +2919,7 @@
       3.58,
       3.58,
       3.58,
-      3.58
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2946,7 +2946,6 @@
       0.37,
       0.37,
       0.37,
-      0.37,
       null,
       0.37,
       0.37,
@@ -2967,7 +2966,8 @@
       0.37,
       0.37,
       0.37,
-      0.37
+      0.37,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2990,7 +2990,6 @@
       31.9,
       31.9,
       31.9,
-      31.9,
       28,
       28,
       28,
@@ -3006,6 +3005,7 @@
       31.9,
       31.9,
       28,
+      null,
       null,
       null,
       null,
@@ -3387,7 +3387,6 @@
       0.37,
       0.37,
       0.37,
-      0.37,
       null,
       null,
       null,
@@ -3407,7 +3406,8 @@
       null,
       null,
       0.33,
-      0.33
+      0.33,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3435,7 +3435,6 @@
       7,
       7,
       7,
-      7,
       null,
       null,
       null,
@@ -3455,7 +3454,8 @@
       7,
       7,
       7,
-      7
+      7,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3474,7 +3474,6 @@
     "unitPrice": "6.60",
     "unitPriceUnit": "330ml",
     "historical": [
-      6.6,
       null,
       null,
       6.6,
@@ -3503,7 +3502,8 @@
       6.6,
       6.6,
       6.6,
-      6.6
+      6.6,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3531,7 +3531,6 @@
       5.67,
       5.67,
       5.67,
-      5.67,
       null,
       null,
       null,
@@ -3551,9 +3550,10 @@
       6.33,
       6.33,
       6.33,
-      6.33
+      6.33,
+      null
     ],
-    "lowestForDays": 12,
+    "lowestForDays": 0,
     "tags": [
       "鈣思寶"
     ]
@@ -3719,7 +3719,6 @@
     "historical": [
       0.33,
       0.33,
-      0.33,
       0.31,
       0.31,
       0.31,
@@ -3746,9 +3745,10 @@
       0.31,
       0.31,
       0.32,
-      0.32
+      0.32,
+      null
     ],
-    "lowestForDays": 2,
+    "lowestForDays": 0,
     "tags": [
       "蒸餾水"
     ]
@@ -3766,7 +3766,6 @@
     "unitPriceUnit": "pack",
     "historical": [
       44.9,
-      44.9,
       null,
       44.9,
       44.9,
@@ -3794,7 +3793,8 @@
       44.9,
       44.9,
       44.9,
-      44.9
+      44.9,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3843,7 +3843,7 @@
       46,
       46,
       46,
-      46
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3892,7 +3892,7 @@
       46.9,
       46.9,
       46.9,
-      46.9
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3912,7 +3912,7 @@
     "unitPrice": "46.90",
     "unitPriceUnit": "pack",
     "historical": [
-      46.9,
+      null,
       null,
       null,
       null,
@@ -3965,7 +3965,7 @@
       5.97,
       5.97,
       5.97,
-      5.97,
+      null,
       null,
       null,
       null,
@@ -4086,7 +4086,7 @@
       5.75,
       5.75,
       5.75,
-      5.75
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4134,7 +4134,7 @@
       6,
       6,
       6,
-      6
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4153,7 +4153,6 @@
     "unitPrice": "5.75",
     "unitPriceUnit": "can",
     "historical": [
-      5.75,
       5.75,
       5.75,
       5.75,
@@ -4182,7 +4181,8 @@
       5.75,
       5.75,
       5.75,
-      5.75
+      5.75,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4230,7 +4230,7 @@
       6.24,
       6.24,
       6.24,
-      6.24
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4278,7 +4278,7 @@
       0.49,
       0.49,
       0.49,
-      0.49
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4301,7 +4301,6 @@
       0.33,
       0.33,
       0.33,
-      0.33,
       0.31,
       0.31,
       0.31,
@@ -4326,9 +4325,10 @@
       0.35,
       0.35,
       0.35,
-      0.35
+      0.35,
+      null
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 0,
     "tags": [
       "蒸餾水"
     ]
@@ -4374,7 +4374,7 @@
       0.49,
       0.49,
       0.49,
-      0.49
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4402,7 +4402,6 @@
       0.42,
       0.42,
       0.42,
-      0.42,
       null,
       null,
       null,
@@ -4422,7 +4421,8 @@
       0.42,
       0.42,
       0.42,
-      0.42
+      0.42,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4715,7 +4715,7 @@
       4.99,
       4.99,
       4.99,
-      4.99
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4728,7 +4728,7 @@
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "700毫升 x 24",
     "link": "https://www.hktvmall.com/p/S2090001_S_400106",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "91.00",
     "bestPrice": "55.00",
     "unitPrice": "0.33",
@@ -4762,8 +4762,8 @@
       null,
       null,
       null,
-      null,
-      0.33
+      0.33,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4776,14 +4776,13 @@
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "330毫升 X 8",
     "link": "https://www.hktvmall.com/p/S2090001_S_400148_8C",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "48.00",
     "bestPrice": "37.00",
     "unitPrice": "4.63",
     "unitPriceUnit": "can",
     "historical": [
       4.63,
-      4.63,
       null,
       4.63,
       4.63,
@@ -4811,7 +4810,8 @@
       4.63,
       4.63,
       4.63,
-      4.63
+      4.63,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4838,7 +4838,6 @@
       4.54,
       4.54,
       4.54,
-      4.54,
       null,
       4.54,
       4.54,
@@ -4859,7 +4858,8 @@
       4.54,
       4.54,
       4.54,
-      4.54
+      4.54,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4903,11 +4903,11 @@
       0.61,
       0.61,
       0.61,
-      0.61,
       null,
       null,
       null,
-      0.53
+      0.53,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
