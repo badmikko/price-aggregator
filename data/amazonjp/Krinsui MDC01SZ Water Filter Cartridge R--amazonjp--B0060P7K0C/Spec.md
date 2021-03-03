@@ -4,9 +4,9 @@
 | link            | https://www.amazon.co.jp/-/en/dp/B0060P7K0C                              |
 | Name            | Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series |
 | Brand Name      | 三菱ケミカル・クリンスイ                                                             |
-| Store Name      | Amazon JP - やまかめショップ                                                     |
+| Store Name      | Amazon JP - BIT WAVE                                                     |
 | Purchasable     | true                                                                     |
-| Regular Price   | 7800                                                                     |
-| Best Price      | 7800                                                                     |
-| Unit Price      | 2600.00                                                                  |
+| Regular Price   | 6500                                                                     |
+| Best Price      | 6500                                                                     |
+| Unit Price      | 2166.67                                                                  |
 | Unit Price Unit | item                                                                     |
