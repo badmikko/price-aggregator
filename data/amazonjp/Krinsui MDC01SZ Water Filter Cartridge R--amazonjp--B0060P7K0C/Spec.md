@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                             |
 | Store Name      | Amazon JP - BIT WAVE                                                     |
 | Purchasable     | true                                                                     |
-| Regular Price   | 6500                                                                     |
-| Best Price      | 6500                                                                     |
-| Unit Price      | 2166.67                                                                  |
+| Regular Price   | 6499                                                                     |
+| Best Price      | 6499                                                                     |
+| Unit Price      | 2166.33                                                                  |
 | Unit Price Unit | item                                                                     |

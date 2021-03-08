@@ -7,6 +7,6 @@
 | link            | https://www.hktvmall.com/p/H0888001_S_P10050052A |
 | Purchasable     | true                                             |
 | Regular Price   | 240.00                                           |
-| Best Price      | 190.00                                           |
-| Unit Price      | 3.52                                             |
+| Best Price      | 198.00                                           |
+| Unit Price      | 3.67                                             |
 | Unit Price Unit | roll                                             |
