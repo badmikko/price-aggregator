@@ -7,6 +7,6 @@
 | link            | https://www.hktvmall.com/p/H0150001_S_S121 |
 | Purchasable     | true                                       |
 | Regular Price   | 29.00                                      |
-| Best Price      | 24.00                                      |
-| Unit Price      | 24.00                                      |
+| Best Price      | 29.00                                      |
+| Unit Price      | 29.00                                      |
 | Unit Price Unit | pack                                       |

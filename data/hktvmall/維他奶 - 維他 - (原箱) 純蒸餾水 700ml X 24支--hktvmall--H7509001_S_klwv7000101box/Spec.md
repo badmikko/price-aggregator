@@ -7,6 +7,6 @@
 | link            | https://www.hktvmall.com/p/H7509001_S_klwv7000101box |
 | Purchasable     | true                                                 |
 | Regular Price   | 85.00                                                |
-| Best Price      | 55.00                                                |
-| Unit Price      | 0.33                                                 |
+| Best Price      | 54.00                                                |
+| Unit Price      | 0.32                                                 |
 | Unit Price Unit | 100ml                                                |

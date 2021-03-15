@@ -7,6 +7,6 @@
 | link            | https://www.hktvmall.com/p/S2090001_S_400759F |
 | Purchasable     | true                                          |
 | Regular Price   | 177.00                                        |
-| Best Price      | 165.00                                        |
-| Unit Price      | 4.54                                          |
+| Best Price      | 158.00                                        |
+| Unit Price      | 4.34                                          |
 | Unit Price Unit | 330ml                                         |
