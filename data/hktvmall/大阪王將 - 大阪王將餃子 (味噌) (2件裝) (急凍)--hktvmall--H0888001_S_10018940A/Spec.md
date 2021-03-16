@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 大和牛屋                                 |
 | Packing Spec    | 204gx2                                          |
 | link            | https://www.hktvmall.com/p/H0888001_S_10018940A |
-| Purchasable     | false                                           |
+| Purchasable     | true                                            |
 | Regular Price   | 71.80                                           |
 | Best Price      | 48.00                                           |
 | Unit Price      | 24.00                                           |
