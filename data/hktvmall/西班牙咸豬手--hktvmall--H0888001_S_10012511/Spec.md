@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 食尚煮意                                |
 | Packing Spec    | 約700克^                                         |
 | link            | https://www.hktvmall.com/p/H0888001_S_10012511 |
-| Purchasable     | false                                          |
+| Purchasable     | true                                           |
 | Regular Price   | 49.90                                          |
 | Best Price      | 44.90                                          |
 | Unit Price      | 44.90                                          |

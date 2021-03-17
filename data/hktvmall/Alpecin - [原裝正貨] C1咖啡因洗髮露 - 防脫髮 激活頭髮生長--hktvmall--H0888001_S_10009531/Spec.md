@@ -1,6 +1,6 @@
 | Label           | Value                                          |
 | --------------- | ---------------------------------------------- |
-| Name            | [原裝正貨] C1咖啡因洗髮露 - 防脫髮 激活頭髮生長                   |
+| Name            | [原裝正貨] C1咖啡因洗髮露 - 防脫髮 激活頭髮生長 (新舊包裝隨機發送)        |
 | Brand Name      | Alpecin                                        |
 | Store Name      | HKTVMall - Alpecin/Plantur 官方旗艦店               |
 | Packing Spec    | 250毫升                                          |
