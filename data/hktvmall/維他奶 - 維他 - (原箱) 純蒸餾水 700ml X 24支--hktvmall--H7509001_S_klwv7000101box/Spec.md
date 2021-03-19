@@ -5,8 +5,8 @@
 | Store Name      | HKTVMall - KL貨棧                                      |
 | Packing Spec    | 700ml X 24                                           |
 | link            | https://www.hktvmall.com/p/H7509001_S_klwv7000101box |
-| Purchasable     | false                                                |
+| Purchasable     | true                                                 |
 | Regular Price   | 85.00                                                |
-| Best Price      | 54.00                                                |
-| Unit Price      | 0.32                                                 |
+| Best Price      | 58.00                                                |
+| Unit Price      | 0.35                                                 |
 | Unit Price Unit | 100ml                                                |
