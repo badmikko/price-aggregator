@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - KL貨棧                                  |
 | Packing Spec    |                                                  |
 | link            | https://www.hktvmall.com/p/H7509001_S_vtm2500601 |
-| Purchasable     | true                                             |
+| Purchasable     | false                                            |
 | Regular Price   | 48.00                                            |
 | Best Price      | 38.00                                            |
 | Unit Price      | 6.33                                             |
