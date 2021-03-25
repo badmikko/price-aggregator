@@ -7,6 +7,6 @@
 | link            | https://www.hktvmall.com/p/H7730001_S_VITA700 |
 | Purchasable     | true                                          |
 | Regular Price   | 65.00                                         |
-| Best Price      | 59.00                                         |
-| Unit Price      | 0.35                                          |
+| Best Price      | 62.00                                         |
+| Unit Price      | 0.37                                          |
 | Unit Price Unit | 100ml                                         |
