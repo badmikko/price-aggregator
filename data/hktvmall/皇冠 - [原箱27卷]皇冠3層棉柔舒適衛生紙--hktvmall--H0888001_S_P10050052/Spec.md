@@ -5,8 +5,8 @@
 | Store Name      | HKTVMall - 皇冠/健力氏/絲潔紙品官方網店                      |
 | Packing Spec    | 27卷                                             |
 | link            | https://www.hktvmall.com/p/H0888001_S_P10050052 |
-| Purchasable     | true                                            |
+| Purchasable     | false                                           |
 | Regular Price   | 120.00                                          |
-| Best Price      | 90.00                                           |
-| Unit Price      | 3.33                                            |
+| Best Price      | 99.00                                           |
+| Unit Price      | 3.67                                            |
 | Unit Price Unit | roll                                            |
