@@ -5,8 +5,8 @@
 | Store Name      | HKTVMall - Vanish碧蓮/Lysol/Finish亮碟/Woolite護麗/Harpic瑕辟旗艦店 |
 | Packing Spec    | 500毫升                                                    |
 | link            | https://www.hktvmall.com/p/H0888001_S_10003252           |
-| Purchasable     | false                                                    |
+| Purchasable     | true                                                     |
 | Regular Price   | 49.90                                                    |
-| Best Price      | 35.90                                                    |
-| Unit Price      | 7.18                                                     |
+| Best Price      | 39.90                                                    |
+| Unit Price      | 7.98                                                     |
 | Unit Price Unit | 100ml                                                    |

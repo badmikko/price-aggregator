@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - Friends Store                      |
 | Packing Spec    | 250毫升 X 6 X 2                                 |
 | link            | https://www.hktvmall.com/p/S2090001_S_4001031 |
-| Purchasable     | false                                         |
+| Purchasable     | true                                          |
 | Regular Price   | 68.00                                         |
 | Best Price      | 59.90                                         |
 | Unit Price      | 4.99                                          |

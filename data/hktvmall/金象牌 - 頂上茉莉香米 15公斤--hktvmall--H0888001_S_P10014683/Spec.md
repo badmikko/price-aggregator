@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 金源米業                                 |
 | Packing Spec    | 15公斤                                            |
 | link            | https://www.hktvmall.com/p/H0888001_S_P10014683 |
-| Purchasable     | false                                           |
+| Purchasable     | true                                            |
 | Regular Price   | 299.00                                          |
 | Best Price      | 193.50                                          |
 | Unit Price      | 12.90                                           |
