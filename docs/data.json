@@ -4,14 +4,13 @@
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - ●onHOME オンホーム●",
+    "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "4178",
-    "bestPrice": "4178",
-    "unitPrice": "2089.00",
+    "regularPrice": "4236",
+    "bestPrice": "4236",
+    "unitPrice": "2118.00",
     "unitPriceUnit": "item",
     "historical": [
-      2089,
       2089,
       2089,
       2089,
@@ -40,9 +39,10 @@
       2118,
       2089,
       2089,
-      2089
+      2089,
+      2118
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "濾水器"
     ]
@@ -77,8 +77,8 @@
       1409,
       1409,
       1409,
-      1409,
       null,
+      1409,
       1409,
       1409,
       1409,
@@ -121,7 +121,6 @@
       2163.33,
       2163.33,
       2163.33,
-      2163.33,
       2600,
       2600,
       null,
@@ -132,6 +131,7 @@
       2990,
       2466.67,
       2466.67,
+      2163.33,
       2163.33,
       2163.33,
       2163.33,
@@ -163,7 +163,6 @@
       2094,
       2094,
       2094,
-      2094,
       2115,
       2115,
       2115,
@@ -175,6 +174,7 @@
       2094,
       2094,
       null,
+      2094,
       2094,
       2094,
       2094,
@@ -221,8 +221,8 @@
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
@@ -254,7 +254,6 @@
       29,
       29,
       29,
-      29,
       null,
       29,
       29,
@@ -280,6 +279,7 @@
       29,
       29,
       29,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -318,7 +318,6 @@
       19.45,
       19.45,
       19.45,
-      19.45,
       null,
       19.45,
       null,
@@ -329,6 +328,7 @@
       19.45,
       19.45,
       19.45,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -366,7 +366,6 @@
       8.2,
       8.2,
       8.2,
-      8.2,
       null,
       8.2,
       null,
@@ -377,6 +376,7 @@
       8.2,
       8.2,
       8.2,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -404,7 +404,6 @@
       6.58,
       6.58,
       6.58,
-      6.58,
       5.98,
       5.98,
       5.98,
@@ -425,6 +424,7 @@
       5.98,
       5.98,
       5.98,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -452,7 +452,6 @@
       6.58,
       6.58,
       6.58,
-      6.58,
       5.89,
       5.89,
       5.89,
@@ -473,6 +472,7 @@
       5.98,
       5.98,
       5.98,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -496,7 +496,6 @@
       9.98,
       9.98,
       9.98,
-      9.98,
       null,
       null,
       9.98,
@@ -521,6 +520,7 @@
       7.98,
       7.98,
       7.98,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -558,7 +558,6 @@
       3.72,
       3.72,
       3.72,
-      3.72,
       null,
       3.72,
       null,
@@ -569,6 +568,7 @@
       3.72,
       3.72,
       3.72,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -606,7 +606,6 @@
       2.91,
       2.91,
       2.91,
-      2.91,
       null,
       2.91,
       null,
@@ -617,6 +616,7 @@
       2.91,
       2.91,
       2.91,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -654,7 +654,6 @@
       2.79,
       2.79,
       2.79,
-      2.79,
       null,
       2.79,
       null,
@@ -665,6 +664,7 @@
       2.79,
       2.79,
       2.79,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -702,7 +702,6 @@
       76.9,
       76.9,
       76.9,
-      76.9,
       null,
       76.9,
       null,
@@ -713,6 +712,7 @@
       76.9,
       76.9,
       76.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -751,7 +751,6 @@
       72.9,
       72.9,
       72.9,
-      72.9,
       null,
       72.9,
       null,
@@ -762,6 +761,7 @@
       72.9,
       72.9,
       72.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -800,7 +800,6 @@
       44.9,
       44.9,
       44.9,
-      44.9,
       null,
       44.9,
       null,
@@ -811,6 +810,7 @@
       44.9,
       44.9,
       44.9,
+      null,
       null
     ],
     "lowestForDays": 0
@@ -842,7 +842,6 @@
       3.65,
       3.65,
       3.65,
-      3.65,
       null,
       null,
       null,
@@ -856,6 +855,7 @@
       3.65,
       3.65,
       3.65,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -876,7 +876,6 @@
     "unitPriceUnit": "250ml",
     "historical": [
       3.44,
-      3.44,
       3.61,
       3.61,
       3.61,
@@ -904,6 +903,7 @@
       3.44,
       3.44,
       3.44,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -941,7 +941,6 @@
       14.78,
       14.78,
       14.78,
-      14.78,
       null,
       14.78,
       null,
@@ -952,6 +951,7 @@
       14.78,
       14.78,
       14.78,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -972,7 +972,6 @@
     "unitPriceUnit": "kg",
     "historical": [
       13.24,
-      13.24,
       13.74,
       13.74,
       13.74,
@@ -1000,6 +999,7 @@
       13.74,
       13.74,
       13.74,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1021,7 +1021,6 @@
     "unitPriceUnit": "kg",
     "historical": [
       12.49,
-      12.49,
       13.44,
       13.44,
       13.44,
@@ -1049,6 +1048,7 @@
       13.44,
       13.44,
       13.44,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1087,7 +1087,6 @@
       80.1,
       80.1,
       80.1,
-      80.1,
       null,
       80.1,
       null,
@@ -1098,6 +1097,7 @@
       80.1,
       80.1,
       80.1,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1234,7 +1234,6 @@
       52.36,
       52.36,
       52.36,
-      52.36,
       null,
       52.36,
       null,
@@ -1245,6 +1244,7 @@
       52.36,
       52.36,
       52.36,
+      null,
       null
     ],
     "lowestForDays": 0
@@ -1279,7 +1279,6 @@
       2.36,
       2.36,
       2.36,
-      2.36,
       null,
       2.36,
       null,
@@ -1290,6 +1289,7 @@
       2.36,
       2.36,
       2.36,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1327,7 +1327,6 @@
       0.87,
       0.87,
       0.87,
-      0.87,
       null,
       0.87,
       null,
@@ -1338,6 +1337,7 @@
       0.87,
       0.87,
       0.87,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1375,7 +1375,6 @@
       0.66,
       0.66,
       0.66,
-      0.66,
       null,
       0.66,
       null,
@@ -1386,6 +1385,7 @@
       0.66,
       0.66,
       0.66,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1423,7 +1423,6 @@
       0.65,
       0.65,
       0.65,
-      0.65,
       null,
       0.65,
       null,
@@ -1434,6 +1433,7 @@
       0.65,
       0.65,
       0.65,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1471,7 +1471,6 @@
       0.52,
       0.52,
       0.52,
-      0.52,
       null,
       null,
       null,
@@ -1482,6 +1481,7 @@
       0.52,
       0.52,
       0.52,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1519,7 +1519,6 @@
       0.93,
       0.93,
       0.93,
-      0.93,
       null,
       0.93,
       null,
@@ -1530,6 +1529,7 @@
       0.93,
       0.93,
       0.93,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1567,7 +1567,6 @@
       0.66,
       0.66,
       0.66,
-      0.66,
       null,
       0.66,
       null,
@@ -1578,6 +1577,7 @@
       0.66,
       0.66,
       0.66,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1615,7 +1615,6 @@
       0.65,
       0.65,
       0.65,
-      0.65,
       null,
       0.65,
       null,
@@ -1626,6 +1625,7 @@
       0.65,
       0.65,
       0.65,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1650,7 +1650,6 @@
       0.52,
       0.52,
       0.52,
-      0.52,
       null,
       0.52,
       0.52,
@@ -1674,6 +1673,7 @@
       0.52,
       0.52,
       0.52,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1693,7 +1693,6 @@
     "unitPrice": "3.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      3.49,
       null,
       null,
       null,
@@ -1722,6 +1721,7 @@
       3.49,
       3.49,
       3.49,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1741,7 +1741,6 @@
     "unitPrice": "2.69",
     "unitPriceUnit": "100ml",
     "historical": [
-      3.49,
       null,
       null,
       null,
@@ -1770,6 +1769,7 @@
       2.69,
       2.69,
       2.69,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1795,7 +1795,6 @@
       5.49,
       5.49,
       5.49,
-      5.49,
       4.09,
       4.09,
       4.09,
@@ -1818,6 +1817,7 @@
       5.49,
       5.49,
       5.49,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1844,7 +1844,6 @@
       4.66,
       4.66,
       4.66,
-      4.66,
       3.82,
       3.82,
       null,
@@ -1867,6 +1866,7 @@
       4.66,
       4.66,
       4.66,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1891,7 +1891,6 @@
       3.59,
       3.59,
       3.59,
-      3.59,
       3.33,
       3.33,
       3.33,
@@ -1916,6 +1915,7 @@
       3.75,
       3.75,
       3.75,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1940,7 +1940,6 @@
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
       3.3,
       3.3,
@@ -1964,6 +1963,7 @@
       3.4,
       3.3,
       3.3,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -1987,7 +1987,6 @@
       3.59,
       3.59,
       3.59,
-      3.59,
       3.33,
       3.33,
       3.33,
@@ -2012,6 +2011,7 @@
       3.75,
       3.75,
       3.75,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2042,7 +2042,6 @@
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
       3.3,
       3.3,
@@ -2060,6 +2059,7 @@
       3.4,
       3.3,
       3.3,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2097,7 +2097,6 @@
       4.38,
       4.38,
       4.38,
-      4.38,
       null,
       null,
       null,
@@ -2108,6 +2107,7 @@
       4.58,
       4.38,
       4.38,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2131,7 +2131,6 @@
       null,
       null,
       null,
-      null,
       5.45,
       5.45,
       5.45,
@@ -2156,6 +2155,7 @@
       null,
       5.45,
       5.45,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2186,7 +2186,6 @@
       2.91,
       2.91,
       2.91,
-      2.91,
       2.5,
       2.91,
       2.91,
@@ -2204,6 +2203,7 @@
       2.91,
       2.91,
       2.91,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2227,7 +2227,6 @@
       2.79,
       2.79,
       2.79,
-      2.79,
       2.5,
       2.79,
       2.79,
@@ -2252,6 +2251,7 @@
       2.79,
       2.79,
       2.79,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2289,7 +2289,6 @@
       2.71,
       2.71,
       2.71,
-      2.71,
       null,
       2.71,
       null,
@@ -2300,6 +2299,7 @@
       2.71,
       2.71,
       2.71,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2330,7 +2330,6 @@
       3.74,
       3.74,
       3.74,
-      3.74,
       3.13,
       3.74,
       3.74,
@@ -2348,6 +2347,7 @@
       null,
       null,
       3.74,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2385,7 +2385,6 @@
       5.58,
       5.58,
       5.58,
-      5.58,
       null,
       5.58,
       null,
@@ -2396,6 +2395,7 @@
       5.58,
       5.58,
       5.58,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2415,7 +2415,6 @@
     "unitPrice": "3.65",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.65,
       null,
       3.65,
@@ -2444,6 +2443,7 @@
       3.65,
       3.65,
       3.65,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2463,7 +2463,6 @@
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.61,
       null,
       3.61,
@@ -2492,6 +2491,7 @@
       3.44,
       3.44,
       3.44,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2570,7 +2570,6 @@
       11.75,
       11.75,
       11.75,
-      11.75,
       11.04,
       11.04,
       11.04,
@@ -2585,6 +2584,7 @@
       11.04,
       11.04,
       11.04,
+      null,
       null
     ],
     "lowestForDays": 0
@@ -2619,7 +2619,6 @@
       0.38,
       0.38,
       0.38,
-      0.38,
       null,
       0.38,
       null,
@@ -2630,6 +2629,7 @@
       0.38,
       0.38,
       0.38,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2667,7 +2667,6 @@
       12.9,
       12.9,
       12.9,
-      12.9,
       null,
       null,
       null,
@@ -2678,6 +2677,7 @@
       12.9,
       12.9,
       12.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2716,7 +2716,6 @@
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       null,
@@ -2727,6 +2726,7 @@
       0.39,
       0.39,
       0.39,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2751,7 +2751,6 @@
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       0.49,
@@ -2767,6 +2766,7 @@
       null,
       null,
       0.49,
+      null,
       null,
       null,
       null,
@@ -2798,7 +2798,6 @@
       3.67,
       3.67,
       3.67,
-      3.67,
       3.33,
       3.33,
       3.33,
@@ -2821,6 +2820,7 @@
       null,
       null,
       3.67,
+      null,
       null,
       null,
       null
@@ -2846,7 +2846,6 @@
       3.67,
       3.67,
       3.67,
-      3.67,
       3.33,
       3.33,
       3.33,
@@ -2863,6 +2862,7 @@
       3.67,
       null,
       3.67,
+      null,
       null,
       null,
       null,
@@ -2898,7 +2898,6 @@
       3.58,
       3.58,
       3.58,
-      3.58,
       3.08,
       3.08,
       3.08,
@@ -2919,6 +2918,7 @@
       null,
       null,
       3.58,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2938,7 +2938,6 @@
     "unitPrice": "0.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.37,
       null,
       null,
       0.37,
@@ -2967,6 +2966,7 @@
       0.35,
       0.35,
       0.35,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -2997,7 +2997,6 @@
       null,
       null,
       null,
-      null,
       31.9,
       31.9,
       31.9,
@@ -3015,6 +3014,7 @@
       31.9,
       31.9,
       31.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3039,7 +3039,6 @@
       null,
       null,
       null,
-      null,
       29.8,
       29.8,
       28,
@@ -3056,6 +3055,7 @@
       29.8,
       null,
       29.8,
+      null,
       null,
       null,
       null,
@@ -3095,7 +3095,6 @@
       null,
       null,
       null,
-      null,
       31.9,
       31.9,
       31.9,
@@ -3113,6 +3112,7 @@
       31.9,
       31.9,
       31.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3378,7 +3378,6 @@
     "unitPrice": "0.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.32,
       null,
       0.35,
       0.35,
@@ -3407,7 +3406,8 @@
       0.35,
       0.35,
       0.35,
-      null
+      null,
+      0.35
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3444,7 +3444,6 @@
       7,
       7,
       7,
-      7,
       null,
       7,
       null,
@@ -3455,7 +3454,8 @@
       7,
       7,
       7,
-      null
+      null,
+      7
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3477,7 +3477,6 @@
       6.6,
       6.6,
       6.6,
-      6.6,
       null,
       6.6,
       6.6,
@@ -3503,6 +3502,7 @@
       6.6,
       6.6,
       6.6,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -3528,7 +3528,6 @@
       6.33,
       6.33,
       6.33,
-      6.33,
       null,
       6.33,
       6.33,
@@ -3551,7 +3550,8 @@
       6.33,
       6.33,
       6.33,
-      null
+      null,
+      6.33
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3595,11 +3595,11 @@
       null,
       null,
       null,
-      null,
       66,
       66,
       63,
-      null
+      null,
+      63
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3717,7 +3717,6 @@
     "unitPrice": "0.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.32,
       0.35,
       0.35,
       0.35,
@@ -3746,7 +3745,8 @@
       0.35,
       0.35,
       0.35,
-      null
+      null,
+      0.35
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3783,7 +3783,6 @@
       44.9,
       44.9,
       44.9,
-      44.9,
       null,
       44.9,
       null,
@@ -3794,7 +3793,8 @@
       44.9,
       44.9,
       44.9,
-      null
+      null,
+      44.9
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3832,7 +3832,6 @@
       46,
       46,
       46,
-      46,
       null,
       46,
       null,
@@ -3843,7 +3842,8 @@
       46,
       46,
       46,
-      null
+      null,
+      46
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3864,7 +3864,6 @@
     "unitPriceUnit": "pack",
     "historical": [
       46.9,
-      46.9,
       null,
       null,
       null,
@@ -3892,7 +3891,8 @@
       46.9,
       46.9,
       46.9,
-      null
+      null,
+      46.9
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3930,7 +3930,6 @@
       46.9,
       46.9,
       46.9,
-      46.9,
       null,
       46.9,
       null,
@@ -3941,6 +3940,7 @@
       46.9,
       46.9,
       46.9,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -4075,7 +4075,6 @@
       6.25,
       6.25,
       6.25,
-      6.25,
       null,
       6.25,
       null,
@@ -4086,7 +4085,8 @@
       6.25,
       6.25,
       6.25,
-      null
+      null,
+      6.25
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4123,7 +4123,6 @@
       6,
       6,
       6,
-      6,
       null,
       6,
       null,
@@ -4134,7 +4133,8 @@
       6,
       6,
       6,
-      null
+      null,
+      6
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4171,7 +4171,6 @@
       5.75,
       5.75,
       5.75,
-      5.75,
       null,
       5.75,
       null,
@@ -4182,7 +4181,8 @@
       5.75,
       5.75,
       5.75,
-      null
+      null,
+      5.75
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4207,7 +4207,6 @@
       6.24,
       6.24,
       6.24,
-      6.24,
       null,
       6.24,
       6.24,
@@ -4230,7 +4229,8 @@
       6.24,
       6.24,
       6.24,
-      null
+      null,
+      6.24
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4267,7 +4267,6 @@
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       null,
@@ -4278,7 +4277,8 @@
       0.49,
       0.49,
       0.49,
-      null
+      null,
+      0.49
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4315,7 +4315,6 @@
       0.35,
       0.35,
       0.35,
-      0.35,
       null,
       0.35,
       null,
@@ -4326,7 +4325,8 @@
       0.35,
       0.35,
       0.35,
-      null
+      null,
+      0.35
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4345,7 +4345,6 @@
     "unitPrice": "0.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.49,
       null,
       0.49,
       0.49,
@@ -4374,7 +4373,8 @@
       0.49,
       0.49,
       0.49,
-      null
+      null,
+      0.49
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4406,7 +4406,6 @@
       0.42,
       0.42,
       0.42,
-      0.42,
       null,
       null,
       null,
@@ -4422,7 +4421,8 @@
       0.42,
       0.42,
       0.42,
-      null
+      null,
+      0.42
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4686,7 +4686,6 @@
     "unitPrice": "4.99",
     "unitPriceUnit": "250ml",
     "historical": [
-      4.99,
       null,
       null,
       null,
@@ -4715,7 +4714,8 @@
       4.99,
       4.99,
       4.99,
-      null
+      null,
+      4.99
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4728,7 +4728,7 @@
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "700毫升 x 24",
     "link": "https://www.hktvmall.com/p/S2090001_S_400106",
-    "purchasable": "false",
+    "purchasable": "true",
     "regularPrice": "91.00",
     "bestPrice": "55.00",
     "unitPrice": "0.33",
@@ -4763,7 +4763,7 @@
       null,
       null,
       null,
-      null
+      0.33
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4776,7 +4776,7 @@
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "330毫升 X 8",
     "link": "https://www.hktvmall.com/p/S2090001_S_400148_8C",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "48.00",
     "bestPrice": "37.00",
     "unitPrice": "4.63",
@@ -4784,7 +4784,6 @@
     "historical": [
       4.63,
       4.63,
-      4.63,
       null,
       null,
       4.63,
@@ -4811,6 +4810,7 @@
       null,
       4.63,
       4.63,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -4831,7 +4831,6 @@
     "unitPriceUnit": "330ml",
     "historical": [
       4.34,
-      4.34,
       null,
       null,
       null,
@@ -4859,7 +4858,8 @@
       4.34,
       4.34,
       4.34,
-      null
+      null,
+      4.34
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4872,7 +4872,7 @@
     "storeName": "HKTVMall - Friends Store",
     "packingSpec": "620毫升 X 24",
     "link": "https://www.hktvmall.com/p/S2090001_S_400759P",
-    "purchasable": "false",
+    "purchasable": "true",
     "regularPrice": "112.00",
     "bestPrice": "79.00",
     "unitPrice": "0.53",
@@ -4896,7 +4896,6 @@
       0.53,
       0.53,
       0.53,
-      0.53,
       null,
       0.53,
       null,
@@ -4907,7 +4906,8 @@
       null,
       null,
       null,
-      null
+      null,
+      0.53
     ],
     "lowestForDays": 0,
     "tags": [
