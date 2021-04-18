@@ -7,6 +7,6 @@
 | link            | https://www.hktvmall.com/p/H0888001_S_10020081 |
 | Purchasable     | true                                           |
 | Regular Price   | 248.00                                         |
-| Best Price      | 219.90                                         |
-| Unit Price      | 52.36                                          |
+| Best Price      | 199.90                                         |
+| Unit Price      | 47.60                                          |
 | Unit Price Unit | 100g                                           |

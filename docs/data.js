@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - Amazon.co.jp",
+    "storeName": "Amazon JP - ●onHOME オンホーム●",
     "purchasable": "true",
-    "regularPrice": "4236",
-    "bestPrice": "4236",
-    "unitPrice": "2118.00",
+    "regularPrice": "4178",
+    "bestPrice": "4178",
+    "unitPrice": "2089.00",
     "unitPriceUnit": "item",
     "historical": [
-      2089,
       2089,
       2118,
       2118,
@@ -40,9 +39,10 @@ var tableData = [
       2089,
       2089,
       2118,
-      2118
+      2118,
+      2089
     ],
-    "lowestForDays": 2,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -75,8 +75,8 @@ var tableData = [
       1409,
       1409,
       1409,
-      1409,
       null,
+      1409,
       1409,
       1409,
       1409,
@@ -119,7 +119,6 @@ var tableData = [
       2163.33,
       2163.33,
       2163.33,
-      2163.33,
       2600,
       2600,
       null,
@@ -130,6 +129,7 @@ var tableData = [
       2990,
       2466.67,
       2466.67,
+      2163.33,
       2163.33,
       2163.33,
       2163.33,
@@ -161,7 +161,6 @@ var tableData = [
       2094,
       2094,
       2094,
-      2094,
       2115,
       2115,
       2115,
@@ -173,6 +172,7 @@ var tableData = [
       2094,
       2094,
       null,
+      2094,
       2094,
       2094,
       2094,
@@ -219,8 +219,8 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
@@ -252,7 +252,6 @@ var tableData = [
     "unitPriceUnit": "pack",
     "historical": [
       29,
-      29,
       null,
       29,
       29,
@@ -280,6 +279,7 @@ var tableData = [
       29,
       null,
       null,
+      29,
       29
     ],
     "lowestForDays": 0,
@@ -316,7 +316,6 @@ var tableData = [
       19.45,
       19.45,
       19.45,
-      19.45,
       null,
       19.45,
       null,
@@ -329,6 +328,7 @@ var tableData = [
       19.45,
       null,
       null,
+      19.45,
       19.45
     ],
     "lowestForDays": 0,
@@ -364,7 +364,6 @@ var tableData = [
       8.2,
       8.2,
       8.2,
-      8.2,
       null,
       8.2,
       null,
@@ -377,6 +376,7 @@ var tableData = [
       8.2,
       null,
       null,
+      8.2,
       8.2
     ],
     "lowestForDays": 0,
@@ -402,7 +402,6 @@ var tableData = [
       6.58,
       6.58,
       6.58,
-      6.58,
       5.98,
       5.98,
       5.98,
@@ -425,6 +424,7 @@ var tableData = [
       5.98,
       null,
       null,
+      5.98,
       5.98
     ],
     "lowestForDays": 0,
@@ -450,7 +450,6 @@ var tableData = [
       6.58,
       6.58,
       6.58,
-      6.58,
       5.89,
       5.89,
       5.89,
@@ -473,6 +472,7 @@ var tableData = [
       5.98,
       null,
       null,
+      5.98,
       5.98
     ],
     "lowestForDays": 0,
@@ -494,7 +494,6 @@ var tableData = [
     "historical": [
       9.98,
       9.98,
-      9.98,
       null,
       null,
       9.98,
@@ -521,6 +520,7 @@ var tableData = [
       7.98,
       null,
       null,
+      8.98,
       8.98
     ],
     "lowestForDays": 0,
@@ -556,7 +556,6 @@ var tableData = [
       3.72,
       3.72,
       3.72,
-      3.72,
       null,
       3.72,
       null,
@@ -569,6 +568,7 @@ var tableData = [
       3.72,
       null,
       null,
+      3.72,
       3.72
     ],
     "lowestForDays": 0,
@@ -604,7 +604,6 @@ var tableData = [
       2.91,
       2.91,
       2.91,
-      2.91,
       null,
       2.91,
       null,
@@ -617,6 +616,7 @@ var tableData = [
       2.91,
       null,
       null,
+      2.91,
       2.91
     ],
     "lowestForDays": 0,
@@ -652,7 +652,6 @@ var tableData = [
       2.79,
       2.79,
       2.79,
-      2.79,
       null,
       2.79,
       null,
@@ -665,6 +664,7 @@ var tableData = [
       2.79,
       null,
       null,
+      2.79,
       2.79
     ],
     "lowestForDays": 0,
@@ -700,7 +700,6 @@ var tableData = [
       76.9,
       76.9,
       76.9,
-      76.9,
       null,
       76.9,
       null,
@@ -713,6 +712,7 @@ var tableData = [
       76.9,
       null,
       null,
+      76.9,
       76.9
     ],
     "lowestForDays": 0,
@@ -749,7 +749,6 @@ var tableData = [
       72.9,
       72.9,
       72.9,
-      72.9,
       null,
       72.9,
       null,
@@ -762,6 +761,7 @@ var tableData = [
       72.9,
       null,
       null,
+      72.9,
       72.9
     ],
     "lowestForDays": 0,
@@ -798,7 +798,6 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9,
       null,
       44.9,
       null,
@@ -811,6 +810,7 @@ var tableData = [
       44.9,
       null,
       null,
+      34,
       34
     ],
     "lowestForDays": 0
@@ -840,7 +840,6 @@ var tableData = [
       3.65,
       3.65,
       3.65,
-      3.65,
       null,
       null,
       null,
@@ -856,6 +855,7 @@ var tableData = [
       3.65,
       null,
       null,
+      3.65,
       3.65
     ],
     "lowestForDays": 0,
@@ -886,7 +886,6 @@ var tableData = [
       3.61,
       3.61,
       3.61,
-      3.61,
       3.44,
       3.44,
       null,
@@ -904,6 +903,7 @@ var tableData = [
       3.44,
       null,
       null,
+      3.12,
       3.12
     ],
     "lowestForDays": 0,
@@ -939,7 +939,6 @@ var tableData = [
       14.78,
       14.78,
       14.78,
-      14.78,
       null,
       14.78,
       null,
@@ -952,6 +951,7 @@ var tableData = [
       14.78,
       null,
       null,
+      13.8,
       13.8
     ],
     "lowestForDays": 0,
@@ -987,7 +987,6 @@ var tableData = [
       13.74,
       13.74,
       13.74,
-      13.74,
       null,
       13.74,
       null,
@@ -1000,6 +999,7 @@ var tableData = [
       13.74,
       null,
       null,
+      11.88,
       11.88
     ],
     "lowestForDays": 0,
@@ -1036,7 +1036,6 @@ var tableData = [
       13.44,
       13.44,
       13.44,
-      13.44,
       null,
       13.44,
       null,
@@ -1049,6 +1048,7 @@ var tableData = [
       13.44,
       null,
       null,
+      13.44,
       13.44
     ],
     "lowestForDays": 0,
@@ -1085,7 +1085,6 @@ var tableData = [
       80.1,
       80.1,
       80.1,
-      80.1,
       null,
       80.1,
       null,
@@ -1098,6 +1097,7 @@ var tableData = [
       80.1,
       null,
       null,
+      80.1,
       80.1
     ],
     "lowestForDays": 0,
@@ -1212,8 +1212,8 @@ var tableData = [
     "link": "https://www.hktvmall.com/p/H0888001_S_10020081",
     "purchasable": "true",
     "regularPrice": "248.00",
-    "bestPrice": "219.90",
-    "unitPrice": "52.36",
+    "bestPrice": "199.90",
+    "unitPrice": "47.60",
     "unitPriceUnit": "100g",
     "historical": [
       52.36,
@@ -1232,7 +1232,6 @@ var tableData = [
       52.36,
       52.36,
       52.36,
-      52.36,
       null,
       52.36,
       null,
@@ -1245,7 +1244,8 @@ var tableData = [
       52.36,
       null,
       null,
-      52.36
+      52.36,
+      47.6
     ],
     "lowestForDays": 0
   },
@@ -1277,7 +1277,6 @@ var tableData = [
       2.36,
       2.36,
       2.36,
-      2.36,
       null,
       2.36,
       null,
@@ -1290,6 +1289,7 @@ var tableData = [
       2.36,
       null,
       null,
+      2.36,
       2.36
     ],
     "lowestForDays": 0,
@@ -1325,7 +1325,6 @@ var tableData = [
       0.87,
       0.87,
       0.87,
-      0.87,
       null,
       0.87,
       null,
@@ -1338,6 +1337,7 @@ var tableData = [
       0.87,
       null,
       null,
+      0.87,
       0.87
     ],
     "lowestForDays": 0,
@@ -1373,7 +1373,6 @@ var tableData = [
       0.66,
       0.66,
       0.66,
-      0.66,
       null,
       0.66,
       null,
@@ -1386,6 +1385,7 @@ var tableData = [
       0.66,
       null,
       null,
+      0.66,
       0.66
     ],
     "lowestForDays": 0,
@@ -1421,7 +1421,6 @@ var tableData = [
       0.65,
       0.65,
       0.65,
-      0.65,
       null,
       0.65,
       null,
@@ -1434,7 +1433,8 @@ var tableData = [
       0.65,
       null,
       null,
-      null
+      null,
+      0.65
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1469,7 +1469,6 @@ var tableData = [
       0.52,
       0.52,
       0.52,
-      0.52,
       null,
       null,
       null,
@@ -1482,6 +1481,7 @@ var tableData = [
       0.52,
       null,
       null,
+      0.52,
       0.52
     ],
     "lowestForDays": 0,
@@ -1517,7 +1517,6 @@ var tableData = [
       0.93,
       0.93,
       0.93,
-      0.93,
       null,
       0.93,
       null,
@@ -1530,6 +1529,7 @@ var tableData = [
       0.93,
       null,
       null,
+      0.93,
       0.93
     ],
     "lowestForDays": 0,
@@ -1565,7 +1565,6 @@ var tableData = [
       0.66,
       0.66,
       0.66,
-      0.66,
       null,
       0.66,
       null,
@@ -1578,6 +1577,7 @@ var tableData = [
       0.66,
       null,
       null,
+      0.66,
       0.66
     ],
     "lowestForDays": 0,
@@ -1613,7 +1613,6 @@ var tableData = [
       0.65,
       0.65,
       0.65,
-      0.65,
       null,
       0.65,
       null,
@@ -1626,6 +1625,7 @@ var tableData = [
       0.65,
       null,
       null,
+      0.65,
       0.65
     ],
     "lowestForDays": 0,
@@ -1648,7 +1648,6 @@ var tableData = [
       0.52,
       0.52,
       0.52,
-      0.52,
       null,
       0.52,
       0.52,
@@ -1674,6 +1673,7 @@ var tableData = [
       0.52,
       null,
       null,
+      0.52,
       0.52
     ],
     "lowestForDays": 0,
@@ -1695,7 +1695,6 @@ var tableData = [
     "historical": [
       null,
       null,
-      null,
       3.49,
       3.49,
       3.49,
@@ -1722,6 +1721,7 @@ var tableData = [
       3.49,
       null,
       null,
+      3.49,
       3.49
     ],
     "lowestForDays": 0,
@@ -1741,7 +1741,6 @@ var tableData = [
     "unitPrice": "3.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      null,
       null,
       null,
       3.49,
@@ -1770,6 +1769,7 @@ var tableData = [
       2.69,
       null,
       null,
+      3.35,
       3.35
     ],
     "lowestForDays": 0,
@@ -1793,7 +1793,6 @@ var tableData = [
       5.49,
       5.49,
       5.49,
-      5.49,
       4.09,
       4.09,
       4.09,
@@ -1818,6 +1817,7 @@ var tableData = [
       5.49,
       null,
       null,
+      5.49,
       5.49
     ],
     "lowestForDays": 0,
@@ -1842,7 +1842,6 @@ var tableData = [
       4.66,
       4.66,
       4.66,
-      4.66,
       3.82,
       3.82,
       null,
@@ -1867,6 +1866,7 @@ var tableData = [
       4.66,
       null,
       null,
+      4.66,
       4.66
     ],
     "lowestForDays": 0,
@@ -1881,7 +1881,7 @@ var tableData = [
     "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
     "packingSpec": "10卷 x 3",
     "link": "https://www.hktvmall.com/p/H0888001_S_10050052B",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "143.70",
     "bestPrice": "112.50",
     "unitPrice": "3.75",
@@ -1889,7 +1889,6 @@ var tableData = [
     "historical": [
       3.59,
       3.59,
-      3.59,
       3.33,
       3.33,
       3.33,
@@ -1916,7 +1915,8 @@ var tableData = [
       3.75,
       null,
       null,
-      3.75
+      3.75,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1929,7 +1929,7 @@ var tableData = [
     "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
     "packingSpec": "10卷x5條",
     "link": "https://www.hktvmall.com/p/H0888001_S_10050052D",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "230.00",
     "bestPrice": "150.00",
     "unitPrice": "3.00",
@@ -1938,7 +1938,6 @@ var tableData = [
       3.3,
       3.3,
       3.3,
-      3.3,
       null,
       3.3,
       3.3,
@@ -1964,7 +1963,8 @@ var tableData = [
       3.3,
       null,
       null,
-      3
+      3,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -1977,7 +1977,7 @@ var tableData = [
     "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
     "packingSpec": "10卷 x 3",
     "link": "https://www.hktvmall.com/p/H0888001_S_10050053B",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "143.70",
     "bestPrice": "112.50",
     "unitPrice": "3.75",
@@ -1985,7 +1985,6 @@ var tableData = [
     "historical": [
       3.59,
       3.59,
-      3.59,
       3.33,
       3.33,
       3.33,
@@ -2012,7 +2011,8 @@ var tableData = [
       3.75,
       null,
       null,
-      3.75
+      3.75,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2025,13 +2025,12 @@ var tableData = [
     "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
     "packingSpec": "10卷裝x5條",
     "link": "https://www.hktvmall.com/p/H0888001_S_10050053D",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "230.00",
     "bestPrice": "150.00",
     "unitPrice": "3.00",
     "unitPriceUnit": "roll",
     "historical": [
-      3.3,
       3.3,
       3.3,
       3.3,
@@ -2060,7 +2059,8 @@ var tableData = [
       3.3,
       null,
       null,
-      3
+      3,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2073,13 +2073,12 @@ var tableData = [
     "storeName": "HKTVMall - 皇冠/健力氏/絲潔紙品官方網店",
     "packingSpec": "6卷x4包",
     "link": "https://www.hktvmall.com/p/H0888001_S_10050058C",
-    "purchasable": "true",
+    "purchasable": "false",
     "regularPrice": "155.40",
     "bestPrice": "99.00",
     "unitPrice": "4.13",
     "unitPriceUnit": "roll",
     "historical": [
-      4.38,
       4.38,
       4.38,
       4.38,
@@ -2108,7 +2107,8 @@ var tableData = [
       4.38,
       null,
       null,
-      4.13
+      4.13,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -2129,7 +2129,6 @@ var tableData = [
     "historical": [
       null,
       null,
-      null,
       5.45,
       5.45,
       5.45,
@@ -2156,6 +2155,7 @@ var tableData = [
       5.45,
       null,
       null,
+      5.45,
       5.45
     ],
     "lowestForDays": 0,
@@ -2184,7 +2184,6 @@ var tableData = [
       2.91,
       2.91,
       2.91,
-      2.91,
       2.5,
       2.91,
       2.91,
@@ -2204,6 +2203,7 @@ var tableData = [
       2.91,
       null,
       null,
+      2.91,
       2.91
     ],
     "lowestForDays": 0,
@@ -2225,7 +2225,6 @@ var tableData = [
     "historical": [
       2.79,
       2.79,
-      2.79,
       2.5,
       2.79,
       2.79,
@@ -2252,6 +2251,7 @@ var tableData = [
       2.79,
       null,
       null,
+      2.79,
       2.79
     ],
     "lowestForDays": 0,
@@ -2287,7 +2287,6 @@ var tableData = [
       2.71,
       2.71,
       2.71,
-      2.71,
       null,
       2.71,
       null,
@@ -2300,6 +2299,7 @@ var tableData = [
       2.71,
       null,
       null,
+      2.71,
       2.71
     ],
     "lowestForDays": 0,
@@ -2328,7 +2328,6 @@ var tableData = [
       3.74,
       3.74,
       3.74,
-      3.74,
       3.13,
       3.74,
       3.74,
@@ -2348,6 +2347,7 @@ var tableData = [
       3.74,
       null,
       null,
+      2.99,
       2.99
     ],
     "lowestForDays": 0,
@@ -2383,7 +2383,6 @@ var tableData = [
       5.58,
       5.58,
       5.58,
-      5.58,
       null,
       5.58,
       null,
@@ -2396,6 +2395,7 @@ var tableData = [
       5.58,
       null,
       null,
+      5.58,
       5.58
     ],
     "lowestForDays": 0,
@@ -2415,7 +2415,6 @@ var tableData = [
     "unitPrice": "3.25",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.65,
       3.65,
       3.65,
@@ -2444,6 +2443,7 @@ var tableData = [
       3.65,
       null,
       null,
+      3.25,
       3.25
     ],
     "lowestForDays": 0,
@@ -2463,7 +2463,6 @@ var tableData = [
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      null,
       3.61,
       3.61,
       3.61,
@@ -2492,6 +2491,7 @@ var tableData = [
       3.44,
       null,
       null,
+      3.44,
       3.44
     ],
     "lowestForDays": 0,
@@ -2568,23 +2568,23 @@ var tableData = [
       11.75,
       11.75,
       11.75,
+      11.04,
+      11.04,
+      11.04,
+      11.04,
+      null,
+      11.04,
+      null,
+      null,
+      null,
+      null,
+      null,
+      11.04,
+      11.04,
+      11.04,
+      null,
+      null,
       11.75,
-      11.04,
-      11.04,
-      11.04,
-      11.04,
-      null,
-      11.04,
-      null,
-      null,
-      null,
-      null,
-      null,
-      11.04,
-      11.04,
-      11.04,
-      null,
-      null,
       11.75
     ],
     "lowestForDays": 0
@@ -2617,7 +2617,6 @@ var tableData = [
       0.38,
       0.38,
       0.38,
-      0.38,
       null,
       0.38,
       null,
@@ -2630,6 +2629,7 @@ var tableData = [
       0.38,
       null,
       null,
+      0.38,
       0.38
     ],
     "lowestForDays": 0,
@@ -2665,7 +2665,6 @@ var tableData = [
       12.9,
       12.9,
       12.9,
-      12.9,
       null,
       null,
       null,
@@ -2678,6 +2677,7 @@ var tableData = [
       12.9,
       null,
       null,
+      11.67,
       11.67
     ],
     "lowestForDays": 0,
@@ -2714,7 +2714,6 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       null,
@@ -2727,6 +2726,7 @@ var tableData = [
       0.39,
       null,
       null,
+      0.39,
       0.39
     ],
     "lowestForDays": 0,
@@ -2749,7 +2749,6 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       0.49,
@@ -2775,6 +2774,7 @@ var tableData = [
       null,
       null,
       null,
+      0.39,
       0.39
     ],
     "lowestForDays": 0,
@@ -2796,7 +2796,6 @@ var tableData = [
     "historical": [
       3.67,
       3.67,
-      3.67,
       3.33,
       3.33,
       3.33,
@@ -2819,6 +2818,7 @@ var tableData = [
       null,
       null,
       3.67,
+      null,
       null,
       null,
       null,
@@ -2844,7 +2844,6 @@ var tableData = [
     "historical": [
       3.67,
       3.67,
-      3.67,
       3.33,
       3.33,
       3.33,
@@ -2861,6 +2860,7 @@ var tableData = [
       3.67,
       null,
       3.67,
+      null,
       null,
       null,
       null,
@@ -2896,7 +2896,6 @@ var tableData = [
       3.58,
       3.58,
       3.58,
-      3.58,
       3.08,
       3.08,
       3.08,
@@ -2919,6 +2918,7 @@ var tableData = [
       3.58,
       null,
       null,
+      2.91,
       2.91
     ],
     "lowestForDays": 0,
@@ -2938,7 +2938,6 @@ var tableData = [
     "unitPrice": "0.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      null,
       0.37,
       0.37,
       0.37,
@@ -2967,6 +2966,7 @@ var tableData = [
       0.35,
       null,
       null,
+      0.35,
       0.35
     ],
     "lowestForDays": 0,
@@ -2995,7 +2995,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       31.9,
       31.9,
       31.9,
@@ -3015,6 +3014,7 @@ var tableData = [
       31.9,
       null,
       null,
+      31.9,
       31.9
     ],
     "lowestForDays": 0,
@@ -3037,7 +3037,6 @@ var tableData = [
     "historical": [
       null,
       null,
-      null,
       29.8,
       29.8,
       28,
@@ -3054,6 +3053,7 @@ var tableData = [
       29.8,
       null,
       29.8,
+      null,
       null,
       null,
       null,
@@ -3093,7 +3093,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       31.9,
       31.9,
       31.9,
@@ -3113,6 +3112,7 @@ var tableData = [
       31.9,
       null,
       null,
+      31.9,
       31.9
     ],
     "lowestForDays": 0,
@@ -3391,7 +3391,6 @@ var tableData = [
       0.35,
       0.35,
       0.35,
-      0.35,
       null,
       0.35,
       0.35,
@@ -3406,6 +3405,7 @@ var tableData = [
       0.35,
       0.35,
       null,
+      0.35,
       0.35,
       0.35
     ],
@@ -3442,7 +3442,6 @@ var tableData = [
       7,
       7,
       7,
-      7,
       null,
       7,
       null,
@@ -3454,6 +3453,7 @@ var tableData = [
       7,
       7,
       null,
+      7,
       7,
       7
     ],
@@ -3475,7 +3475,6 @@ var tableData = [
     "unitPriceUnit": "330ml",
     "historical": [
       6.6,
-      6.6,
       null,
       6.6,
       6.6,
@@ -3503,6 +3502,7 @@ var tableData = [
       6.6,
       null,
       null,
+      6.6,
       6.6
     ],
     "lowestForDays": 0,
@@ -3526,7 +3526,6 @@ var tableData = [
       6.33,
       6.33,
       6.33,
-      6.33,
       null,
       6.33,
       6.33,
@@ -3550,6 +3549,7 @@ var tableData = [
       6.33,
       6.33,
       null,
+      6.33,
       6.33,
       6.33
     ],
@@ -3593,13 +3593,13 @@ var tableData = [
       null,
       null,
       null,
-      null,
       66,
       66,
       63,
       null,
       63,
-      null
+      null,
+      63
     ],
     "lowestForDays": 0,
     "tags": [
@@ -3722,7 +3722,6 @@ var tableData = [
       0.35,
       0.35,
       0.35,
-      0.35,
       0.37,
       null,
       null,
@@ -3745,6 +3744,7 @@ var tableData = [
       0.35,
       0.35,
       null,
+      0.35,
       0.35,
       0.35
     ],
@@ -3781,7 +3781,6 @@ var tableData = [
       44.9,
       44.9,
       44.9,
-      44.9,
       null,
       44.9,
       null,
@@ -3793,6 +3792,7 @@ var tableData = [
       44.9,
       44.9,
       null,
+      44.9,
       44.9,
       44.9
     ],
@@ -3830,7 +3830,6 @@ var tableData = [
       46,
       46,
       46,
-      46,
       null,
       46,
       null,
@@ -3842,6 +3841,7 @@ var tableData = [
       46,
       46,
       null,
+      46,
       46,
       46
     ],
@@ -3873,7 +3873,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       46.9,
       46.9,
       46.9,
@@ -3891,6 +3890,7 @@ var tableData = [
       46.9,
       46.9,
       null,
+      46.9,
       46.9,
       46.9
     ],
@@ -3928,7 +3928,6 @@ var tableData = [
       46.9,
       46.9,
       46.9,
-      46.9,
       null,
       46.9,
       null,
@@ -3941,6 +3940,7 @@ var tableData = [
       46.9,
       null,
       null,
+      46.9,
       46.9
     ],
     "lowestForDays": 0,
@@ -4073,7 +4073,6 @@ var tableData = [
       6.25,
       6.25,
       6.25,
-      6.25,
       null,
       6.25,
       null,
@@ -4085,6 +4084,7 @@ var tableData = [
       6.25,
       6.25,
       null,
+      6.25,
       6.25,
       6.25
     ],
@@ -4121,7 +4121,6 @@ var tableData = [
       6,
       6,
       6,
-      6,
       null,
       6,
       null,
@@ -4133,6 +4132,7 @@ var tableData = [
       6,
       6,
       null,
+      6,
       6,
       6
     ],
@@ -4169,7 +4169,6 @@ var tableData = [
       5.75,
       5.75,
       5.75,
-      5.75,
       null,
       5.75,
       null,
@@ -4181,6 +4180,7 @@ var tableData = [
       5.75,
       5.75,
       null,
+      5.75,
       5.75,
       5.75
     ],
@@ -4205,7 +4205,6 @@ var tableData = [
       6.24,
       6.24,
       6.24,
-      6.24,
       null,
       6.24,
       6.24,
@@ -4229,6 +4228,7 @@ var tableData = [
       6.24,
       6.24,
       null,
+      6.24,
       6.24,
       6.24
     ],
@@ -4265,7 +4265,6 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       null,
@@ -4277,6 +4276,7 @@ var tableData = [
       0.49,
       0.49,
       null,
+      0.49,
       0.49,
       0.49
     ],
@@ -4313,7 +4313,6 @@ var tableData = [
       0.35,
       0.35,
       0.35,
-      0.35,
       null,
       0.35,
       null,
@@ -4325,6 +4324,7 @@ var tableData = [
       0.35,
       0.35,
       null,
+      0.35,
       0.35,
       0.35
     ],
@@ -4358,7 +4358,6 @@ var tableData = [
       0.49,
       0.49,
       0.49,
-      0.49,
       null,
       0.49,
       0.49,
@@ -4373,6 +4372,7 @@ var tableData = [
       0.49,
       0.49,
       null,
+      0.49,
       0.49,
       0.49
     ],
@@ -4404,7 +4404,6 @@ var tableData = [
       0.42,
       0.42,
       0.42,
-      0.42,
       null,
       null,
       null,
@@ -4422,7 +4421,8 @@ var tableData = [
       0.42,
       null,
       0.42,
-      0.42
+      0.42,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -4688,7 +4688,6 @@ var tableData = [
     "historical": [
       null,
       null,
-      null,
       4.99,
       4.99,
       4.99,
@@ -4714,6 +4713,7 @@ var tableData = [
       4.99,
       4.99,
       null,
+      4.99,
       4.99,
       4.99
     ],
@@ -4761,7 +4761,7 @@ var tableData = [
       null,
       null,
       null,
-      null,
+      0.33,
       0.33,
       0.33
     ],
@@ -4782,7 +4782,6 @@ var tableData = [
     "unitPrice": "4.63",
     "unitPriceUnit": "can",
     "historical": [
-      4.63,
       null,
       null,
       4.63,
@@ -4811,6 +4810,7 @@ var tableData = [
       4.63,
       null,
       null,
+      4.63,
       4.63
     ],
     "lowestForDays": 0,
@@ -4832,7 +4832,6 @@ var tableData = [
     "historical": [
       null,
       null,
-      null,
       4.34,
       4.34,
       null,
@@ -4859,6 +4858,7 @@ var tableData = [
       4.34,
       null,
       4.34,
+      null,
       null
     ],
     "lowestForDays": 0,
@@ -4894,7 +4894,6 @@ var tableData = [
       0.53,
       0.53,
       0.53,
-      0.53,
       null,
       0.53,
       null,
@@ -4907,7 +4906,8 @@ var tableData = [
       null,
       null,
       0.53,
-      null
+      null,
+      0.53
     ],
     "lowestForDays": 0,
     "tags": [
