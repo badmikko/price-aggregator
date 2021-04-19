@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - Oral-B 香港官方旗艦店                      |
 | Packing Spec    | 750毫升 x 2                                      |
 | link            | https://www.hktvmall.com/p/H0888001_S_10030825 |
-| Purchasable     | true                                           |
+| Purchasable     | false                                          |
 | Regular Price   | 89.90                                          |
 | Best Price      | 69.90                                          |
 | Unit Price      | 4.66                                           |
