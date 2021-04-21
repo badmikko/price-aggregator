@@ -1,6 +1,6 @@
 | Label           | Value                                                    |
 | --------------- | -------------------------------------------------------- |
-| Name            | 洗衣液 - 黑之寶                                                |
+| Name            | 衣物洗衣液 - 黑之寶 [深色黑色衣物專用]                                   |
 | Brand Name      | 護麗                                                       |
 | Store Name      | HKTVMall - Vanish碧蓮/Lysol/Finish亮碟/Woolite護麗/Harpic瑕辟旗艦店 |
 | Packing Spec    | 1公升                                                      |
