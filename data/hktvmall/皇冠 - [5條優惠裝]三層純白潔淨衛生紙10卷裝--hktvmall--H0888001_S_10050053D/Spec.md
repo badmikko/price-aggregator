@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 皇冠/健力氏/絲潔紙品官方網店                        |
 | Packing Spec    | 10卷裝x5條                                           |
 | link            | https://www.hktvmall.com/p/H0888001_S_10050053D   |
-| Purchasable     | false                                             |
+| Purchasable     | true                                              |
 | Regular Price   | 230.00                                            |
 | Best Price      | 150.00                                            |
 | Unit Price      | 3.00                                              |
