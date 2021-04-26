@@ -1,6 +1,6 @@
 | Label           | Value                                               |
 | --------------- | --------------------------------------------------- |
-| Name            | C1咖啡因洗髮露 250ml - 防脫髮 激活頭髮生長 (平行進口)                  |
+| Name            | C1咖啡因洗髮露 250ml - 防脫髮 激活頭髮生長 (4008666211507) (平行進口)  |
 | Brand Name      | Alpecin                                             |
 | Store Name      | HKTVMall - BB Beauty Global                         |
 | Packing Spec    | 250ml                                               |

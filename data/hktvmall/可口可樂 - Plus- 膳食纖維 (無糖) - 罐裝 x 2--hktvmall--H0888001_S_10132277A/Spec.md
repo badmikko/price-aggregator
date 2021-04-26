@@ -5,7 +5,7 @@
 | Store Name      | HKTVMall - 「可口可樂」官方旗艦店                          |
 | Packing Spec    | 330毫升 x 8 x 2                                   |
 | link            | https://www.hktvmall.com/p/H0888001_S_10132277A |
-| Purchasable     | false                                           |
+| Purchasable     | true                                            |
 | Regular Price   | 109.60                                          |
 | Best Price      | 47.90                                           |
 | Unit Price      | 2.99                                            |
