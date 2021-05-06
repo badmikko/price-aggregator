@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                             |
 | Store Name      | Amazon JP - SHOPカサノヴァ                                                    |
 | Purchasable     | true                                                                     |
-| Regular Price   | 7960                                                                     |
-| Best Price      | 7960                                                                     |
-| Unit Price      | 2653.33                                                                  |
+| Regular Price   | 7860                                                                     |
+| Best Price      | 7860                                                                     |
+| Unit Price      | 2620.00                                                                  |
 | Unit Price Unit | item                                                                     |
