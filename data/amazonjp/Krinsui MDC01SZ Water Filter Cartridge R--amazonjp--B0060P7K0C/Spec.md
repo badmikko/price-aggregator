@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                             |
 | Store Name      | Amazon JP - Ｆ&Ｇカンパニー　アカシア本店                                              |
 | Purchasable     | true                                                                     |
-| Regular Price   | 7380                                                                     |
-| Best Price      | 7380                                                                     |
-| Unit Price      | 2460.00                                                                  |
+| Regular Price   | 6980                                                                     |
+| Best Price      | 6980                                                                     |
+| Unit Price      | 2326.67                                                                  |
 | Unit Price Unit | item                                                                     |
