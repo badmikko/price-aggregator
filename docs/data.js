@@ -6,13 +6,12 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "5436",
-    "bestPrice": "5436",
-    "unitPrice": "2718.00",
+    "regularPrice": "5055",
+    "bestPrice": "5055",
+    "unitPrice": "2527.50",
     "unitPriceUnit": "item",
     "historical": [
       2118,
-      2118,
       2089,
       2089,
       2089,
@@ -40,9 +39,10 @@ var tableData = [
       2718,
       2718,
       2718,
-      2718
+      2718,
+      2527.5
     ],
-    "lowestForDays": 4,
+    "lowestForDays": 5,
     "tags": [
       "濾水器"
     ]
@@ -102,7 +102,6 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP -",
     "historical": [
-      2163.33,
       2466.67,
       2466.67,
       2466.67,
@@ -126,6 +125,7 @@ var tableData = [
       2460,
       2453.33,
       2666.67,
+      null,
       null,
       null,
       null,
@@ -222,8 +222,8 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
@@ -248,7 +248,7 @@ var tableData = [
     "historical": [
       29,
       29,
-      29,
+      null,
       null,
       null,
       null,
@@ -297,7 +297,7 @@ var tableData = [
     "historical": [
       19.45,
       19.45,
-      19.45,
+      null,
       null,
       null,
       null,
@@ -345,7 +345,7 @@ var tableData = [
     "historical": [
       8.2,
       8.2,
-      8.2,
+      null,
       null,
       null,
       null,
@@ -393,7 +393,7 @@ var tableData = [
     "historical": [
       5.98,
       5.98,
-      5.98,
+      null,
       null,
       null,
       null,
@@ -440,7 +440,7 @@ var tableData = [
     "unitPriceUnit": "100ml",
     "historical": [
       5.98,
-      5.98,
+      null,
       null,
       null,
       null,
@@ -489,7 +489,7 @@ var tableData = [
     "historical": [
       7.98,
       7.98,
-      7.98,
+      null,
       null,
       null,
       null,
@@ -537,7 +537,7 @@ var tableData = [
     "historical": [
       3.72,
       3.72,
-      3.72,
+      null,
       null,
       null,
       null,
@@ -585,7 +585,7 @@ var tableData = [
     "historical": [
       2.91,
       2.91,
-      2.91,
+      null,
       null,
       null,
       null,
@@ -632,7 +632,7 @@ var tableData = [
     "unitPriceUnit": "250ml",
     "historical": [
       2.79,
-      2.79,
+      null,
       null,
       null,
       null,
@@ -681,7 +681,7 @@ var tableData = [
     "historical": [
       76.9,
       76.9,
-      76.9,
+      null,
       null,
       null,
       null,
@@ -730,7 +730,7 @@ var tableData = [
     "historical": [
       72.9,
       72.9,
-      72.9,
+      null,
       null,
       null,
       null,
@@ -779,7 +779,7 @@ var tableData = [
     "historical": [
       44.9,
       44.9,
-      44.9,
+      null,
       null,
       null,
       null,
@@ -824,7 +824,7 @@ var tableData = [
     "historical": [
       3.65,
       3.65,
-      3.65,
+      null,
       null,
       null,
       null,
@@ -871,8 +871,8 @@ var tableData = [
     "unitPriceUnit": "250ml",
     "historical": [
       3.12,
-      3.12,
       3.44,
+      null,
       null,
       null,
       null,
@@ -920,7 +920,7 @@ var tableData = [
     "historical": [
       13.8,
       13.8,
-      13.8,
+      null,
       null,
       null,
       null,
@@ -966,9 +966,9 @@ var tableData = [
     "unitPrice": "11.88",
     "unitPriceUnit": "kg",
     "historical": [
-      11.88,
       null,
       11.88,
+      null,
       null,
       null,
       null,
@@ -1015,9 +1015,9 @@ var tableData = [
     "unitPrice": "13.44",
     "unitPriceUnit": "kg",
     "historical": [
-      13.44,
       null,
       13.44,
+      null,
       null,
       null,
       null,
@@ -1065,7 +1065,7 @@ var tableData = [
     "unitPriceUnit": "pack",
     "historical": [
       80.1,
-      80.1,
+      null,
       null,
       null,
       null,
@@ -1213,7 +1213,7 @@ var tableData = [
     "historical": [
       59.05,
       59.05,
-      59.05,
+      null,
       null,
       null,
       null,
@@ -1258,7 +1258,7 @@ var tableData = [
     "historical": [
       2.36,
       2.36,
-      2.36,
+      null,
       null,
       null,
       null,
@@ -1306,7 +1306,7 @@ var tableData = [
     "historical": [
       0.87,
       0.87,
-      0.87,
+      null,
       null,
       null,
       null,
@@ -1354,7 +1354,7 @@ var tableData = [
     "historical": [
       0.66,
       0.66,
-      0.66,
+      null,
       null,
       null,
       null,
@@ -1402,7 +1402,7 @@ var tableData = [
     "historical": [
       0.65,
       0.65,
-      0.65,
+      null,
       null,
       null,
       null,
@@ -1450,7 +1450,7 @@ var tableData = [
     "historical": [
       0.52,
       0.52,
-      0.52,
+      null,
       null,
       null,
       null,
@@ -1498,7 +1498,7 @@ var tableData = [
     "historical": [
       0.93,
       0.93,
-      0.93,
+      null,
       null,
       null,
       null,
@@ -1546,7 +1546,7 @@ var tableData = [
     "historical": [
       0.66,
       0.66,
-      0.66,
+      null,
       null,
       null,
       null,
@@ -1594,7 +1594,7 @@ var tableData = [
     "historical": [
       0.65,
       0.65,
-      0.65,
+      null,
       null,
       null,
       null,
@@ -1642,7 +1642,7 @@ var tableData = [
     "historical": [
       0.52,
       0.52,
-      0.52,
+      null,
       null,
       null,
       null,
@@ -1690,7 +1690,7 @@ var tableData = [
     "historical": [
       3.49,
       3.49,
-      3.49,
+      null,
       null,
       null,
       null,
@@ -1738,7 +1738,7 @@ var tableData = [
     "historical": [
       3.35,
       3.35,
-      3.35,
+      null,
       null,
       null,
       null,
@@ -1786,7 +1786,7 @@ var tableData = [
     "historical": [
       5.49,
       5.49,
-      5.49,
+      null,
       null,
       null,
       null,
@@ -1884,7 +1884,7 @@ var tableData = [
     "historical": [
       3.75,
       3.75,
-      3.75,
+      null,
       null,
       null,
       null,
@@ -1932,7 +1932,7 @@ var tableData = [
     "historical": [
       3,
       3,
-      3,
+      null,
       null,
       null,
       null,
@@ -1980,7 +1980,7 @@ var tableData = [
     "historical": [
       3.75,
       3.75,
-      3.75,
+      null,
       null,
       null,
       null,
@@ -2028,7 +2028,7 @@ var tableData = [
     "historical": [
       3,
       3,
-      3,
+      null,
       null,
       null,
       null,
@@ -2076,7 +2076,7 @@ var tableData = [
     "historical": [
       4.58,
       4.58,
-      4.58,
+      null,
       null,
       null,
       null,
@@ -2124,7 +2124,7 @@ var tableData = [
     "historical": [
       5.45,
       5.45,
-      5.45,
+      null,
       null,
       null,
       null,
@@ -2172,7 +2172,7 @@ var tableData = [
     "historical": [
       2.91,
       2.91,
-      2.91,
+      null,
       null,
       null,
       null,
@@ -2220,7 +2220,7 @@ var tableData = [
     "historical": [
       2.79,
       2.79,
-      2.79,
+      null,
       null,
       null,
       null,
@@ -2268,7 +2268,7 @@ var tableData = [
     "historical": [
       2.71,
       2.71,
-      2.71,
+      null,
       null,
       null,
       null,
@@ -2314,9 +2314,9 @@ var tableData = [
     "unitPrice": "2.99",
     "unitPriceUnit": "can",
     "historical": [
+      2.99,
+      2.99,
       null,
-      2.99,
-      2.99,
       null,
       null,
       null,
@@ -2364,7 +2364,7 @@ var tableData = [
     "historical": [
       5.58,
       5.58,
-      5.58,
+      null,
       null,
       null,
       null,
@@ -2411,8 +2411,8 @@ var tableData = [
     "unitPriceUnit": "250ml",
     "historical": [
       null,
-      null,
       3.65,
+      null,
       null,
       null,
       null,
@@ -2458,9 +2458,9 @@ var tableData = [
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.44,
       null,
       3.44,
+      null,
       null,
       null,
       null,
@@ -2552,8 +2552,8 @@ var tableData = [
     "unitPriceUnit": "100ml",
     "historical": [
       11.75,
-      11.75,
       8.82,
+      null,
       null,
       null,
       null,
@@ -2598,7 +2598,7 @@ var tableData = [
     "historical": [
       0.38,
       0.38,
-      0.38,
+      null,
       null,
       null,
       null,
@@ -2646,7 +2646,7 @@ var tableData = [
     "historical": [
       12.9,
       12.9,
-      12.9,
+      null,
       null,
       null,
       null,
@@ -2695,7 +2695,7 @@ var tableData = [
     "historical": [
       0.39,
       0.39,
-      0.39,
+      null,
       null,
       null,
       null,
@@ -2790,8 +2790,8 @@ var tableData = [
     "unitPriceUnit": "roll",
     "historical": [
       null,
-      null,
       2.96,
+      null,
       null,
       null,
       null,
@@ -2838,8 +2838,8 @@ var tableData = [
     "unitPriceUnit": "roll",
     "historical": [
       null,
-      null,
       3.33,
+      null,
       null,
       null,
       null,
@@ -2885,9 +2885,9 @@ var tableData = [
     "unitPrice": "2.91",
     "unitPriceUnit": "can",
     "historical": [
+      2.91,
+      2.91,
       null,
-      2.91,
-      2.91,
       null,
       null,
       null,
@@ -2983,7 +2983,7 @@ var tableData = [
     "historical": [
       31.9,
       31.9,
-      31.9,
+      null,
       null,
       null,
       null,
@@ -3032,7 +3032,7 @@ var tableData = [
     "historical": [
       29.8,
       29.8,
-      29.8,
+      null,
       null,
       null,
       null,
@@ -3081,7 +3081,7 @@ var tableData = [
     "historical": [
       31.9,
       31.9,
-      31.9,
+      null,
       null,
       null,
       null,
@@ -3374,7 +3374,7 @@ var tableData = [
     "unitPriceUnit": "100ml",
     "historical": [
       0.35,
-      0.35,
+      null,
       null,
       null,
       null,
@@ -3423,7 +3423,7 @@ var tableData = [
     "historical": [
       7,
       7,
-      7,
+      null,
       null,
       null,
       null,
@@ -3471,7 +3471,7 @@ var tableData = [
     "historical": [
       6.6,
       6.6,
-      6.6,
+      null,
       null,
       null,
       null,
@@ -3519,7 +3519,7 @@ var tableData = [
     "historical": [
       6.33,
       6.33,
-      6.33,
+      null,
       null,
       null,
       null,
@@ -3567,7 +3567,7 @@ var tableData = [
     "historical": [
       66,
       66,
-      66,
+      null,
       null,
       null,
       null,
@@ -3762,7 +3762,7 @@ var tableData = [
     "historical": [
       44.9,
       44.9,
-      44.9,
+      null,
       null,
       null,
       null,
@@ -3811,7 +3811,7 @@ var tableData = [
     "historical": [
       46,
       46,
-      46,
+      null,
       null,
       null,
       null,
@@ -3909,7 +3909,7 @@ var tableData = [
     "historical": [
       46.9,
       46.9,
-      46.9,
+      null,
       null,
       null,
       null,
@@ -4054,7 +4054,7 @@ var tableData = [
     "historical": [
       6.25,
       6.25,
-      6.25,
+      null,
       null,
       null,
       null,
@@ -4102,7 +4102,7 @@ var tableData = [
     "historical": [
       6,
       6,
-      6,
+      null,
       null,
       null,
       null,
@@ -4150,7 +4150,7 @@ var tableData = [
     "historical": [
       5.75,
       5.75,
-      5.75,
+      null,
       null,
       null,
       null,
@@ -4198,7 +4198,7 @@ var tableData = [
     "historical": [
       6.24,
       6.24,
-      6.24,
+      null,
       null,
       null,
       null,
@@ -4246,7 +4246,7 @@ var tableData = [
     "historical": [
       0.49,
       0.49,
-      0.49,
+      null,
       null,
       null,
       null,
@@ -4294,7 +4294,7 @@ var tableData = [
     "historical": [
       0.35,
       0.35,
-      0.35,
+      null,
       null,
       null,
       null,
@@ -4342,7 +4342,7 @@ var tableData = [
     "historical": [
       0.49,
       0.49,
-      0.49,
+      null,
       null,
       null,
       null,
@@ -4390,7 +4390,7 @@ var tableData = [
     "historical": [
       0.42,
       0.42,
-      0.42,
+      null,
       null,
       null,
       null,
@@ -4683,7 +4683,7 @@ var tableData = [
     "historical": [
       4.99,
       4.99,
-      4.99,
+      null,
       null,
       null,
       null,
@@ -4779,7 +4779,7 @@ var tableData = [
     "historical": [
       4.63,
       4.63,
-      4.63,
+      null,
       null,
       null,
       null,
@@ -4827,7 +4827,7 @@ var tableData = [
     "historical": [
       4.34,
       4.34,
-      4.34,
+      null,
       null,
       null,
       null,
@@ -4875,7 +4875,7 @@ var tableData = [
     "historical": [
       0.53,
       0.53,
-      0.53,
+      null,
       null,
       null,
       null,
