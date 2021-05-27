@@ -13,7 +13,6 @@
     "historical": [
       2089,
       2089,
-      2089,
       2118,
       2118,
       2118,
@@ -40,9 +39,10 @@
       2718,
       2718,
       2527.5,
+      2527.5,
       2527.5
     ],
-    "lowestForDays": 6,
+    "lowestForDays": 7,
     "tags": [
       "濾水器"
     ]
@@ -106,7 +106,6 @@
       2466.67,
       2466.67,
       2466.67,
-      2466.67,
       2946.67,
       null,
       null,
@@ -124,6 +123,7 @@
       2460,
       2453.33,
       2666.67,
+      null,
       null,
       null,
       null,
@@ -220,8 +220,8 @@
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
@@ -246,7 +246,7 @@
     "unitPrice": "29.00",
     "unitPriceUnit": "pack",
     "historical": [
-      29,
+      null,
       null,
       null,
       null,
@@ -295,7 +295,7 @@
     "unitPrice": "19.45",
     "unitPriceUnit": "kg",
     "historical": [
-      19.45,
+      null,
       null,
       null,
       null,
@@ -343,7 +343,7 @@
     "unitPrice": "8.20",
     "unitPriceUnit": "100g",
     "historical": [
-      8.2,
+      null,
       null,
       null,
       null,
@@ -391,7 +391,7 @@
     "unitPrice": "5.98",
     "unitPriceUnit": "100ml",
     "historical": [
-      5.98,
+      null,
       null,
       null,
       null,
@@ -487,7 +487,7 @@
     "unitPrice": "7.98",
     "unitPriceUnit": "100ml",
     "historical": [
-      7.98,
+      null,
       null,
       null,
       null,
@@ -535,7 +535,7 @@
     "unitPrice": "3.72",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.72,
+      null,
       null,
       null,
       null,
@@ -583,7 +583,7 @@
     "unitPrice": "2.91",
     "unitPriceUnit": "250ml",
     "historical": [
-      2.91,
+      null,
       null,
       null,
       null,
@@ -679,7 +679,7 @@
     "unitPrice": "76.90",
     "unitPriceUnit": "250ml",
     "historical": [
-      76.9,
+      null,
       null,
       null,
       null,
@@ -728,7 +728,7 @@
     "unitPrice": "72.90",
     "unitPriceUnit": "250ml",
     "historical": [
-      72.9,
+      null,
       null,
       null,
       null,
@@ -777,7 +777,7 @@
     "unitPrice": "44.90",
     "unitPriceUnit": "pack",
     "historical": [
-      44.9,
+      null,
       null,
       null,
       null,
@@ -822,7 +822,7 @@
     "unitPrice": "3.65",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.65,
+      null,
       null,
       null,
       null,
@@ -870,7 +870,7 @@
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.44,
+      null,
       null,
       null,
       null,
@@ -918,7 +918,7 @@
     "unitPrice": "13.80",
     "unitPriceUnit": "kg",
     "historical": [
-      13.8,
+      null,
       null,
       null,
       null,
@@ -966,7 +966,7 @@
     "unitPrice": "11.88",
     "unitPriceUnit": "kg",
     "historical": [
-      11.88,
+      null,
       null,
       null,
       null,
@@ -1015,7 +1015,7 @@
     "unitPrice": "13.44",
     "unitPriceUnit": "kg",
     "historical": [
-      13.44,
+      null,
       null,
       null,
       null,
@@ -1211,7 +1211,7 @@
     "unitPrice": "59.05",
     "unitPriceUnit": "100g",
     "historical": [
-      59.05,
+      null,
       null,
       null,
       null,
@@ -1256,7 +1256,7 @@
     "unitPrice": "2.36",
     "unitPriceUnit": "100ml",
     "historical": [
-      2.36,
+      null,
       null,
       null,
       null,
@@ -1304,7 +1304,7 @@
     "unitPrice": "0.87",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.87,
+      null,
       null,
       null,
       null,
@@ -1352,7 +1352,7 @@
     "unitPrice": "0.66",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.66,
+      null,
       null,
       null,
       null,
@@ -1400,7 +1400,7 @@
     "unitPrice": "0.65",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.65,
+      null,
       null,
       null,
       null,
@@ -1448,7 +1448,7 @@
     "unitPrice": "0.52",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.52,
+      null,
       null,
       null,
       null,
@@ -1496,7 +1496,7 @@
     "unitPrice": "0.93",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.93,
+      null,
       null,
       null,
       null,
@@ -1544,7 +1544,7 @@
     "unitPrice": "0.66",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.66,
+      null,
       null,
       null,
       null,
@@ -1592,7 +1592,7 @@
     "unitPrice": "0.65",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.65,
+      null,
       null,
       null,
       null,
@@ -1640,7 +1640,7 @@
     "unitPrice": "0.52",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.52,
+      null,
       null,
       null,
       null,
@@ -1688,7 +1688,7 @@
     "unitPrice": "3.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      3.49,
+      null,
       null,
       null,
       null,
@@ -1736,7 +1736,7 @@
     "unitPrice": "3.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      3.35,
+      null,
       null,
       null,
       null,
@@ -1784,7 +1784,7 @@
     "unitPrice": "5.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      5.49,
+      null,
       null,
       null,
       null,
@@ -1882,7 +1882,7 @@
     "unitPrice": "3.75",
     "unitPriceUnit": "roll",
     "historical": [
-      3.75,
+      null,
       null,
       null,
       null,
@@ -1930,7 +1930,7 @@
     "unitPrice": "3.00",
     "unitPriceUnit": "roll",
     "historical": [
-      3,
+      null,
       null,
       null,
       null,
@@ -1978,7 +1978,7 @@
     "unitPrice": "3.75",
     "unitPriceUnit": "roll",
     "historical": [
-      3.75,
+      null,
       null,
       null,
       null,
@@ -2026,7 +2026,7 @@
     "unitPrice": "3.00",
     "unitPriceUnit": "roll",
     "historical": [
-      3,
+      null,
       null,
       null,
       null,
@@ -2074,7 +2074,7 @@
     "unitPrice": "4.58",
     "unitPriceUnit": "roll",
     "historical": [
-      4.58,
+      null,
       null,
       null,
       null,
@@ -2122,7 +2122,7 @@
     "unitPrice": "5.45",
     "unitPriceUnit": "roll",
     "historical": [
-      5.45,
+      null,
       null,
       null,
       null,
@@ -2170,7 +2170,7 @@
     "unitPrice": "2.91",
     "unitPriceUnit": "250ml",
     "historical": [
-      2.91,
+      null,
       null,
       null,
       null,
@@ -2218,7 +2218,7 @@
     "unitPrice": "2.79",
     "unitPriceUnit": "250ml",
     "historical": [
-      2.79,
+      null,
       null,
       null,
       null,
@@ -2266,7 +2266,7 @@
     "unitPrice": "2.71",
     "unitPriceUnit": "250ml",
     "historical": [
-      2.71,
+      null,
       null,
       null,
       null,
@@ -2314,7 +2314,7 @@
     "unitPrice": "2.99",
     "unitPriceUnit": "can",
     "historical": [
-      2.99,
+      null,
       null,
       null,
       null,
@@ -2362,7 +2362,7 @@
     "unitPrice": "5.58",
     "unitPriceUnit": "330ml",
     "historical": [
-      5.58,
+      null,
       null,
       null,
       null,
@@ -2410,7 +2410,7 @@
     "unitPrice": "3.65",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.65,
+      null,
       null,
       null,
       null,
@@ -2458,7 +2458,7 @@
     "unitPrice": "3.44",
     "unitPriceUnit": "250ml",
     "historical": [
-      3.44,
+      null,
       null,
       null,
       null,
@@ -2551,7 +2551,7 @@
     "unitPrice": "8.82",
     "unitPriceUnit": "100ml",
     "historical": [
-      8.82,
+      null,
       null,
       null,
       null,
@@ -2596,7 +2596,7 @@
     "unitPrice": "0.38",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.38,
+      null,
       null,
       null,
       null,
@@ -2644,7 +2644,7 @@
     "unitPrice": "12.90",
     "unitPriceUnit": "kg",
     "historical": [
-      12.9,
+      null,
       null,
       null,
       null,
@@ -2693,7 +2693,7 @@
     "unitPrice": "0.39",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.39,
+      null,
       null,
       null,
       null,
@@ -2789,7 +2789,7 @@
     "unitPrice": "2.96",
     "unitPriceUnit": "roll",
     "historical": [
-      2.96,
+      null,
       null,
       null,
       null,
@@ -2837,7 +2837,7 @@
     "unitPrice": "3.33",
     "unitPriceUnit": "roll",
     "historical": [
-      3.33,
+      null,
       null,
       null,
       null,
@@ -2885,7 +2885,7 @@
     "unitPrice": "2.91",
     "unitPriceUnit": "can",
     "historical": [
-      2.91,
+      null,
       null,
       null,
       null,
@@ -2981,7 +2981,7 @@
     "unitPrice": "31.90",
     "unitPriceUnit": "pack",
     "historical": [
-      31.9,
+      null,
       null,
       null,
       null,
@@ -3030,7 +3030,7 @@
     "unitPrice": "29.80",
     "unitPriceUnit": "pack",
     "historical": [
-      29.8,
+      null,
       null,
       null,
       null,
@@ -3079,7 +3079,7 @@
     "unitPrice": "31.90",
     "unitPriceUnit": "pack",
     "historical": [
-      31.9,
+      null,
       null,
       null,
       null,
@@ -3421,7 +3421,7 @@
     "unitPrice": "7.00",
     "unitPriceUnit": "can",
     "historical": [
-      7,
+      null,
       null,
       null,
       null,
@@ -3469,7 +3469,7 @@
     "unitPrice": "6.60",
     "unitPriceUnit": "330ml",
     "historical": [
-      6.6,
+      null,
       null,
       null,
       null,
@@ -3517,7 +3517,7 @@
     "unitPrice": "6.33",
     "unitPriceUnit": "250ml",
     "historical": [
-      6.33,
+      null,
       null,
       null,
       null,
@@ -3565,7 +3565,7 @@
     "unitPrice": "66.00",
     "unitPriceUnit": "250ml",
     "historical": [
-      66,
+      null,
       null,
       null,
       null,
@@ -3760,7 +3760,7 @@
     "unitPrice": "44.90",
     "unitPriceUnit": "pack",
     "historical": [
-      44.9,
+      null,
       null,
       null,
       null,
@@ -3809,7 +3809,7 @@
     "unitPrice": "46.00",
     "unitPriceUnit": "pack",
     "historical": [
-      46,
+      null,
       null,
       null,
       null,
@@ -3907,7 +3907,7 @@
     "unitPrice": "46.90",
     "unitPriceUnit": "pack",
     "historical": [
-      46.9,
+      null,
       null,
       null,
       null,
@@ -4052,7 +4052,7 @@
     "unitPrice": "6.25",
     "unitPriceUnit": "250ml",
     "historical": [
-      6.25,
+      null,
       null,
       null,
       null,
@@ -4100,7 +4100,7 @@
     "unitPrice": "6.00",
     "unitPriceUnit": "250ml",
     "historical": [
-      6,
+      null,
       null,
       null,
       null,
@@ -4148,7 +4148,7 @@
     "unitPrice": "5.75",
     "unitPriceUnit": "can",
     "historical": [
-      5.75,
+      null,
       null,
       null,
       null,
@@ -4196,7 +4196,7 @@
     "unitPrice": "6.24",
     "unitPriceUnit": "can",
     "historical": [
-      6.24,
+      null,
       null,
       null,
       null,
@@ -4244,7 +4244,7 @@
     "unitPrice": "0.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.49,
+      null,
       null,
       null,
       null,
@@ -4292,7 +4292,7 @@
     "unitPrice": "0.35",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.35,
+      null,
       null,
       null,
       null,
@@ -4340,7 +4340,7 @@
     "unitPrice": "0.49",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.49,
+      null,
       null,
       null,
       null,
@@ -4388,7 +4388,7 @@
     "unitPrice": "0.42",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.42,
+      null,
       null,
       null,
       null,
@@ -4681,7 +4681,7 @@
     "unitPrice": "4.99",
     "unitPriceUnit": "250ml",
     "historical": [
-      4.99,
+      null,
       null,
       null,
       null,
@@ -4777,7 +4777,7 @@
     "unitPrice": "4.63",
     "unitPriceUnit": "can",
     "historical": [
-      4.63,
+      null,
       null,
       null,
       null,
@@ -4825,7 +4825,7 @@
     "unitPrice": "4.34",
     "unitPriceUnit": "330ml",
     "historical": [
-      4.34,
+      null,
       null,
       null,
       null,
@@ -4873,7 +4873,7 @@
     "unitPrice": "0.53",
     "unitPriceUnit": "100ml",
     "historical": [
-      0.53,
+      null,
       null,
       null,
       null,
