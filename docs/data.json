@@ -12,7 +12,6 @@
     "unitPriceUnit": "item",
     "historical": [
       2089,
-      2089,
       2118,
       2118,
       2118,
@@ -38,11 +37,12 @@
       2718,
       2718,
       2718,
+      2527.5,
       2527.5,
       2527.5,
       2527.5
     ],
-    "lowestForDays": 7,
+    "lowestForDays": 8,
     "tags": [
       "濾水器"
     ]
@@ -100,9 +100,13 @@
     "link": "https://www.amazon.co.jp/-/en/dp/B0060P7K0C",
     "name": "Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP -",
+    "storeName": "Amazon JP - Take Labo 【古物商許可 埼玉県公安委員会 第431240052924号",
+    "purchasable": "true",
+    "regularPrice": "7280",
+    "bestPrice": "7280",
+    "unitPrice": "2426.67",
+    "unitPriceUnit": "item",
     "historical": [
-      2466.67,
       2466.67,
       2466.67,
       2466.67,
@@ -131,7 +135,8 @@
       null,
       null,
       null,
-      null
+      null,
+      2426.67
     ],
     "lowestForDays": 0,
     "tags": [
@@ -219,8 +224,8 @@
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
