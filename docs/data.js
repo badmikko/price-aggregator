@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - ●onHOME オンホーム●",
+    "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "5380",
-    "bestPrice": "5380",
-    "unitPrice": "2690.00",
+    "regularPrice": "5191",
+    "bestPrice": "5191",
+    "unitPrice": "2595.50",
     "unitPriceUnit": "item",
     "historical": [
-      2089,
       2118,
       2118,
       2118,
@@ -40,9 +39,10 @@ var tableData = [
       2527.5,
       2527.5,
       2690,
-      2690
+      2690,
+      2595.5
     ],
-    "lowestForDays": 15,
+    "lowestForDays": 16,
     "tags": [
       "濾水器"
     ]
@@ -100,14 +100,8 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B0060P7K0C",
     "name": "Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - Take Labo 【古物商許可 埼玉県公安委員会 第431240052924号",
-    "purchasable": "true",
-    "regularPrice": "7280",
-    "bestPrice": "7280",
-    "unitPrice": "2426.67",
-    "unitPriceUnit": "item",
+    "storeName": "Amazon JP -",
     "historical": [
-      2620,
       2520,
       2520,
       2460,
@@ -136,7 +130,8 @@ var tableData = [
       2426.67,
       2426.67,
       2426.67,
-      2426.67
+      2426.67,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -183,7 +178,7 @@ var tableData = [
       2094,
       2094,
       2094,
-      2094,
+      2057.67,
       2057.67
     ],
     "lowestForDays": 0,
@@ -216,8 +211,8 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67,
       null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
