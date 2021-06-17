@@ -1,12 +1,12 @@
 | Label           | Value                                        |
 | --------------- | -------------------------------------------- |
-| Name            | 芝士煎餃 274g                                    |
-| Brand Name      | 大阪王將                                         |
-| Store Name      | HKTVMall - FoodWise                          |
+| Name            |                                              |
+| Brand Name      |                                              |
+| Store Name      | HKTVMall - undefined                         |
 | Packing Spec    |                                              |
 | link            | https://www.hktvmall.com/p/H5535005_S_108918 |
-| Purchasable     | true                                         |
-| Regular Price   | 35.00                                        |
-| Best Price      | 31.90                                        |
-| Unit Price      | 31.90                                        |
+| Purchasable     |                                              |
+| Regular Price   |                                              |
+| Best Price      |                                              |
+| Unit Price      | #NAME?                                       |
 | Unit Price Unit | pack                                         |

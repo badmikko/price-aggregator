@@ -1,12 +1,12 @@
 | Label           | Value                                         |
 | --------------- | --------------------------------------------- |
-| Name            | 維他 純蒸餾水-原箱 700MLX24                           |
-| Brand Name      | 維他                                            |
-| Store Name      | HKTVMall - 揚逸( 香港) 有限公司                       |
+| Name            |                                               |
+| Brand Name      |                                               |
+| Store Name      | HKTVMall - undefined                          |
 | Packing Spec    |                                               |
 | link            | https://www.hktvmall.com/p/H7730001_S_VITA700 |
-| Purchasable     | false                                         |
-| Regular Price   | 65.00                                         |
-| Best Price      | 58.00                                         |
-| Unit Price      | 0.35                                          |
+| Purchasable     |                                               |
+| Regular Price   |                                               |
+| Best Price      |                                               |
+| Unit Price      | #NAME?                                        |
 | Unit Price Unit | 100ml                                         |

@@ -1,12 +1,12 @@
 | Label           | Value                                          |
 | --------------- | ---------------------------------------------- |
-| Name            | 大阪王將餃子 (味噌) (急凍)                               |
-| Brand Name      | 大阪王將                                           |
-| Store Name      | HKTVMall - 大和牛屋                                |
-| Packing Spec    | 204克                                           |
+| Name            |                                                |
+| Brand Name      |                                                |
+| Store Name      | HKTVMall - undefined                           |
+| Packing Spec    |                                                |
 | link            | https://www.hktvmall.com/p/H0888001_S_10018940 |
-| Purchasable     | false                                          |
-| Regular Price   | 35.90                                          |
-| Best Price      | 25.90                                          |
-| Unit Price      | 25.90                                          |
+| Purchasable     |                                                |
+| Regular Price   |                                                |
+| Best Price      |                                                |
+| Unit Price      | #NAME?                                         |
 | Unit Price Unit | pack                                           |

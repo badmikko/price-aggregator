@@ -1,12 +1,12 @@
-| Label           | Value                                                                 |
-| --------------- | --------------------------------------------------------------------- |
-| Name            | 鈣思寶大豆營鈣 Calci Plus CA+ SOYA CALCIUM (BONE) N -原箱 (綠色盒)-  (24 x 250ml) |
-| Brand Name      | 鈣思寶                                                                   |
-| Store Name      | HKTVMall - Lets Bazaar Company Limited                                |
-| Packing Spec    |                                                                       |
-| link            | https://www.hktvmall.com/p/H8032001_S_MI-00034                        |
-| Purchasable     | true                                                                  |
-| Regular Price   | 160.00                                                                |
-| Best Price      | 150.00                                                                |
-| Unit Price      | 6.25                                                                  |
-| Unit Price Unit | 250ml                                                                 |
+| Label           | Value                                          |
+| --------------- | ---------------------------------------------- |
+| Name            |                                                |
+| Brand Name      |                                                |
+| Store Name      | HKTVMall - undefined                           |
+| Packing Spec    |                                                |
+| link            | https://www.hktvmall.com/p/H8032001_S_MI-00034 |
+| Purchasable     |                                                |
+| Regular Price   |                                                |
+| Best Price      |                                                |
+| Unit Price      | #NAME?                                         |
+| Unit Price Unit | 250ml                                          |

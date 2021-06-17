@@ -1,12 +1,12 @@
 | Label           | Value                                          |
 | --------------- | ---------------------------------------------- |
-| Name            | 泡沫殺菌潔手液敏感呵護                                    |
-| Brand Name      | 威露士                                            |
-| Store Name      | HKTVMall - 威露士/王子石鹼官方旗艦店                       |
-| Packing Spec    | 280 毫升                                         |
+| Name            |                                                |
+| Brand Name      |                                                |
+| Store Name      | HKTVMall - undefined                           |
+| Packing Spec    |                                                |
 | link            | https://www.hktvmall.com/p/H0888001_S_10140667 |
-| Purchasable     | true                                           |
-| Regular Price   | 38.90                                          |
-| Best Price      | 24.70                                          |
-| Unit Price      | 8.82                                           |
+| Purchasable     |                                                |
+| Regular Price   |                                                |
+| Best Price      |                                                |
+| Unit Price      | #NAME?                                         |
 | Unit Price Unit | 100ml                                          |

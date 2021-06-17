@@ -1,12 +1,12 @@
 | Label           | Value                                        |
 | --------------- | -------------------------------------------- |
-| Name            | 味噌羽根煎餃 314g                                  |
-| Brand Name      | 大阪王將                                         |
-| Store Name      | HKTVMall - FoodWise                          |
-| Packing Spec    | 314g                                         |
+| Name            |                                              |
+| Brand Name      |                                              |
+| Store Name      | HKTVMall - undefined                         |
+| Packing Spec    |                                              |
 | link            | https://www.hktvmall.com/p/H5535005_S_108919 |
-| Purchasable     | true                                         |
-| Regular Price   | 35.00                                        |
-| Best Price      | 29.80                                        |
-| Unit Price      | 29.80                                        |
+| Purchasable     |                                              |
+| Regular Price   |                                              |
+| Best Price      |                                              |
+| Unit Price      | #NAME?                                       |
 | Unit Price Unit | pack                                         |

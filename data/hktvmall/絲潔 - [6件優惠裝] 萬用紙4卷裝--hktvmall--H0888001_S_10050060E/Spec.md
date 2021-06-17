@@ -1,12 +1,12 @@
-| Label           | Value                                             |
-| --------------- | ------------------------------------------------- |
-| Name            | [原箱6件裝]廚房萬用紙4卷裝(通過HACCP,FDA食品安全管理規格認證,FSC認證,台灣製造) |
-| Brand Name      | 絲潔                                                |
-| Store Name      | HKTVMall - 皇冠/健力氏/絲潔紙品官方網店                        |
-| Packing Spec    | 4 卷 x 6                                           |
-| link            | https://www.hktvmall.com/p/H0888001_S_10050060E   |
-| Purchasable     | true                                              |
-| Regular Price   | 155.40                                            |
-| Best Price      | 130.80                                            |
-| Unit Price      | 5.45                                              |
-| Unit Price Unit | roll                                              |
+| Label           | Value                                           |
+| --------------- | ----------------------------------------------- |
+| Name            |                                                 |
+| Brand Name      |                                                 |
+| Store Name      | HKTVMall - undefined                            |
+| Packing Spec    |                                                 |
+| link            | https://www.hktvmall.com/p/H0888001_S_10050060E |
+| Purchasable     |                                                 |
+| Regular Price   |                                                 |
+| Best Price      |                                                 |
+| Unit Price      | #NAME?                                          |
+| Unit Price Unit | roll                                            |

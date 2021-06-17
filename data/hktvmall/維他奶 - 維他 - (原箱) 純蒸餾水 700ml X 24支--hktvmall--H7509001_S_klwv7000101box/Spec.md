@@ -1,12 +1,12 @@
 | Label           | Value                                                |
 | --------------- | ---------------------------------------------------- |
-| Name            | 維他 - (原箱) 純蒸餾水 700ml X 24支 ( 新舊包裝 隨機發貨 以實物為準 )       |
-| Brand Name      | 維他奶                                                  |
-| Store Name      | HKTVMall - KL貨棧                                      |
-| Packing Spec    | 700ml X 24                                           |
+| Name            |                                                      |
+| Brand Name      |                                                      |
+| Store Name      | HKTVMall - undefined                                 |
+| Packing Spec    |                                                      |
 | link            | https://www.hktvmall.com/p/H7509001_S_klwv7000101box |
-| Purchasable     | false                                                |
-| Regular Price   | 85.00                                                |
-| Best Price      | 59.00                                                |
-| Unit Price      | 0.35                                                 |
+| Purchasable     |                                                      |
+| Regular Price   |                                                      |
+| Best Price      |                                                      |
+| Unit Price      | #NAME?                                               |
 | Unit Price Unit | 100ml                                                |

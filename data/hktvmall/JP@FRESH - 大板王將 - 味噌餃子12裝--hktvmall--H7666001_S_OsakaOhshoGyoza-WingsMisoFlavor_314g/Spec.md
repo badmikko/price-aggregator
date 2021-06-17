@@ -1,12 +1,12 @@
 | Label           | Value                                                                      |
 | --------------- | -------------------------------------------------------------------------- |
-| Name            | 大板王將 - 味噌餃子12裝                                                             |
-| Brand Name      | JP@FRESH                                                                   |
-| Store Name      | HKTVMall - JP@FRESH                                                        |
+| Name            |                                                                            |
+| Brand Name      |                                                                            |
+| Store Name      | HKTVMall - undefined                                                       |
 | Packing Spec    |                                                                            |
 | link            | https://www.hktvmall.com/p/H7666001_S_OsakaOhshoGyoza-WingsMisoFlavor_314g |
-| Purchasable     | false                                                                      |
-| Regular Price   | 46.00                                                                      |
-| Best Price      | 36.60                                                                      |
-| Unit Price      | 36.60                                                                      |
+| Purchasable     |                                                                            |
+| Regular Price   |                                                                            |
+| Best Price      |                                                                            |
+| Unit Price      | #NAME?                                                                     |
 | Unit Price Unit | pack                                                                       |
