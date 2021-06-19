@@ -11,7 +11,6 @@
     "unitPrice": "2595.50",
     "unitPriceUnit": "item",
     "historical": [
-      2089,
       2718,
       2718,
       2718,
@@ -27,6 +26,7 @@
       2527.5,
       2690,
       2690,
+      2595.5,
       2595.5,
       2595.5,
       2595.5,
@@ -42,7 +42,7 @@
       2595.5,
       2595.5
     ],
-    "lowestForDays": 29,
+    "lowestForDays": 17,
     "tags": [
       "濾水器"
     ]
@@ -100,7 +100,12 @@
     "link": "https://www.amazon.co.jp/-/en/dp/B0060P7K0C",
     "name": "Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP -",
+    "storeName": "Amazon JP - BIT WAVE",
+    "purchasable": "true",
+    "regularPrice": "7200",
+    "bestPrice": "7200",
+    "unitPrice": "2400.00",
+    "unitPriceUnit": "item",
     "historical": [
       null,
       null,
@@ -109,7 +114,6 @@
       null,
       null,
       null,
-      null,
       2426.67,
       2426.67,
       2426.67,
@@ -131,7 +135,8 @@
       null,
       null,
       null,
-      null
+      null,
+      2400
     ],
     "lowestForDays": 0,
     "tags": [
@@ -164,7 +169,6 @@
       2094,
       2094,
       2094,
-      2094,
       2057.67,
       2057.67,
       2057.67,
@@ -173,6 +177,7 @@
       2094,
       2094,
       2094,
+      2057.67,
       2057.67,
       2057.67,
       2057.67,
@@ -198,7 +203,7 @@
     "unitPrice": "1887.67",
     "unitPriceUnit": "item",
     "historical": [
-      null,
+      1887.67,
       1887.67,
       1887.67,
       1887.67,
