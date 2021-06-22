@@ -12,7 +12,6 @@ var tableData = [
     "unitPriceUnit": "item",
     "historical": [
       2718,
-      2718,
       2527.5,
       2527.5,
       2527.5,
@@ -24,6 +23,7 @@ var tableData = [
       2527.5,
       2690,
       2690,
+      2595.5,
       2595.5,
       2595.5,
       2595.5,
@@ -42,7 +42,7 @@ var tableData = [
       2595.5,
       2595.5
     ],
-    "lowestForDays": 19,
+    "lowestForDays": 20,
     "tags": [
       "濾水器"
     ]
@@ -111,7 +111,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       2426.67,
       2426.67,
       2426.67,
@@ -134,6 +133,7 @@ var tableData = [
       null,
       null,
       null,
+      2400,
       2400,
       2400,
       2400
@@ -166,7 +166,6 @@ var tableData = [
       2094,
       2094,
       2094,
-      2094,
       2057.67,
       2057.67,
       2057.67,
@@ -175,6 +174,7 @@ var tableData = [
       2094,
       2094,
       2094,
+      2057.67,
       2057.67,
       2057.67,
       2057.67,
