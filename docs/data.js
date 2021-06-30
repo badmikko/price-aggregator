@@ -13,7 +13,6 @@ var tableData = [
     "historical": [
       2527.5,
       2527.5,
-      2527.5,
       2690,
       2690,
       2595.5,
@@ -40,9 +39,10 @@ var tableData = [
       2595.5,
       2595.5,
       2595.5,
-      2595.5
+      2595.5,
+      null
     ],
-    "lowestForDays": 27,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -88,7 +88,7 @@ var tableData = [
       1409,
       1409,
       1409,
-      1409
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -102,16 +102,15 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - BIT WAVE",
     "purchasable": "true",
-    "regularPrice": "7200",
-    "bestPrice": "7200",
-    "unitPrice": "2400.00",
+    "regularPrice": "6980",
+    "bestPrice": "6980",
+    "unitPrice": "2326.67",
     "unitPriceUnit": "item",
     "historical": [
       2426.67,
       2426.67,
       2426.67,
       2426.67,
-      2426.67,
       null,
       null,
       null,
@@ -136,7 +135,8 @@ var tableData = [
       2400,
       2400,
       2400,
-      2400
+      2400,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -150,15 +150,14 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6282",
-    "bestPrice": "6282",
-    "unitPrice": "2094.00",
+    "regularPrice": "6173",
+    "bestPrice": "6173",
+    "unitPrice": "2057.67",
     "unitPriceUnit": "item",
     "historical": [
       2094,
       2094,
       2094,
-      2094,
       2057.67,
       2057.67,
       2057.67,
@@ -184,9 +183,10 @@ var tableData = [
       2057.67,
       2057.67,
       2057.67,
-      2094
+      2094,
+      null
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -232,7 +232,7 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67
+      null
     ],
     "lowestForDays": 0,
     "tags": [
