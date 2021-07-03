@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                           |
 | Store Name      | Amazon JP - ●onHOME オンホーム●                                             |
 | Purchasable     | true                                                                   |
-| Regular Price   | 5128                                                                   |
-| Best Price      | 5128                                                                   |
-| Unit Price      | 2564.00                                                                |
+| Regular Price   | 5118                                                                   |
+| Best Price      | 5118                                                                   |
+| Unit Price      | 2559.00                                                                |
 | Unit Price Unit | item                                                                   |
