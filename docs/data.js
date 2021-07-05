@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - ●onHOME オンホーム●",
+    "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "5118",
-    "bestPrice": "5118",
-    "unitPrice": "2559.00",
+    "regularPrice": "5418",
+    "bestPrice": "5418",
+    "unitPrice": "2709.00",
     "unitPriceUnit": "item",
     "historical": [
-      2595.5,
       2595.5,
       2595.5,
       2595.5,
@@ -40,9 +39,10 @@ var tableData = [
       2564,
       2564,
       2559,
-      2559
+      2559,
+      2709
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "濾水器"
     ]
@@ -120,7 +120,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       2400,
       2400,
       2400,
@@ -132,6 +131,7 @@ var tableData = [
       2400,
       2400,
       2400,
+      2326.67,
       2326.67,
       2326.67,
       2326.67,
@@ -157,7 +157,6 @@ var tableData = [
     "historical": [
       2057.67,
       2057.67,
-      2057.67,
       2094,
       2094,
       2094,
@@ -183,10 +182,11 @@ var tableData = [
       2057.67,
       2057.67,
       2057.67,
+      2094,
       2094,
       2094
     ],
-    "lowestForDays": 2,
+    "lowestForDays": 3,
     "tags": [
       "濾水器"
     ]
