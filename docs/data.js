@@ -33,16 +33,16 @@ var tableData = [
       2595.5,
       2595.5,
       2595.5,
-      2595.5,
       2564,
       2564,
       2559,
       2559,
+      2709,
       2709,
       2709,
       2709
     ],
-    "lowestForDays": 3,
+    "lowestForDays": 4,
     "tags": [
       "濾水器"
     ]
@@ -54,9 +54,9 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "2818",
-    "bestPrice": "2818",
-    "unitPrice": "1409.00",
+    "regularPrice": "2790",
+    "bestPrice": "2790",
+    "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
       1409,
@@ -88,7 +88,7 @@ var tableData = [
       1409,
       1409,
       1409,
-      1409
+      1395
     ],
     "lowestForDays": 0,
     "tags": [
@@ -100,11 +100,11 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B0060P7K0C",
     "name": "Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - BIT WAVE",
+    "storeName": "Amazon JP - real shop",
     "purchasable": "true",
-    "regularPrice": "6980",
-    "bestPrice": "6980",
-    "unitPrice": "2326.67",
+    "regularPrice": "10500",
+    "bestPrice": "10500",
+    "unitPrice": "3500.00",
     "unitPriceUnit": "item",
     "historical": [
       null,
@@ -117,7 +117,6 @@ var tableData = [
       null,
       null,
       null,
-      null,
       2400,
       2400,
       2400,
@@ -136,9 +135,10 @@ var tableData = [
       2326.67,
       2326.67,
       2326.67,
-      2326.67
+      2326.67,
+      3500
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "濾水器"
     ]
@@ -150,15 +150,14 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6282",
-    "bestPrice": "6282",
-    "unitPrice": "2094.00",
+    "regularPrice": "6219",
+    "bestPrice": "6219",
+    "unitPrice": "2073.00",
     "unitPriceUnit": "item",
     "historical": [
       2094,
       2094,
       2094,
-      2094,
       2057.67,
       2057.67,
       2057.67,
@@ -184,9 +183,10 @@ var tableData = [
       2094,
       2094,
       2094,
-      2094
+      2094,
+      2073
     ],
-    "lowestForDays": 5,
+    "lowestForDays": 6,
     "tags": [
       "濾水器"
     ]
