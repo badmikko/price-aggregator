@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                           |
 | Store Name      | Amazon JP - 晴れの日どっとこむ                                                  |
 | Purchasable     | true                                                                   |
-| Regular Price   | 5260                                                                   |
-| Best Price      | 5260                                                                   |
-| Unit Price      | 2630.00                                                                |
+| Regular Price   | 5298                                                                   |
+| Best Price      | 5298                                                                   |
+| Unit Price      | 2649.00                                                                |
 | Unit Price Unit | item                                                                   |
