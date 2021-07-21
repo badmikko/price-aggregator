@@ -20,7 +20,6 @@
       2595.5,
       2595.5,
       2595.5,
-      2595.5,
       2564,
       2564,
       2559,
@@ -40,9 +39,10 @@
       2630,
       2649,
       2649,
+      2709,
       2709
     ],
-    "lowestForDays": 5,
+    "lowestForDays": 6,
     "tags": [
       "濾水器"
     ]
@@ -54,12 +54,11 @@
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "2790",
-    "bestPrice": "2790",
-    "unitPrice": "1395.00",
+    "regularPrice": "2847",
+    "bestPrice": "2847",
+    "unitPrice": "1423.50",
     "unitPriceUnit": "item",
     "historical": [
-      1409,
       1409,
       1409,
       1409,
@@ -88,9 +87,10 @@
       1395,
       1395,
       1453,
-      1395
+      1395,
+      1423.5
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "濾水器"
     ]
@@ -115,7 +115,6 @@
       2400,
       2400,
       2400,
-      2400,
       2326.67,
       2326.67,
       2326.67,
@@ -124,6 +123,7 @@
       2326.67,
       2326.67,
       2326.67,
+      3500,
       3500,
       3500,
       3500,
@@ -138,7 +138,7 @@
       3500,
       3500
     ],
-    "lowestForDays": 13,
+    "lowestForDays": 14,
     "tags": [
       "濾水器"
     ]
@@ -150,12 +150,11 @@
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6236",
-    "bestPrice": "6236",
-    "unitPrice": "2078.67",
+    "regularPrice": "6282",
+    "bestPrice": "6282",
+    "unitPrice": "2094.00",
     "unitPriceUnit": "item",
     "historical": [
-      2057.67,
       2057.67,
       2057.67,
       2057.67,
@@ -184,9 +183,10 @@
       2100,
       2037,
       2037,
-      2078.67
+      2078.67,
+      2094
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "濾水器"
     ]
