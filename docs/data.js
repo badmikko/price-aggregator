@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - Amazon.co.jp",
+    "storeName": "Amazon JP - 晴れの日どっとこむ",
     "purchasable": "true",
-    "regularPrice": "5418",
-    "bestPrice": "5418",
-    "unitPrice": "2709.00",
+    "regularPrice": "5220",
+    "bestPrice": "5220",
+    "unitPrice": "2610.00",
     "unitPriceUnit": "item",
     "historical": [
-      2595.5,
       2595.5,
       2595.5,
       2595.5,
@@ -40,9 +39,10 @@ var tableData = [
       2649,
       2649,
       2709,
-      2709
+      2709,
+      2610
     ],
-    "lowestForDays": 6,
+    "lowestForDays": 7,
     "tags": [
       "濾水器"
     ]
@@ -74,7 +74,6 @@ var tableData = [
       1409,
       1409,
       1409,
-      1409,
       1395,
       1395,
       1533,
@@ -88,9 +87,10 @@ var tableData = [
       1395,
       1453,
       1395,
+      1423.5,
       1423.5
     ],
-    "lowestForDays": 1,
+    "lowestForDays": 2,
     "tags": [
       "濾水器"
     ]
@@ -114,7 +114,6 @@ var tableData = [
       2400,
       2400,
       2400,
-      2400,
       2326.67,
       2326.67,
       2326.67,
@@ -123,6 +122,7 @@ var tableData = [
       2326.67,
       2326.67,
       2326.67,
+      3500,
       3500,
       3500,
       3500,
@@ -138,7 +138,7 @@ var tableData = [
       3500,
       3500
     ],
-    "lowestForDays": 14,
+    "lowestForDays": 15,
     "tags": [
       "濾水器"
     ]
@@ -150,12 +150,11 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6282",
-    "bestPrice": "6282",
-    "unitPrice": "2094.00",
+    "regularPrice": "6219",
+    "bestPrice": "6219",
+    "unitPrice": "2073.00",
     "unitPriceUnit": "item",
     "historical": [
-      2057.67,
       2057.67,
       2057.67,
       2057.67,
@@ -184,9 +183,10 @@ var tableData = [
       2037,
       2037,
       2078.67,
-      2094
+      2094,
+      2073
     ],
-    "lowestForDays": 2,
+    "lowestForDays": 3,
     "tags": [
       "濾水器"
     ]
