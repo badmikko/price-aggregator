@@ -4,14 +4,13 @@
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - 晴れの日どっとこむ",
+    "storeName": "Amazon JP - ●onHOME オンホーム●",
     "purchasable": "true",
-    "regularPrice": "5220",
-    "bestPrice": "5220",
-    "unitPrice": "2610.00",
+    "regularPrice": "5108",
+    "bestPrice": "5108",
+    "unitPrice": "2554.00",
     "unitPriceUnit": "item",
     "historical": [
-      2595.5,
       2595.5,
       2595.5,
       2595.5,
@@ -40,9 +39,10 @@
       2709,
       2610,
       2610,
-      2610
+      2610,
+      2554
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 10,
     "tags": [
       "濾水器"
     ]
@@ -54,12 +54,11 @@
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "2790",
-    "bestPrice": "2790",
-    "unitPrice": "1395.00",
+    "regularPrice": "3000",
+    "bestPrice": "3000",
+    "unitPrice": "1500.00",
     "unitPriceUnit": "item",
     "historical": [
-      1409,
       1409,
       1409,
       1409,
@@ -88,9 +87,10 @@
       1423.5,
       1423.5,
       1423.5,
-      1395
+      1395,
+      1500
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 1,
     "tags": [
       "濾水器"
     ]
@@ -111,7 +111,6 @@
       2400,
       2400,
       2400,
-      2400,
       2326.67,
       2326.67,
       2326.67,
@@ -120,6 +119,7 @@
       2326.67,
       2326.67,
       2326.67,
+      3500,
       3500,
       3500,
       3500,
@@ -138,7 +138,7 @@
       3500,
       3500
     ],
-    "lowestForDays": 17,
+    "lowestForDays": 18,
     "tags": [
       "濾水器"
     ]
@@ -150,12 +150,11 @@
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6411",
-    "bestPrice": "6411",
-    "unitPrice": "2137.00",
+    "regularPrice": "6219",
+    "bestPrice": "6219",
+    "unitPrice": "2073.00",
     "unitPriceUnit": "item",
     "historical": [
-      2057.67,
       2057.67,
       2057.67,
       2057.67,
@@ -184,9 +183,10 @@
       2094,
       2073,
       2073,
-      2137
+      2137,
+      2073
     ],
-    "lowestForDays": 5,
+    "lowestForDays": 6,
     "tags": [
       "濾水器"
     ]
