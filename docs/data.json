@@ -4,14 +4,13 @@
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - ●onHOME オンホーム●",
+    "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "5108",
-    "bestPrice": "5108",
-    "unitPrice": "2554.00",
+    "regularPrice": "4727",
+    "bestPrice": "4727",
+    "unitPrice": "2363.50",
     "unitPriceUnit": "item",
     "historical": [
-      2595.5,
       2595.5,
       2595.5,
       2595.5,
@@ -40,9 +39,10 @@
       2610,
       2610,
       2554,
-      2554
+      2554,
+      2363.5
     ],
-    "lowestForDays": 11,
+    "lowestForDays": 12,
     "tags": [
       "濾水器"
     ]
@@ -59,7 +59,6 @@
     "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
-      1409,
       1409,
       1409,
       1409,
@@ -88,6 +87,7 @@
       1423.5,
       1395,
       1500,
+      1395,
       1395
     ],
     "lowestForDays": 0,
@@ -109,7 +109,6 @@
     "historical": [
       2400,
       2400,
-      2400,
       2326.67,
       2326.67,
       2326.67,
@@ -118,6 +117,7 @@
       2326.67,
       2326.67,
       2326.67,
+      3500,
       3500,
       3500,
       3500,
@@ -138,7 +138,7 @@
       3500,
       3500
     ],
-    "lowestForDays": 19,
+    "lowestForDays": 20,
     "tags": [
       "濾水器"
     ]
@@ -155,7 +155,6 @@
     "unitPrice": "2073.00",
     "unitPriceUnit": "item",
     "historical": [
-      2057.67,
       2057.67,
       2094,
       2057.67,
@@ -184,9 +183,10 @@
       2073,
       2137,
       2073,
+      2073,
       2073
     ],
-    "lowestForDays": 7,
+    "lowestForDays": 8,
     "tags": [
       "濾水器"
     ]
