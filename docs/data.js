@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - Amazon.co.jp",
+    "storeName": "Amazon JP - ●onHOME オンホーム●",
     "purchasable": "true",
-    "regularPrice": "4727",
-    "bestPrice": "4727",
-    "unitPrice": "2363.50",
+    "regularPrice": "5108",
+    "bestPrice": "5108",
+    "unitPrice": "2554.00",
     "unitPriceUnit": "item",
     "historical": [
-      2595.5,
       2595.5,
       2564,
       2564,
@@ -40,9 +39,10 @@ var tableData = [
       2554,
       2554,
       2363.5,
-      2363.5
+      2363.5,
+      2554
     ],
-    "lowestForDays": 13,
+    "lowestForDays": 14,
     "tags": [
       "濾水器"
     ]
@@ -59,7 +59,6 @@ var tableData = [
     "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
-      1409,
       1409,
       1409,
       1409,
@@ -88,6 +87,7 @@ var tableData = [
       1500,
       1395,
       1395,
+      1395,
       1395
     ],
     "lowestForDays": 0,
@@ -100,14 +100,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B0060P7K0C",
     "name": "Krinsui MDC01SZ Water Filter Cartridge Replacement Pack of 3 MONO Series",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - real shop",
+    "storeName": "Amazon JP - BIT WAVE",
     "purchasable": "true",
-    "regularPrice": "10500",
-    "bestPrice": "10500",
-    "unitPrice": "3500.00",
+    "regularPrice": "6980",
+    "bestPrice": "6980",
+    "unitPrice": "2326.67",
     "unitPriceUnit": "item",
     "historical": [
-      2400,
       2326.67,
       2326.67,
       2326.67,
@@ -136,9 +135,10 @@ var tableData = [
       3500,
       3500,
       3500,
-      3500
+      3500,
+      2326.67
     ],
-    "lowestForDays": 21,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -150,12 +150,11 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6219",
-    "bestPrice": "6219",
-    "unitPrice": "2073.00",
+    "regularPrice": "6478",
+    "bestPrice": "6478",
+    "unitPrice": "2159.33",
     "unitPriceUnit": "item",
     "historical": [
-      2094,
       2057.67,
       2057.67,
       2057.67,
@@ -184,9 +183,10 @@ var tableData = [
       2073,
       2073,
       2073,
-      2073
+      2073,
+      2159.33
     ],
-    "lowestForDays": 9,
+    "lowestForDays": 10,
     "tags": [
       "濾水器"
     ]
