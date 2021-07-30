@@ -4,9 +4,9 @@
 | link            | https://www.amazon.co.jp/-/en/dp/B00200L8Q8                            |
 | Name            | Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2 |
 | Brand Name      | 三菱ケミカル・クリンスイ                                                           |
-| Store Name      | Amazon JP - ●onHOME オンホーム●                                             |
+| Store Name      | Amazon JP - SKNSHOP                                                    |
 | Purchasable     | true                                                                   |
-| Regular Price   | 5108                                                                   |
-| Best Price      | 5108                                                                   |
-| Unit Price      | 2554.00                                                                |
+| Regular Price   | 5100                                                                   |
+| Best Price      | 5100                                                                   |
+| Unit Price      | 2550.00                                                                |
 | Unit Price Unit | item                                                                   |
