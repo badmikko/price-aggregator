@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - SKNSHOP",
+    "storeName": "Amazon JP - ●onHOME オンホーム●",
     "purchasable": "true",
-    "regularPrice": "5100",
-    "bestPrice": "5100",
-    "unitPrice": "2550.00",
+    "regularPrice": "5108",
+    "bestPrice": "5108",
+    "unitPrice": "2554.00",
     "unitPriceUnit": "item",
     "historical": [
-      2564,
       2564,
       2559,
       2559,
@@ -40,9 +39,10 @@ var tableData = [
       2363.5,
       2363.5,
       2554,
-      2550
+      2550,
+      null
     ],
-    "lowestForDays": 15,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -59,7 +59,6 @@ var tableData = [
     "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
-      1409,
       1409,
       1409,
       1409,
@@ -88,7 +87,8 @@ var tableData = [
       1395,
       1395,
       1395,
-      1395
+      1395,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -113,7 +113,6 @@ var tableData = [
       2326.67,
       2326.67,
       2326.67,
-      2326.67,
       3500,
       3500,
       3500,
@@ -136,7 +135,8 @@ var tableData = [
       3500,
       3500,
       2326.67,
-      2326.67
+      2326.67,
+      null
     ],
     "lowestForDays": 0,
     "tags": [
@@ -150,12 +150,11 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6219",
-    "bestPrice": "6219",
-    "unitPrice": "2073.00",
+    "regularPrice": "6282",
+    "bestPrice": "6282",
+    "unitPrice": "2094.00",
     "unitPriceUnit": "item",
     "historical": [
-      2057.67,
       2057.67,
       2094,
       2094,
@@ -184,9 +183,10 @@ var tableData = [
       2073,
       2073,
       2159.33,
-      2073
+      2073,
+      null
     ],
-    "lowestForDays": 11,
+    "lowestForDays": 0,
     "tags": [
       "濾水器"
     ]
@@ -232,7 +232,7 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      1887.67
+      null
     ],
     "lowestForDays": 0,
     "tags": [
