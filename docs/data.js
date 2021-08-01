@@ -4,14 +4,13 @@ var tableData = [
     "link": "https://www.amazon.co.jp/-/en/dp/B00200L8Q8",
     "name": "Kleinui CSP Series HGC9SW Water Filter Cartridge Replacement Pack of 2",
     "brandName": "三菱ケミカル・クリンスイ",
-    "storeName": "Amazon JP - ●onHOME オンホーム●",
+    "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "5108",
-    "bestPrice": "5108",
-    "unitPrice": "2554.00",
+    "regularPrice": "5200",
+    "bestPrice": "5200",
+    "unitPrice": "2600.00",
     "unitPriceUnit": "item",
     "historical": [
-      2564,
       2559,
       2559,
       2709,
@@ -40,9 +39,10 @@ var tableData = [
       2363.5,
       2554,
       2550,
-      null
+      2554,
+      2600
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 17,
     "tags": [
       "濾水器"
     ]
@@ -54,12 +54,11 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "2818",
+    "regularPrice": "2790",
     "bestPrice": "2790",
     "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
-      1409,
       1409,
       1409,
       1409,
@@ -88,7 +87,8 @@ var tableData = [
       1395,
       1395,
       1395,
-      null
+      1395,
+      1395
     ],
     "lowestForDays": 0,
     "tags": [
@@ -112,7 +112,6 @@ var tableData = [
       2326.67,
       2326.67,
       2326.67,
-      2326.67,
       3500,
       3500,
       3500,
@@ -136,7 +135,8 @@ var tableData = [
       3500,
       2326.67,
       2326.67,
-      null
+      2326.67,
+      2326.67
     ],
     "lowestForDays": 0,
     "tags": [
@@ -150,12 +150,11 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6282",
-    "bestPrice": "6282",
-    "unitPrice": "2094.00",
+    "regularPrice": "6219",
+    "bestPrice": "6219",
+    "unitPrice": "2073.00",
     "unitPriceUnit": "item",
     "historical": [
-      2057.67,
       2094,
       2094,
       2094,
@@ -184,9 +183,10 @@ var tableData = [
       2073,
       2159.33,
       2073,
-      null
+      2094,
+      2073
     ],
-    "lowestForDays": 0,
+    "lowestForDays": 13,
     "tags": [
       "濾水器"
     ]
@@ -232,7 +232,7 @@ var tableData = [
       1887.67,
       1887.67,
       1887.67,
-      null
+      1887.67
     ],
     "lowestForDays": 0,
     "tags": [
