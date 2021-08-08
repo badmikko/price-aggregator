@@ -7,6 +7,6 @@
 | Store Name      | Amazon JP - Amazon.co.jp                                                                          |
 | Purchasable     | true                                                                                              |
 | Regular Price   | 6219                                                                                              |
-| Best Price      | 6127                                                                                              |
-| Unit Price      | 2042.33                                                                                           |
+| Best Price      | 6126                                                                                              |
+| Unit Price      | 2042.00                                                                                           |
 | Unit Price Unit | item                                                                                              |

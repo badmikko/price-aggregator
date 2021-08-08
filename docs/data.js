@@ -15,7 +15,6 @@ var tableData = [
       2559,
       2559,
       2559,
-      2559,
       2709,
       2090,
       2709,
@@ -40,9 +39,10 @@ var tableData = [
       2554,
       2468,
       2468,
+      2468,
       2468
     ],
-    "lowestForDays": 23,
+    "lowestForDays": 24,
     "tags": [
       "濾水器"
     ]
@@ -59,7 +59,6 @@ var tableData = [
     "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
-      1395,
       1533,
       1395,
       1395,
@@ -85,6 +84,7 @@ var tableData = [
       1395,
       1550,
       1550,
+      1395,
       1395,
       1395,
       1395,
@@ -126,7 +126,7 @@ var tableData = [
       3500,
       3500,
       3500,
-      3500,
+      2326.67,
       2326.67,
       2326.67,
       2326.67,
@@ -151,11 +151,10 @@ var tableData = [
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
     "regularPrice": "6219",
-    "bestPrice": "6127",
-    "unitPrice": "2042.33",
+    "bestPrice": "6126",
+    "unitPrice": "2042.00",
     "unitPriceUnit": "item",
     "historical": [
-      2037,
       2037,
       2037,
       2037,
@@ -184,9 +183,10 @@ var tableData = [
       2094,
       2042.33,
       2042.33,
-      2042.33
+      2042.33,
+      2042
     ],
-    "lowestForDays": 19,
+    "lowestForDays": 20,
     "tags": [
       "濾水器"
     ]
