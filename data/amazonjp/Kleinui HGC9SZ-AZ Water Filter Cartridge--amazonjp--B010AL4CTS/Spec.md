@@ -6,7 +6,7 @@
 | Brand Name      | 三菱ケミカル・クリンスイ                                                                                      |
 | Store Name      | Amazon JP - Amazon.co.jp                                                                          |
 | Purchasable     | true                                                                                              |
-| Regular Price   | 6219                                                                                              |
-| Best Price      | 6127                                                                                              |
-| Unit Price      | 2042.33                                                                                           |
+| Regular Price   | 6282                                                                                              |
+| Best Price      | 6282                                                                                              |
+| Unit Price      | 2094.00                                                                                           |
 | Unit Price Unit | item                                                                                              |

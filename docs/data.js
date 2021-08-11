@@ -12,7 +12,6 @@ var tableData = [
     "unitPriceUnit": "item",
     "historical": [
       2559,
-      2559,
       2709,
       2090,
       2709,
@@ -40,9 +39,10 @@ var tableData = [
       2468,
       2468,
       2468,
+      2468,
       2468
     ],
-    "lowestForDays": 26,
+    "lowestForDays": 27,
     "tags": [
       "濾水器"
     ]
@@ -59,7 +59,6 @@ var tableData = [
     "unitPrice": "1395.00",
     "unitPriceUnit": "item",
     "historical": [
-      1395,
       1500,
       1395,
       1395,
@@ -82,6 +81,7 @@ var tableData = [
       1395,
       1550,
       1550,
+      1395,
       1395,
       1395,
       1395,
@@ -123,7 +123,7 @@ var tableData = [
       3500,
       3500,
       3500,
-      3500,
+      2326.67,
       2326.67,
       2326.67,
       2326.67,
@@ -150,12 +150,11 @@ var tableData = [
     "brandName": "三菱ケミカル・クリンスイ",
     "storeName": "Amazon JP - Amazon.co.jp",
     "purchasable": "true",
-    "regularPrice": "6219",
-    "bestPrice": "6127",
-    "unitPrice": "2042.33",
+    "regularPrice": "6282",
+    "bestPrice": "6282",
+    "unitPrice": "2094.00",
     "unitPriceUnit": "item",
     "historical": [
-      2037,
       2037,
       2037,
       2037,
@@ -184,9 +183,10 @@ var tableData = [
       2042.33,
       2042,
       2042.33,
-      2042.33
+      2042.33,
+      2094
     ],
-    "lowestForDays": 22,
+    "lowestForDays": 23,
     "tags": [
       "濾水器"
     ]
